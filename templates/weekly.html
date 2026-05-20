@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{# Context expected:
+     week_label     : str   "Week 21 · 2026"
+     period_str     : str   "May 18 – 22, 2026"
+     week_iso       : str   "2026-W21"
+     summary_html   : str|None   rendered markdown (safe HTML) or None
+     day_groups     : list  [{"date_formatted": str, "date_iso": str, "articles": [article, …]}, …]
+                            ordered chronologically desc (newest day first)
+     Each article dict: id, title, vendor, css_key, source, url,
+                        date, description, score, scraped_at
+#}
+
+{% block body %}
+<div class="container">
+  <header class="page-header">
+    <h1>{{ week_label }}</h1>
+    <div class="date-line">{{ period_str }}</div>
+  </header>
+
+  {% if summary_html %}
+  <div class="weekly-summary">
+    <h2>Editor's Summary</h2>
+    {{ summary_html | safe }}
+  </div>
+  {% endif %}
+
+  {% for day in day_groups %}
+    <div class="section-label">{{ day.date_formatted }}</div>
+
+    {% for article in day.articles %}
+    <div class="story">
+      <div class="vendor-bar {{ article.css_key }}"></div>
+      <div class="story-inner">
+        <div class="story-meta">
+          <span class="vendor-tag tag-{{ article.css_key }}">{{ article.vendor }}</span>
+          {% if article.category %}<span class="story-category">{{ article.category }}</span>{% endif %}
+        </div>
+        <h2>{{ article.title }}</h2>
+        <p>{{ article.description }}</p>
+        <a class="source-link" href="{{ article.url }}" target="_blank" rel="noopener">
+          {{ article.source }} ↗
+        </a>
+      </div>
+    </div>
+    {% endfor %}
+  {% endfor %}
+
+  <footer>
+    <p>prates.fyi · {{ week_label }} · {{ period_str }}</p>
+  </footer>
+</div>
+{% endblock %}

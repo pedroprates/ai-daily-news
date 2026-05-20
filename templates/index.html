@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+
+{# Context expected:
+     today_formatted : str   "Wednesday, May 20, 2026"
+     today_iso       : str   "2026-05-20"
+     today_groups    : list  [{"vendor": str, "articles": [article, …]}, …]
+                            vendor-grouped, ordered by group max score desc
+                            only articles with score >= 7 and date == today
+     week_articles   : list  flat list, top 10 of prior 6 days, score desc
+     Each article dict: id, title, vendor, css_key, source, url,
+                        date, description, score, scraped_at, category (optional)
+#}
+
+{% block body %}
+<div class="container">
+  <header class="page-header">
+    <h1>AI Daily Brief</h1>
+    <div class="date-line">{{ today_formatted }}</div>
+  </header>
+
+  <div class="index-grid">
+
+    {# ── Left: Today ──────────────────────────────────────────────────────── #}
+    <div class="today-col">
+      {% if today_groups %}
+        {% for group in today_groups %}
+          <div class="section-label">{{ group.vendor }}</div>
+
+          {% for article in group.articles %}
+          <div class="story">
+            <div class="vendor-bar {{ article.css_key }}"></div>
+            <div class="story-inner">
+              <div class="story-meta">
+                <span class="vendor-tag tag-{{ article.css_key }}">{{ article.vendor }}</span>
+                {% if article.category %}<span class="story-category">{{ article.category }}</span>{% endif %}
+              </div>
+              <h2>{{ article.title }}</h2>
+              <p>{{ article.description }}</p>
+              <a class="source-link" href="{{ article.url }}" target="_blank" rel="noopener">
+                {{ article.source }} ↗
+              </a>
+            </div>
+          </div>
+          {% endfor %}
+
+        {% endfor %}
+      {% else %}
+        <p style="color: var(--muted); margin-top: 8px;">No stories today yet.</p>
+      {% endif %}
+    </div>
+
+    {# ── Right: This Week (sticky sidebar) ────────────────────────────────── #}
+    {% if week_articles %}
+    <aside class="index-sidebar">
+      <div class="sidebar-header">This Week</div>
+
+      <div class="week-list">
+        {% for article in week_articles %}
+        <div class="story-compact {{ article.css_key }}">
+          <div class="compact-bar"></div>
+          <div class="compact-body">
+            <div class="compact-meta">
+              <span class="vendor-tag tag-{{ article.css_key }}">{{ article.vendor }}</span>
+              <span class="compact-date">{{ article.date | datefmt }}</span>
+            </div>
+            <h3><a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title }}</a></h3>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </aside>
+    {% endif %}
+
+  </div>{# /index-grid #}
+
+  <footer>
+    <p>prates.fyi · AI Daily Brief · {{ today_formatted }}</p>
+  </footer>
+</div>
+{% endblock %}

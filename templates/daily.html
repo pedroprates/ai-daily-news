@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+{# Context expected:
+     date_formatted : str   "Wednesday, May 20, 2026"
+     date_iso       : str   "2026-05-20"
+     article_groups : list  [{"vendor": str, "articles": [article, …]}, …]
+                            ordered by group's max score desc
+     Each article dict has: id, title, vendor, css_key, source, url,
+                            date, description, score, scraped_at
+#}
+
+{% block body %}
+<div class="container">
+  <header class="page-header">
+    <h1>AI Daily Brief</h1>
+    <div class="date-line">{{ date_formatted }}</div>
+  </header>
+
+  {% if article_groups %}
+    {% for group in article_groups %}
+      <div class="section-label">{{ group.vendor }}</div>
+
+      {% for article in group.articles %}
+      <div class="story">
+        <div class="vendor-bar {{ article.css_key }}"></div>
+        <div class="story-inner">
+          <div class="story-meta">
+            <span class="vendor-tag tag-{{ article.css_key }}">{{ article.vendor }}</span>
+            {% if article.category %}<span class="story-category">{{ article.category }}</span>{% endif %}
+          </div>
+          <h2>{{ article.title }}</h2>
+          <p>{{ article.description }}</p>
+          <a class="source-link" href="{{ article.url }}" target="_blank" rel="noopener">
+            {{ article.source }} ↗
+          </a>
+        </div>
+      </div>
+      {% endfor %}
+    {% endfor %}
+  {% else %}
+    <p style="color: var(--muted); margin-top: 24px;">No articles for this day.</p>
+  {% endif %}
+
+  <footer>
+    <p>prates.fyi · AI Daily Brief · {{ date_formatted }}</p>
+  </footer>
+</div>
+{% endblock %}
