@@ -21,7 +21,7 @@ def validate(file_path: str) -> None:
     jsonschema.validate(instance=data, schema=schema)
 
 
-def main()
+def main():
     # Standalone mode: python3 scripts/validate_staging.py <file>
     if sys.argv[1:]:
         failed = False
