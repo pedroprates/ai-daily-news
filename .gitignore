@@ -6,3 +6,6 @@ docs/superpowers/**
 
 # Pycache files
 **/__pycache__/*
+
+# Build output
+build/
