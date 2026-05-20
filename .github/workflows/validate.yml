@@ -8,4 +8,23 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "ok"
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # need parent commit to diff against
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Find changed JSON data files
+        id: changed
+        run: |
+          FILES=$(git diff --name-only HEAD~1 HEAD -- 'data/articles.json' 'data/staging/*.json' | tr '\n' ' ')
+          echo "files=$FILES" >> "$GITHUB_OUTPUT"
+
+      - name: Validate changed files
+        if: steps.changed.outputs.files != ''
+        run: python scripts/validate.py ${{ steps.changed.outputs.files }}
