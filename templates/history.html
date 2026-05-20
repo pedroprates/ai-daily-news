@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+
+{# Context expected:
+     month_groups : list  [{"month_label": str, "dates": [date, ...]}, ...]
+                          newest month first; dates within each month newest first
+#}
+
+{% block extra_head %}
+<style>
+  .masthead { margin-bottom: 40px; }
+  .masthead .label {
+    font-family: 'SF Mono','Fira Code',monospace;
+    font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase;
+    color: var(--amber); margin-bottom: 10px;
+  }
+  .masthead h1 { font-size: 28px; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 8px; }
+  .masthead .subtitle { color: var(--muted); font-size: 14px; }
+
+  .month-group { margin-bottom: 40px; }
+  .month-heading {
+    font-family: 'SF Mono','Fira Code',monospace;
+    font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--dim, #555e75); margin-bottom: 14px;
+    padding-bottom: 8px; border-bottom: 1px solid var(--border);
+  }
+  .date-list { list-style: none; }
+  .date-list li {
+    display: flex; align-items: center;
+    padding: 10px 0; border-bottom: 1px solid var(--surface2);
+  }
+  .date-list li:last-child { border-bottom: none; }
+  .date-list a {
+    color: var(--text); text-decoration: none; font-size: 15px;
+    transition: color 150ms; flex: 1;
+  }
+  .date-list a:hover { color: var(--amber); }
+  .date-list .iso {
+    font-family: 'SF Mono','Fira Code',monospace;
+    font-size: 12px; color: var(--dim, #555e75); margin-left: 16px;
+  }
+</style>
+{% endblock %}
+
+{% block body %}
+<div class="container">
+  <div class="masthead">
+    <div class="label">AI Daily Brief</div>
+    <h1>Archive</h1>
+    <div class="subtitle">All published briefings, newest first</div>
+  </div>
+
+  {% for group in month_groups %}
+  <div class="month-group">
+    <div class="month-heading">{{ group.month_label }}</div>
+    <ul class="date-list">
+      {% for d in group.dates %}
+      <li>
+        <a href="/{{ d.isoformat() }}.html">{{ d.strftime("%A, %B %-d, %Y") }}</a>
+        <span class="iso">{{ d.isoformat() }}</span>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
+
+  <footer>
+    <p>prates.fyi · AI Daily Brief · Archive</p>
+  </footer>
+</div>
+{% endblock %}
