@@ -1,0 +1,69 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "articles.json",
+  "description": "Master article list for prates.fyi",
+  "type": "object",
+  "required": ["version", "updated_at", "articles"],
+  "additionalProperties": false,
+  "properties": {
+    "version": {
+      "type": "integer",
+      "const": 1
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "articles": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/article" }
+    }
+  },
+  "$defs": {
+    "article": {
+      "type": "object",
+      "required": ["id", "title", "vendor", "source", "url", "date", "description", "score", "scraped_at"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{16}$",
+          "description": "sha256(url)[:16]"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "vendor": {
+          "type": "string",
+          "enum": ["Anthropic", "OpenAI", "Google", "xAI", "Cursor", "Microsoft", "Apple", "Meta", "Industry"]
+        },
+        "source": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "date": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+        },
+        "description": {
+          "type": "string",
+          "minLength": 1
+        },
+        "score": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 10
+        },
+        "scraped_at": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+        }
+      }
+    }
+  }
+}
