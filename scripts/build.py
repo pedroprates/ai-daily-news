@@ -19,7 +19,7 @@ DEFAULT_BUILD_DIR = REPO_ROOT / "build"
 
 
 def run(
-    today: date = None,
+    today: date | None = None,
     build_dir: Path = DEFAULT_BUILD_DIR,
     bucket: str = deploy_module.DEFAULT_BUCKET,
 ) -> None:

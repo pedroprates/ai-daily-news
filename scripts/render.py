@@ -113,7 +113,7 @@ def copy_static(output_dir: Path) -> None:
     shutil.copytree(str(STATIC_DIR), str(dest))
 
 
-def render(today: date = None, output_dir: Path = DEFAULT_BUILD_DIR) -> None:
+def render(today: date | None = None, output_dir: Path = DEFAULT_BUILD_DIR) -> None:
     if today is None:
         today = date.today()
     output_dir.mkdir(parents=True, exist_ok=True)
