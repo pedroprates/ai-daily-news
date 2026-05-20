@@ -1,0 +1,261 @@
+/* prates.fyi – shared stylesheet
+   Design tokens: keep in sync with scripts/constants.py */
+
+:root {
+  --bg:       #0c0e14;
+  --surface:  #131720;
+  --surface2: #1a1f2e;
+  --border:   #252b3b;
+  --text:     #dde2f0;
+  --muted:    #8892aa;
+  --dim:      #555e75;
+  --amber:    #f5a623;
+  --green:    #34d399;
+  --red:      #f87171;
+  --blue:     #60a5fa;
+
+  /* Vendor accent colors */
+  --c-anthropic: #c96442;
+  --c-openai:    #10a37f;
+  --c-google:    #4285f4;
+  --c-xai:       #9b59b6;
+  --c-cursor:    #06b6d4;
+  --c-microsoft: #00a4ef;
+  --c-apple:     #a8b0bf;
+  --c-meta:      #0866ff;
+  --c-industry:  #f5a623;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, 'Inter', 'Segoe UI', sans-serif;
+  font-size: 15px;
+  line-height: 1.65;
+}
+
+/* ── Nav ──────────────────────────────────────────────────────────────────── */
+nav.site-nav {
+  position: sticky; top: 0; z-index: 10;
+  background: rgba(12,14,20,0.88);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--border);
+  padding: 14px 24px;
+  font-family: 'SF Mono','Fira Code',monospace;
+  font-size: 13px;
+}
+nav.site-nav .inner {
+  max-width: 1040px; margin: 0 auto;
+  display: flex; gap: 20px; align-items: center;
+}
+nav.site-nav a {
+  color: var(--muted); text-decoration: none;
+  padding: 4px 10px; border-radius: 4px;
+  transition: color 150ms, background 150ms;
+}
+nav.site-nav a:hover        { color: var(--amber); background: var(--surface); }
+nav.site-nav a.active       { color: var(--text); }
+nav.site-nav .sep           { color: var(--dim); user-select: none; }
+
+/* ── Layout ───────────────────────────────────────────────────────────────── */
+.container {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 40px 24px 80px;
+}
+
+.page-header               { margin-bottom: 40px; }
+.page-header h1            { font-size: 26px; font-weight: 700; color: var(--text); letter-spacing: -0.3px; }
+.page-header .date-line    {
+  margin-top: 6px;
+  font-family: 'SF Mono','Fira Code',monospace;
+  font-size: 12px; color: var(--muted);
+  text-transform: uppercase; letter-spacing: 0.08em;
+}
+
+/* ── Section label ────────────────────────────────────────────────────────── */
+.section-label {
+  font-family: 'SF Mono','Fira Code',monospace;
+  font-size: 11px; color: var(--dim);
+  text-transform: uppercase; letter-spacing: 0.12em;
+  margin: 36px 0 14px;
+  display: flex; align-items: center; gap: 10px;
+}
+.section-label::after {
+  content: '';
+  flex: 1; height: 1px; background: var(--border);
+}
+
+/* ── Story card ───────────────────────────────────────────────────────────── */
+.story {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  margin-bottom: 18px;
+  overflow: hidden;
+}
+.story-inner        { padding: 20px 22px; }
+
+.story h2 {
+  font-size: 17px; font-weight: 650;
+  color: var(--text); margin-bottom: 8px; line-height: 1.4;
+}
+.story p {
+  font-size: 14px; color: var(--muted); line-height: 1.7;
+}
+.story a.source-link {
+  display: inline-block; margin-top: 12px;
+  font-family: 'SF Mono','Fira Code',monospace; font-size: 11px;
+  color: var(--dim); text-decoration: none;
+  border: 1px solid var(--border); padding: 4px 10px; border-radius: 4px;
+  transition: color 150ms, border-color 150ms;
+}
+.story a.source-link:hover { color: var(--amber); border-color: var(--amber); }
+
+/* ── Story meta (vendor tag + category) ──────────────────────────────────── */
+.story-meta {
+  display: flex; align-items: center; gap: 10px; margin-bottom: 10px;
+}
+.vendor-tag {
+  font-family: 'SF Mono','Fira Code',monospace;
+  font-size: 10px; font-weight: 600;
+  text-transform: uppercase; letter-spacing: 0.1em;
+  padding: 3px 8px; border-radius: 4px;
+}
+.story-category {
+  font-family: 'SF Mono','Fira Code',monospace;
+  font-size: 10px; color: var(--dim);
+  text-transform: uppercase; letter-spacing: 0.08em;
+}
+
+/* ── Vendor accent bar (top of card) ─────────────────────────────────────── */
+.vendor-bar { height: 3px; }
+
+.vendor-bar.anthropic, .tag-anthropic { --vc: var(--c-anthropic); }
+.vendor-bar.openai,    .tag-openai    { --vc: var(--c-openai); }
+.vendor-bar.google,    .tag-google    { --vc: var(--c-google); }
+.vendor-bar.xai,       .tag-xai       { --vc: var(--c-xai); }
+.vendor-bar.cursor,    .tag-cursor    { --vc: var(--c-cursor); }
+.vendor-bar.microsoft, .tag-microsoft { --vc: var(--c-microsoft); }
+.vendor-bar.apple,     .tag-apple     { --vc: var(--c-apple); }
+.vendor-bar.meta,      .tag-meta      { --vc: var(--c-meta); }
+.vendor-bar.industry,  .tag-industry  { --vc: var(--c-industry); }
+
+.vendor-bar  { background: var(--vc); }
+.vendor-tag  { background: color-mix(in srgb, var(--vc) 18%, transparent); color: var(--vc); }
+
+/* ── Compact story row (This Week section on index) ──────────────────────── */
+.story-compact {
+  display: flex; align-items: flex-start; gap: 12px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--border);
+}
+.story-compact:last-child { border-bottom: none; }
+
+.story-compact .compact-bar {
+  width: 3px; flex-shrink: 0;
+  align-self: stretch; border-radius: 2px;
+  background: var(--vc);
+}
+.story-compact .compact-body { flex: 1; min-width: 0; }
+.story-compact .compact-meta {
+  display: flex; align-items: center; gap: 8px; margin-bottom: 4px;
+}
+.story-compact h3 {
+  font-size: 14px; font-weight: 600;
+  color: var(--text); line-height: 1.4;
+}
+.story-compact h3 a {
+  color: inherit; text-decoration: none;
+}
+.story-compact h3 a:hover { color: var(--amber); }
+.story-compact .compact-date {
+  font-family: 'SF Mono','Fira Code',monospace;
+  font-size: 10px; color: var(--dim);
+}
+
+/* ── Sidebar header (used on index "This Week") ──────────────────────────── */
+.sidebar-header {
+  font-family: 'SF Mono','Fira Code',monospace;
+  font-size: 11px; color: var(--dim);
+  text-transform: uppercase; letter-spacing: 0.12em;
+  margin-bottom: 14px;
+  display: flex; align-items: center; gap: 10px;
+}
+.sidebar-header::after {
+  content: '';
+  flex: 1; height: 1px; background: var(--border);
+}
+
+/* ── Week section container (used on index for "This Week") ──────────────── */
+.week-list {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 2px 14px 6px;
+}
+
+/* ── Two-column index layout (Option B) ──────────────────────────────────── */
+.index-grid {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 36px;
+  align-items: start;
+}
+.index-sidebar {
+  position: sticky;
+  top: 70px;
+}
+@media (max-width: 720px) {
+  .index-grid {
+    grid-template-columns: 1fr;
+  }
+  .index-sidebar { position: static; }
+}
+
+/* ── Weekly summary block ─────────────────────────────────────────────────── */
+.weekly-summary {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 24px 26px;
+  margin-bottom: 32px;
+}
+.weekly-summary h2    { font-size: 16px; font-weight: 650; color: var(--text); margin-bottom: 12px; }
+.weekly-summary p     { font-size: 14px; color: var(--muted); line-height: 1.75; }
+.weekly-summary p + p { margin-top: 10px; }
+
+/* ── Archive index list ───────────────────────────────────────────────────── */
+.archive-month    { margin-bottom: 32px; }
+.archive-month h2 {
+  font-family: 'SF Mono','Fira Code',monospace;
+  font-size: 12px; color: var(--muted);
+  text-transform: uppercase; letter-spacing: 0.1em;
+  margin-bottom: 10px;
+}
+.archive-day {
+  display: flex; align-items: baseline; gap: 16px;
+  padding: 9px 0; border-bottom: 1px solid var(--border);
+}
+.archive-day:last-child { border-bottom: none; }
+.archive-day a {
+  font-family: 'SF Mono','Fira Code',monospace;
+  font-size: 13px; color: var(--muted); text-decoration: none;
+}
+.archive-day a:hover { color: var(--amber); }
+.archive-day .count {
+  font-family: 'SF Mono','Fira Code',monospace;
+  font-size: 11px; color: var(--dim);
+}
+
+/* ── Footer ───────────────────────────────────────────────────────────────── */
+footer {
+  margin-top: 60px; padding-top: 24px;
+  border-top: 1px solid var(--border);
+  font-family: 'SF Mono','Fira Code',monospace;
+  font-size: 11px; color: var(--dim);
+  text-align: center;
+}
