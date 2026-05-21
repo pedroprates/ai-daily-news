@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+
+{# Context expected:
+     week_rows : list  newest first, each dict:
+       week_iso      : str   "2026-W21"
+       week_label    : str   "Week 21 · 2026"
+       period_str    : str   "May 18 – 22"
+       article_count : int   47
+       is_current    : bool
+#}
+
+{% block extra_head %}
+<style>
+  .wi-masthead { margin-bottom: 40px; }
+  .wi-eyebrow {
+    font-family: 'SF Mono','Fira Code',monospace;
+    font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase;
+    color: var(--amber); margin-bottom: 10px;
+  }
+  .wi-masthead h1 {
+    font-size: 28px; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 8px;
+  }
+  .wi-subtitle { color: var(--muted); font-size: 14px; }
+
+  .wi-row {
+    display: flex; align-items: baseline; gap: 16px;
+    padding: 12px 0; border-bottom: 1px solid var(--border);
+  }
+  .wi-row:last-child { border-bottom: none; }
+  .wi-week-link {
+    flex: 1; font-size: 15px; font-weight: 600;
+    color: var(--text); text-decoration: none;
+  }
+  .wi-week-link:hover { color: var(--amber); }
+  .wi-period {
+    font-family: 'SF Mono','Fira Code',monospace; font-size: 12px; color: var(--muted);
+  }
+  .wi-count {
+    font-family: 'SF Mono','Fira Code',monospace; font-size: 11px; color: var(--dim);
+  }
+  .wi-badge {
+    font-family: 'SF Mono','Fira Code',monospace; font-size: 10px;
+    color: var(--amber);
+    background: color-mix(in srgb, var(--amber) 12%, transparent);
+    padding: 2px 7px; border-radius: 4px;
+  }
+</style>
+{% endblock %}
+
+{% block body %}
+<div class="container">
+  <div class="wi-masthead">
+    <div class="wi-eyebrow">AI Daily Brief</div>
+    <h1>Weekly Archive</h1>
+    <div class="wi-subtitle">All published weekly briefs, newest first</div>
+  </div>
+
+  {% for row in week_rows %}
+  <div class="wi-row">
+    <a class="wi-week-link" href="/weekly/{{ row.week_iso }}/">{{ row.week_label }}</a>
+    <span class="wi-period">{{ row.period_str }}</span>
+    <span class="wi-count">{{ row.article_count }} articles</span>
+    {% if row.is_current %}<span class="wi-badge">current</span>{% endif %}
+  </div>
+  {% endfor %}
+
+  <footer>
+    <p>prates.fyi · AI Daily Brief · Weekly Archive</p>
+  </footer>
+</div>
+{% endblock %}
