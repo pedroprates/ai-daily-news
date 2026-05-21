@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="imgs/logo.png" alt="AI Daily News logo" width="120" />
+  <img src="imgs/logo.png" alt="AI Daily News logo" width="420" />
 </p>
-
-<h1 align="center">AI Daily News</h1>
 
 <p align="center">
   A daily digest of what matters in AI — researched by Claude, published automatically to <a href="https://prates.fyi">prates.fyi</a>.
@@ -14,11 +12,17 @@
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
 </p>
 
----
+# AI Daily News
 
 ## What is this?
 
-**AI Daily News** is a fully automated static news site. Every weekday morning a Claude routine scrapes AI news sources, scores each article 0–10 by relevance, and commits a staging JSON file to this repo. GitHub Actions then validates, ingests, and renders the site — no human in the loop.
+Honestly? I just wanted something to read over breakfast on a tablet. A clean page with the AI news that actually matters, no algorithmic feed, no noise.
+
+So I set up a Claude routine to scrape and summarize news every morning. That worked fine — until Claude started drifting: different layouts, extra sections, experimental HTML. One day it's a clean digest, the next it's a full redesign. Not what I wanted at 7am with coffee.
+
+So I split the responsibilities: Claude handles the research, git handles the history, and GitHub Actions handles the rendering and deploy. Nobody improvises.
+
+**AI Daily News** is now a fully automated static news site. Every weekday morning a Claude routine scrapes AI news sources, scores each article 0–10 by relevance, and commits a staging JSON file to this repo. GitHub Actions validates, ingests, and renders the site — no human in the loop, no creative liberties.
 
 The repo is also the archive. Every scrape is a git commit, so the full history of what the AI field looked like, day by day, is permanently auditable.
 
