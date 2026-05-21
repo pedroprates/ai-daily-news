@@ -15,6 +15,7 @@ from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader
 
+import markdown as md_lib
 import constants
 
 REPO_ROOT = Path(__file__).parent.parent
@@ -22,6 +23,7 @@ ARTICLES_PATH = REPO_ROOT / "data" / "articles.json"
 TEMPLATES_DIR = REPO_ROOT / "templates"
 STATIC_DIR = REPO_ROOT / "static"
 DEFAULT_BUILD_DIR = REPO_ROOT / "build"
+SUMMARIES_DIR = REPO_ROOT / "data" / "summaries"
 
 
 def load_articles(path: Path) -> list:
@@ -75,6 +77,73 @@ def weeks_from_articles(articles: list) -> list[str]:
         cal = date.fromisoformat(a["date"]).isocalendar()
         weeks.add(f"{cal.year}-W{cal.week:02d}")
     return sorted(weeks)
+
+
+def group_by_day(articles: list) -> list:
+    days: dict = {}
+    for a in articles:
+        days.setdefault(a["date"], []).append(a)
+    return sorted(
+        [
+            {
+                "date_iso": d,
+                "date_formatted": date.fromisoformat(d).strftime("%A, %B %-d, %Y"),
+                "articles": sorted(arts, key=lambda a: -a["score"]),
+            }
+            for d, arts in days.items()
+        ],
+        key=lambda g: g["date_iso"],
+        reverse=True,
+    )
+
+
+def _week_dates(week_iso: str) -> tuple:
+    year, week = int(week_iso[:4]), int(week_iso[6:])
+    return date.fromisocalendar(year, week, 1), date.fromisocalendar(year, week, 5)
+
+
+def _period_str(monday: date, friday: date, include_year: bool = False) -> str:
+    if monday.month == friday.month:
+        base = f"{monday.strftime('%b %-d')} – {friday.strftime('%-d')}"
+    else:
+        base = f"{monday.strftime('%b %-d')} – {friday.strftime('%b %-d')}"
+    return f"{base}, {monday.year}" if include_year else base
+
+
+def render_weekly_week(
+    env: Environment,
+    week_iso: str,
+    articles: list,
+    output_dir: Path,
+    summaries_dir: Path | None = None,
+) -> None:
+    if summaries_dir is None:
+        summaries_dir = SUMMARIES_DIR
+
+    year, week_num = int(week_iso[:4]), int(week_iso[6:])
+    week_articles = []
+    for a in articles:
+        cal = date.fromisoformat(a["date"]).isocalendar()
+        if cal.year == year and cal.week == week_num:
+            week_articles.append(a)
+
+    monday, friday = _week_dates(week_iso)
+    summary_path = summaries_dir / f"{week_iso}.md"
+    summary_html = None
+    if summary_path.exists():
+        summary_html = md_lib.markdown(summary_path.read_text())
+
+    html = env.get_template("weekly.html").render(
+        nav_active="weekly",
+        week_label=f"Week {week_num} · {year}",
+        period_str=_period_str(monday, friday, include_year=True),
+        week_iso=week_iso,
+        summary_html=summary_html,
+        day_groups=group_by_day(week_articles),
+    )
+    out = output_dir / "weekly" / week_iso
+    out.mkdir(parents=True, exist_ok=True)
+    (out / "index.html").write_text(html)
 
 
 def build_jinja_env() -> Environment:
