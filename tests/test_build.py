@@ -11,7 +11,7 @@ def test_build_calls_render_history_deploy(tmp_path):
          patch("build.deploy_module.deploy") as mock_deploy:
         build.run(today=today, build_dir=tmp_path, bucket="test-bucket")
 
-    mock_render.assert_called_once_with(today=today, output_dir=tmp_path)
+    mock_render.assert_called_once_with(today=today, output_dir=tmp_path, weekly_only=False)
     mock_history.assert_called_once_with(today=today, bucket="test-bucket", output_dir=tmp_path)
     mock_deploy.assert_called_once_with(build_dir=tmp_path, bucket="test-bucket")
 

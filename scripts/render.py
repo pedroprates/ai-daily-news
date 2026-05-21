@@ -227,14 +227,22 @@ def copy_static(output_dir: Path) -> None:
     shutil.copytree(str(STATIC_DIR), str(dest))
 
 
-def render(today: date | None = None, output_dir: Path = DEFAULT_BUILD_DIR) -> None:
+def render(
+    today: date | None = None,
+    output_dir: Path = DEFAULT_BUILD_DIR,
+    weekly_only: bool = False,
+    articles_path: Path | None = None,
+) -> None:
     if today is None:
         today = date.today()
+    if articles_path is None:
+        articles_path = ARTICLES_PATH
     output_dir.mkdir(parents=True, exist_ok=True)
-    articles = load_articles(ARTICLES_PATH)
+    articles = load_articles(articles_path)
     env = build_jinja_env()
-    render_index(env, today, articles, output_dir)
-    render_daily(env, today, articles, output_dir)
+    if not weekly_only:
+        render_index(env, today, articles, output_dir)
+        render_daily(env, today, articles, output_dir)
     render_weekly_index(env, articles, output_dir, today)
     for week_iso in weeks_from_articles(articles):
         render_weekly_week(env, week_iso, articles, output_dir)
@@ -246,10 +254,11 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Render articles.json → HTML")
     parser.add_argument("--date", help="Build date YYYY-MM-DD (default: today)")
     parser.add_argument("--output-dir", default=str(DEFAULT_BUILD_DIR))
+    parser.add_argument("--weekly-only", action="store_true", help="Skip homepage and daily archive; render weekly pages only")
     args = parser.parse_args()
 
     today = date.fromisoformat(args.date) if args.date else date.today()
-    render(today=today, output_dir=Path(args.output_dir))
+    render(today=today, output_dir=Path(args.output_dir), weekly_only=args.weekly_only)
 
 
 if __name__ == "__main__":

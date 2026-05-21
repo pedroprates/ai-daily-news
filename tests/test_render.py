@@ -1,3 +1,4 @@
+import json
 from datetime import date
 
 import pytest
@@ -10,6 +11,7 @@ from render import (
     filter_week_articles,
     group_by_day,
     group_by_vendor,
+    render,
     render_weekly_index,
     render_weekly_week,
     weeks_from_articles,
@@ -262,3 +264,47 @@ def test_render_weekly_index_shows_article_count(tmp_path, sample_article):
     render_weekly_index(env, [article], tmp_path, date(2026, 5, 20))
     html = (tmp_path / "weekly" / "index.html").read_text()
     assert "1 articles" in html
+
+
+# ── render weekly_only flag ───────────────────────────────────────────────────
+
+def _make_articles_json(path, articles):
+    path.write_text(json.dumps({"articles": articles}))
+
+
+def test_weekly_only_skips_index_html(tmp_path, sample_article):
+    article = {**sample_article, "date": "2026-05-20", "scraped_at": "2026-05-20", "css_key": "anthropic"}
+    articles_path = tmp_path / "articles.json"
+    _make_articles_json(articles_path, [article])
+    build_dir = tmp_path / "build"
+    render(today=date(2026, 5, 20), output_dir=build_dir, weekly_only=True, articles_path=articles_path)
+    assert not (build_dir / "index.html").exists()
+
+
+def test_weekly_only_skips_daily_archive(tmp_path, sample_article):
+    article = {**sample_article, "date": "2026-05-20", "scraped_at": "2026-05-20", "css_key": "anthropic"}
+    articles_path = tmp_path / "articles.json"
+    _make_articles_json(articles_path, [article])
+    build_dir = tmp_path / "build"
+    render(today=date(2026, 5, 20), output_dir=build_dir, weekly_only=True, articles_path=articles_path)
+    assert not (build_dir / "2026-05-20.html").exists()
+
+
+def test_weekly_only_still_renders_weekly_pages(tmp_path, sample_article):
+    article = {**sample_article, "date": "2026-05-20", "scraped_at": "2026-05-20", "css_key": "anthropic"}
+    articles_path = tmp_path / "articles.json"
+    _make_articles_json(articles_path, [article])
+    build_dir = tmp_path / "build"
+    render(today=date(2026, 5, 20), output_dir=build_dir, weekly_only=True, articles_path=articles_path)
+    assert (build_dir / "weekly" / "index.html").exists()
+    assert (build_dir / "weekly" / "2026-W21" / "index.html").exists()
+
+
+def test_full_render_creates_index_and_daily(tmp_path, sample_article):
+    article = {**sample_article, "date": "2026-05-20", "scraped_at": "2026-05-20", "css_key": "anthropic"}
+    articles_path = tmp_path / "articles.json"
+    _make_articles_json(articles_path, [article])
+    build_dir = tmp_path / "build"
+    render(today=date(2026, 5, 20), output_dir=build_dir, weekly_only=False, articles_path=articles_path)
+    assert (build_dir / "index.html").exists()
+    assert (build_dir / "2026-05-20.html").exists()
