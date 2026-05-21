@@ -10,7 +10,7 @@ JSON is the source of truth. The Claude routine's only job is to research AI new
 
 Routine prompts live in `prompt/` and are version-controlled here. The Claude.ai Routines UI contains only a thin pointer: *"Read `prompt/daily.md` from this repository and execute it exactly."* Updating a prompt is a git commit, not a change to the Routine settings.
 
-Full design rationale: `docs/architecture.md`. First-time setup: `docs/setup.md`.
+Full design rationale: `docs/architecture.md`.
 
 ## Project layout
 
@@ -45,8 +45,7 @@ Full design rationale: `docs/architecture.md`. First-time setup: `docs/setup.md`
 │       └── deploy.yml         # Triggers on data/articles.json → render + S3 + CloudFront
 ├── build/                     # Render output (gitignored)
 └── docs/
-    ├── architecture.md
-    └── setup.md
+    └── architecture.md
 ```
 
 ## Key conventions
