@@ -8,6 +8,7 @@ from render import (
     filter_today_articles,
     filter_week_articles,
     group_by_vendor,
+    weeks_from_articles,
 )
 
 
@@ -117,3 +118,23 @@ def test_group_by_vendor_structure(article_today):
 def test_datefmt_strips_leading_zero():
     assert datefmt("2026-05-20") == "May 20"
     assert datefmt("2026-01-01") == "Jan 1"
+
+
+# ── weeks_from_articles ───────────────────────────────────────────────────────
+
+def test_weeks_from_articles_returns_sorted_iso_weeks():
+    articles = [
+        {"date": "2026-05-20"},  # W21
+        {"date": "2026-05-18"},  # W21
+        {"date": "2026-05-11"},  # W20
+    ]
+    assert weeks_from_articles(articles) == ["2026-W20", "2026-W21"]
+
+
+def test_weeks_from_articles_deduplicates():
+    articles = [{"date": "2026-05-20"}, {"date": "2026-05-21"}]
+    assert weeks_from_articles(articles) == ["2026-W21"]
+
+
+def test_weeks_from_articles_empty():
+    assert weeks_from_articles([]) == []

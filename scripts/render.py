@@ -69,6 +69,14 @@ def group_by_vendor(articles: list) -> list:
     )
 
 
+def weeks_from_articles(articles: list) -> list[str]:
+    weeks: set[str] = set()
+    for a in articles:
+        cal = date.fromisoformat(a["date"]).isocalendar()
+        weeks.add(f"{cal.year}-W{cal.week:02d}")
+    return sorted(weeks)
+
+
 def build_jinja_env() -> Environment:
     env = Environment(
         loader=FileSystemLoader(str(TEMPLATES_DIR)),
