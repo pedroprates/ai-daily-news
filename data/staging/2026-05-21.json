@@ -1,0 +1,68 @@
+[
+  {
+    "id": "5df700a9f389ee77",
+    "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/anthropic-kpmg",
+    "date": "2026-05-19",
+    "description": "KPMG announced a global strategic alliance with Anthropic, embedding Claude inside Digital Gateway — the software KPMG's people and clients use for tax and legal work. All 276,000+ KPMG employees worldwide will gain access to Claude, and the two companies will jointly build new Claude-powered products for private equity portfolio companies.",
+    "score": 8,
+    "scraped_at": "2026-05-21"
+  },
+  {
+    "id": "7708d4e1b8241c35",
+    "title": "Anthropic acquires Stainless",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+    "date": "2026-05-18",
+    "description": "Anthropic acquired Stainless, a developer-tools startup specializing in SDK generation and MCP server tooling, for more than $300 million. Stainless had been backed by Sequoia Capital and Andreessen Horowitz, and its tooling was already used by OpenAI, Google, and Cloudflare. The acquisition deepens Anthropic's investment in the developer ecosystem around Claude.",
+    "score": 8,
+    "scraped_at": "2026-05-21"
+  },
+  {
+    "id": "4a3e14718d8c6ffb",
+    "title": "OpenAI Commits $234 Million for New AI Lab in Singapore",
+    "vendor": "OpenAI",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-20/openai-commits-234-million-for-new-ai-lab-in-singapore",
+    "date": "2026-05-20",
+    "description": "OpenAI announced a $234 million commitment to establish its first applied AI lab outside the United States, in partnership with the Singaporean government. The lab will focus on applied research and local AI development. The move is part of OpenAI's broader international expansion strategy.",
+    "score": 8,
+    "scraped_at": "2026-05-21"
+  },
+  {
+    "id": "b425a00c458ab22e",
+    "title": "Five takeaways from Nvidia's earnings, and what they mean for the AI industry",
+    "vendor": "Industry",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/05/21/five-takeaways-nvidias-earnings-mean-ai-industry/",
+    "date": "2026-05-21",
+    "description": "Nvidia reported record Q1 FY2027 revenue of $81.6 billion, up 85% year-over-year, with data center revenue surging 92% to $75.2 billion. CEO Jensen Huang described AI demand as \"parabolic\" as Blackwell systems ramped across hyperscalers and cloud customers. The company also approved an $80 billion share buyback and raised its quarterly dividend 25x, signaling strong confidence in sustained AI infrastructure spending.",
+    "score": 9,
+    "scraped_at": "2026-05-21"
+  },
+  {
+    "id": "f7e20b0db095e4f2",
+    "title": "Intuit to lay off over 3,000 employees to refocus on AI",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+    "date": "2026-05-20",
+    "description": "Intuit announced it will cut more than 3,000 employees — roughly 17% of its workforce — as the company redirects resources toward AI integration across its financial software products. The layoffs follow a broader industry trend of established software companies restructuring headcount to fund AI-first product strategies.",
+    "score": 7,
+    "scraped_at": "2026-05-21"
+  },
+  {
+    "id": "dea9fb3822d17d57",
+    "title": "Trump delays AI security executive order: 'I don't want to get in the way of that leading'",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+    "date": "2026-05-21",
+    "description": "President Trump has delayed signing an executive order that would have required AI developers to give the US government early access to models for security evaluation before release. Trump cited a desire not to impede US AI leadership as his reason for the delay. The postponement comes despite Google, Microsoft, xAI, OpenAI, and Anthropic having already agreed to participate in the pre-release review program.",
+    "score": 6,
+    "scraped_at": "2026-05-21"
+  }
+]
