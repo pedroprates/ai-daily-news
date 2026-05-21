@@ -3,6 +3,7 @@
 
 # Plan files
 docs/superpowers/**
+.superpowers/**
 
 # Pycache files
 **/__pycache__/*
