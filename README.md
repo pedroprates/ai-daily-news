@@ -163,13 +163,6 @@ External contributions are welcome for anything except the raw article data (tha
 
 ---
 
-## Architecture & setup docs
-
-- [`docs/architecture.md`](docs/architecture.md) — full design rationale, ADRs, and pipeline details
-- [`docs/setup.md`](docs/setup.md) — first-time AWS + GitHub setup guide
-
----
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
