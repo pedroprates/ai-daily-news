@@ -9,3 +9,7 @@ docs/superpowers/**
 
 # Build output
 build/
+
+# Local backups
+bkp/
+backup.sh
