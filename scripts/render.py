@@ -146,6 +146,43 @@ def render_weekly_week(
     (out / "index.html").write_text(html)
 
 
+def render_weekly_index(
+    env: Environment,
+    articles: list,
+    output_dir: Path,
+    today: date,
+) -> None:
+    today_cal = today.isocalendar()
+    today_week_iso = f"{today_cal.year}-W{today_cal.week:02d}"
+
+    week_rows = []
+    for week_iso in reversed(weeks_from_articles(articles)):
+        year, week_num = int(week_iso[:4]), int(week_iso[6:])
+        monday, friday = _week_dates(week_iso)
+
+        week_articles = []
+        for a in articles:
+            cal = date.fromisoformat(a["date"]).isocalendar()
+            if cal.year == year and cal.week == week_num:
+                week_articles.append(a)
+
+        week_rows.append({
+            "week_iso": week_iso,
+            "week_label": f"Week {week_num} · {year}",
+            "period_str": _period_str(monday, friday),
+            "article_count": len(week_articles),
+            "is_current": week_iso == today_week_iso,
+        })
+
+    html = env.get_template("weekly_index.html").render(
+        nav_active="weekly",
+        week_rows=week_rows,
+    )
+    out = output_dir / "weekly"
+    out.mkdir(parents=True, exist_ok=True)
+    (out / "index.html").write_text(html)
+
+
 def build_jinja_env() -> Environment:
     env = Environment(
         loader=FileSystemLoader(str(TEMPLATES_DIR)),

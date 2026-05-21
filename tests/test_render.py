@@ -10,6 +10,7 @@ from render import (
     filter_week_articles,
     group_by_day,
     group_by_vendor,
+    render_weekly_index,
     render_weekly_week,
     weeks_from_articles,
 )
@@ -219,3 +220,45 @@ def test_render_weekly_week_filters_to_correct_week(tmp_path, sample_article):
     html = (tmp_path / "weekly" / "2026-W21" / "index.html").read_text()
     assert "In W21" in html
     assert "In W20" not in html
+
+
+# ── render_weekly_index ───────────────────────────────────────────────────────
+
+def test_render_weekly_index_creates_file(tmp_path, sample_article):
+    article = {**sample_article, "date": "2026-05-20", "css_key": "anthropic"}
+    env = build_jinja_env()
+    render_weekly_index(env, [article], tmp_path, date(2026, 5, 20))
+    assert (tmp_path / "weekly" / "index.html").exists()
+
+
+def test_render_weekly_index_contains_week_link(tmp_path, sample_article):
+    article = {**sample_article, "date": "2026-05-20", "css_key": "anthropic"}
+    env = build_jinja_env()
+    render_weekly_index(env, [article], tmp_path, date(2026, 5, 20))
+    html = (tmp_path / "weekly" / "index.html").read_text()
+    assert "/weekly/2026-W21/" in html
+
+
+def test_render_weekly_index_marks_current_week(tmp_path, sample_article):
+    article = {**sample_article, "date": "2026-05-20", "css_key": "anthropic"}
+    env = build_jinja_env()
+    render_weekly_index(env, [article], tmp_path, date(2026, 5, 20))
+    html = (tmp_path / "weekly" / "index.html").read_text()
+    assert "current" in html
+
+
+def test_render_weekly_index_lists_multiple_weeks_newest_first(tmp_path, sample_article):
+    a1 = {**sample_article, "date": "2026-05-20", "css_key": "anthropic"}
+    a2 = {**sample_article, "id": "b" * 16, "date": "2026-05-11", "css_key": "anthropic"}
+    env = build_jinja_env()
+    render_weekly_index(env, [a1, a2], tmp_path, date(2026, 5, 20))
+    html = (tmp_path / "weekly" / "index.html").read_text()
+    assert html.find("2026-W21") < html.find("2026-W20")
+
+
+def test_render_weekly_index_shows_article_count(tmp_path, sample_article):
+    article = {**sample_article, "date": "2026-05-20", "css_key": "anthropic"}
+    env = build_jinja_env()
+    render_weekly_index(env, [article], tmp_path, date(2026, 5, 20))
+    html = (tmp_path / "weekly" / "index.html").read_text()
+    assert "1 articles" in html
