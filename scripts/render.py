@@ -235,6 +235,9 @@ def render(today: date | None = None, output_dir: Path = DEFAULT_BUILD_DIR) -> N
     env = build_jinja_env()
     render_index(env, today, articles, output_dir)
     render_daily(env, today, articles, output_dir)
+    render_weekly_index(env, articles, output_dir, today)
+    for week_iso in weeks_from_articles(articles):
+        render_weekly_week(env, week_iso, articles, output_dir)
     copy_static(output_dir)
     print(f"✓ Rendered to {output_dir}", file=sys.stderr)
 
