@@ -64,6 +64,10 @@ def invalidate_cloudfront(distribution_id: str) -> None:
 
 
 def deploy(build_dir: Path = DEFAULT_BUILD_DIR, bucket: str = DEFAULT_BUCKET) -> None:
+    if os.environ.get("ENV") != "prod":
+        print("Skipping S3 upload (ENV != prod)", file=sys.stderr)
+        return
+
     count = upload_dir(build_dir, bucket)
     print(f"✓ Uploaded {count} files to s3://{bucket}", file=sys.stderr)
 
