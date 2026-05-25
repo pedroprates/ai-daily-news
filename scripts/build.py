@@ -5,8 +5,12 @@ Called by deploy.yml after ingest.yml has committed updated articles.json.
 
 Usage:
     python scripts/build.py [--date YYYY-MM-DD] [--bucket BUCKET]
+
+S3 operations (history listing + upload) are skipped unless ENV=prod.
 """
 import argparse
+import os
+import sys
 from datetime import date
 from pathlib import Path
 
@@ -23,12 +27,16 @@ def run(
     build_dir: Path = DEFAULT_BUILD_DIR,
     bucket: str = deploy_module.DEFAULT_BUCKET,
     weekly_only: bool = False,
+    deploy: bool = True,
 ) -> None:
     if today is None:
         today = date.today()
     render_module.render(today=today, output_dir=build_dir, weekly_only=weekly_only)
     history_module.build_history(today=today, bucket=bucket, output_dir=build_dir)
-    deploy_module.deploy(build_dir=build_dir, bucket=bucket)
+    if deploy:
+        deploy_module.deploy(build_dir=build_dir, bucket=bucket)
+    else:
+        print("Skipping S3 deploy (ENV != prod)", file=sys.stderr)
 
 
 def main() -> None:
@@ -39,7 +47,8 @@ def main() -> None:
     args = parser.parse_args()
 
     today = date.fromisoformat(args.date) if args.date else date.today()
-    run(today=today, build_dir=DEFAULT_BUILD_DIR, bucket=args.bucket, weekly_only=args.weekly_only)
+    should_deploy = os.environ.get("ENV") == "prod"
+    run(today=today, build_dir=DEFAULT_BUILD_DIR, bucket=args.bucket, weekly_only=args.weekly_only, deploy=should_deploy)
 
 
 if __name__ == "__main__":

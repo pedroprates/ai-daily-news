@@ -91,6 +91,11 @@ To watch next week: Anthropic's developer conference is scheduled for Friday.
 ## Commit
 
 ```bash
+if [ "${ENV:-}" = "stg" ]; then
+  echo "ENV=stg — skipping commit. Summary written to data/summaries/$WEEK_ISO.md."
+  exit 0
+fi
+
 git pull origin main
 git add data/summaries/$WEEK_ISO.md
 git commit -m "chore(data): weekly summary $WEEK_ISO"
