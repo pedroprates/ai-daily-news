@@ -1,17 +1,5 @@
 {
   "version": 1,
-  "updated_at": "2026-05-20T06:00:00+00:00",
-  "articles": [
-    {
-      "id": "a1b2c3d4e5f6a7b8",
-      "title": "Anthropic announces Claude Opus 4.7",
-      "vendor": "Anthropic",
-      "source": "anthropic.com",
-      "url": "https://www.anthropic.com/news/test",
-      "date": "2026-05-20",
-      "description": "Anthropic released Claude Opus 4.7. The new model shows improvements in reasoning and coding. It is available via API and on Claude.ai.",
-      "score": 9,
-      "scraped_at": "2026-05-20"
-    }
-  ]
+  "updated_at": "2026-05-25T00:00:00+00:00",
+  "articles": []
 }
