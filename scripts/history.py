@@ -61,8 +61,13 @@ def build_history(
     bucket: str = DEFAULT_BUCKET,
     output_dir: Path = DEFAULT_BUILD_DIR,
 ) -> None:
+    import os
     output_dir.mkdir(parents=True, exist_ok=True)
-    s3_dates = list_s3_dates(bucket)
+    if os.environ.get("ENV") == "prod":
+        s3_dates = list_s3_dates(bucket)
+    else:
+        print("Skipping S3 date listing (ENV != prod)", file=sys.stderr)
+        s3_dates = []
     all_dates = sorted(set(s3_dates) | {today})
     month_groups = group_by_month(all_dates)
     render_history(month_groups, output_dir)
