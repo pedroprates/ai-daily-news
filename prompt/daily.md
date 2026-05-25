@@ -133,6 +133,11 @@ The authoritative schema for this file is `schemas/staging.schema.json`. Dedupli
 ## Commit
 
 ```bash
+if [ "${ENV:-}" = "stg" ]; then
+  echo "ENV=stg — skipping commit. Staging file written to data/staging/$TODAY.json."
+  exit 0
+fi
+
 git pull origin main
 git add data/staging/$TODAY.json
 git commit -m "chore(data): scrape $TODAY (N articles)"

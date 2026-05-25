@@ -22,6 +22,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Validate staging files
+        run: python scripts/validate_staging.py data/staging/*.json
+
       - name: Run ingest
         run: python scripts/ingest.py
 
