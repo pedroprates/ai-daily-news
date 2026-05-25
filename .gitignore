@@ -14,3 +14,6 @@ build/
 # Local backups
 bkp/
 backup.sh
+
+# Claude Worktrees
+**/.claude/worktrees/*
