@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  A daily digest of what matters in AI — researched by Claude, published automatically to <a href="https://prates.fyi">prates.fyi</a>.
+  A daily digest of what matters in AI — researched by Claude, published automatically to <a href="https://prates.fyi">prates.fyi</a>
 </p>
 
 <p align="center">
