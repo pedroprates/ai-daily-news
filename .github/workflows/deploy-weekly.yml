@@ -32,4 +32,5 @@ jobs:
       - name: Build and deploy (weekly only)
         run: python scripts/build.py --weekly-only
         env:
+          ENV: prod
           CLOUDFRONT_DISTRIBUTION_ID: ${{ vars.CLOUDFRONT_DISTRIBUTION_ID }}

@@ -32,4 +32,5 @@ jobs:
       - name: Build and deploy
         run: python scripts/build.py
         env:
+          ENV: prod
           CLOUDFRONT_DISTRIBUTION_ID: ${{ vars.CLOUDFRONT_DISTRIBUTION_ID }}
