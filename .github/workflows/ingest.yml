@@ -11,10 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: write
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
 
       - uses: actions/setup-python@v5
         with:
@@ -29,21 +30,10 @@ jobs:
       - name: Run ingest
         run: python scripts/ingest.py
 
-      - name: Open auto-merge PR for updated articles.json
+      - name: Commit updated articles.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet data/articles.json && echo "No changes to articles.json, skipping." && exit 0
-          BRANCH="bot/ingest-$(date +%Y-%m-%d-%H%M%S)"
-          git checkout -b "$BRANCH"
           git add data/articles.json
-          git commit -m "chore(data): ingest staging → articles.json"
-          git push origin "$BRANCH"
-          PR_URL=$(gh pr create \
-            --title "chore(data): ingest staging → articles.json" \
-            --body "Automated ingest of staging data into articles.json." \
-            --base main \
-            --head "$BRANCH")
-          gh pr merge "$PR_URL" --auto --squash --delete-branch
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git diff --cached --quiet || git commit -m "chore(data): ingest staging → articles.json"
+          git push origin main
