@@ -1,5 +1,138 @@
 {
   "version": 1,
-  "updated_at": "2026-05-25T00:00:00+00:00",
-  "articles": []
+  "updated_at": "2026-05-26T21:49:50.742951+00:00",
+  "articles": [
+    {
+      "id": "5df700a9f389ee77",
+      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/anthropic-kpmg",
+      "date": "2026-05-19",
+      "description": "KPMG announced a global strategic alliance with Anthropic, embedding Claude inside Digital Gateway — the software KPMG's people and clients use for tax and legal work. All 276,000+ KPMG employees worldwide will gain access to Claude, and the two companies will jointly build new Claude-powered products for private equity portfolio companies.",
+      "score": 8,
+      "scraped_at": "2026-05-21"
+    },
+    {
+      "id": "7708d4e1b8241c35",
+      "title": "Anthropic acquires Stainless",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "date": "2026-05-18",
+      "description": "Anthropic acquired Stainless, a developer-tools startup specializing in SDK generation and MCP server tooling, for more than $300 million. Stainless had been backed by Sequoia Capital and Andreessen Horowitz, and its tooling was already used by OpenAI, Google, and Cloudflare. The acquisition deepens Anthropic's investment in the developer ecosystem around Claude.",
+      "score": 8,
+      "scraped_at": "2026-05-21"
+    },
+    {
+      "id": "4a3e14718d8c6ffb",
+      "title": "OpenAI Commits $234 Million for New AI Lab in Singapore",
+      "vendor": "OpenAI",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-20/openai-commits-234-million-for-new-ai-lab-in-singapore",
+      "date": "2026-05-20",
+      "description": "OpenAI announced a $234 million commitment to establish its first applied AI lab outside the United States, in partnership with the Singaporean government. The lab will focus on applied research and local AI development. The move is part of OpenAI's broader international expansion strategy.",
+      "score": 8,
+      "scraped_at": "2026-05-21"
+    },
+    {
+      "id": "b425a00c458ab22e",
+      "title": "Five takeaways from Nvidia's earnings, and what they mean for the AI industry",
+      "vendor": "Industry",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/05/21/five-takeaways-nvidias-earnings-mean-ai-industry/",
+      "date": "2026-05-21",
+      "description": "Nvidia reported record Q1 FY2027 revenue of $81.6 billion, up 85% year-over-year, with data center revenue surging 92% to $75.2 billion. CEO Jensen Huang described AI demand as \"parabolic\" as Blackwell systems ramped across hyperscalers and cloud customers. The company also approved an $80 billion share buyback and raised its quarterly dividend 25x, signaling strong confidence in sustained AI infrastructure spending.",
+      "score": 9,
+      "scraped_at": "2026-05-21"
+    },
+    {
+      "id": "f7e20b0db095e4f2",
+      "title": "Intuit to lay off over 3,000 employees to refocus on AI",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "date": "2026-05-20",
+      "description": "Intuit announced it will cut more than 3,000 employees — roughly 17% of its workforce — as the company redirects resources toward AI integration across its financial software products. The layoffs follow a broader industry trend of established software companies restructuring headcount to fund AI-first product strategies.",
+      "score": 7,
+      "scraped_at": "2026-05-21"
+    },
+    {
+      "id": "dea9fb3822d17d57",
+      "title": "Trump delays AI security executive order: 'I don't want to get in the way of that leading'",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "date": "2026-05-21",
+      "description": "President Trump has delayed signing an executive order that would have required AI developers to give the US government early access to models for security evaluation before release. Trump cited a desire not to impede US AI leadership as his reason for the delay. The postponement comes despite Google, Microsoft, xAI, OpenAI, and Anthropic having already agreed to participate in the pre-release review program.",
+      "score": 6,
+      "scraped_at": "2026-05-21"
+    },
+    {
+      "id": "f3054c38c05bad1a",
+      "title": "I/O 2026: Welcome to the agentic Gemini era",
+      "vendor": "Google",
+      "source": "blog.google",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "date": "2026-05-19",
+      "description": "At Google I/O 2026, Sundar Pichai unveiled the company's shift to an agent-first strategy, anchored by new models Gemini 3.5 Flash and Gemini Omni and a new personal AI agent called Gemini Spark. Gemini 3.5 Flash is now the default model powering AI Mode in Google Search globally, offering frontier-level reasoning at Flash speeds. Google also launched a $100/month AI Ultra subscription tier and unified its developer platform under Antigravity, its agentic development framework.",
+      "score": 9,
+      "scraped_at": "2026-05-26"
+    },
+    {
+      "id": "9da0e246b9a951d9",
+      "title": "Anthropic says it's about to have its first profitable quarter",
+      "vendor": "Anthropic",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "date": "2026-05-20",
+      "description": "Anthropic has informed investors that it expects to generate approximately $10.9 billion in revenue during Q2 2026, more than double the $4.8 billion it recorded in Q1, and will deliver its first-ever operating profit. The company's annualized run-rate revenue has now surpassed $30 billion, up from roughly $9 billion at the end of 2025. The milestone comes as Anthropic continues rapid commercial expansion and is reportedly eyeing a 2026 IPO.",
+      "score": 9,
+      "scraped_at": "2026-05-26"
+    },
+    {
+      "id": "1ef16b68dd614edc",
+      "title": "Anthropic will pay xAI $1.25B per month for compute",
+      "vendor": "Anthropic",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "date": "2026-05-20",
+      "description": "Anthropic has struck a multi-year agreement with SpaceX to exclusively use all compute capacity at xAI's Colossus 1 data center in Memphis, Tennessee, paying $1.25 billion per month through May 2029. The deal reflects Anthropic's aggressive push to secure GPU capacity at scale as demand for Claude continues to surge. It also represents an unusual cross-competitor infrastructure arrangement in the AI industry.",
+      "score": 9,
+      "scraped_at": "2026-05-26"
+    },
+    {
+      "id": "3855202f096c1ea2",
+      "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
+      "vendor": "Anthropic",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html",
+      "date": "2026-05-21",
+      "description": "Microsoft and Anthropic are in negotiations for Microsoft to supply its custom Maia 200 AI chips to Anthropic, following Microsoft's recent $5 billion investment in the company. The deal would diversify Anthropic's compute supply away from Nvidia GPUs and further deepen the two companies' commercial relationship. It also signals Microsoft's ambition to establish Maia 200 as a competitive alternative in the AI infrastructure market.",
+      "score": 7,
+      "scraped_at": "2026-05-26"
+    },
+    {
+      "id": "1a83fc4b0c129e36",
+      "title": "Microsoft's GitHub was positioned to win the AI coding race. Outages got in the way",
+      "vendor": "Microsoft",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/05/22/microsoft-was-positioned-to-win-in-ai-coding-outages-got-in-the-way.html",
+      "date": "2026-05-23",
+      "description": "GitHub Copilot has lost its lead in the AI coding market to Cursor, Claude Code, and Google Gemini Code Assist, with a March survey of 636 software professionals finding Copilot less widely used than its rivals. A series of service outages has compounded GitHub's challenges at a critical time for developer adoption. Cursor, which recently secured a deal giving SpaceX acquisition rights at a $60 billion valuation, overtook Copilot in market share roughly a year ago and has maintained the lead.",
+      "score": 7,
+      "scraped_at": "2026-05-26"
+    },
+    {
+      "id": "4e7fc80c0500c361",
+      "title": "The AI Trainers Charging $25,000 a Day to Push Wall Street's Agentic Shift",
+      "vendor": "Industry",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/features/2026-05-25/the-ai-trainers-charging-25-000-a-day-to-push-wall-street-s-agentic-shift",
+      "date": "2026-05-25",
+      "description": "A new class of highly specialized AI consultants is commanding fees of up to $25,000 a day to help Wall Street banks navigate the shift toward agentic AI workflows. These trainers advise financial institutions on identifying gaps in their current AI strategies and preparing teams for autonomous AI systems. The trend reflects how enterprise AI adoption in finance has moved beyond pilot programs into firm-wide operational rewiring.",
+      "score": 7,
+      "scraped_at": "2026-05-26"
+    }
+  ]
 }
