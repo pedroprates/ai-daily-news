@@ -64,16 +64,5 @@
     "description": "A new class of highly specialized AI consultants is commanding fees of up to $25,000 a day to help Wall Street banks navigate the shift toward agentic AI workflows. These trainers advise financial institutions on identifying gaps in their current AI strategies and preparing teams for autonomous AI systems. The trend reflects how enterprise AI adoption in finance has moved beyond pilot programs into firm-wide operational rewiring.",
     "score": 7,
     "scraped_at": "2026-05-26"
-  },
-  {
-    "id": "00f91f0843fb4303",
-    "title": "BNP Paribas Works With Mistral to Prep for Mythos-Like AI Models",
-    "vendor": "Industry",
-    "source": "bloomberg.com",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-26/bnp-paribas-works-with-mistral-to-prep-for-mythos-like-ai-models",
-    "date": "2026-05-26",
-    "description": "BNP Paribas is partnering with French AI startup Mistral AI and other firms to build defenses against the cybersecurity risks posed by highly capable frontier models such as Anthropic's Mythos. The bank is treating the next generation of AI models as a significant threat vector, investing in preparation before such systems are widely deployed. The initiative highlights how major financial institutions are proactively assessing the adversarial potential of upcoming frontier AI.",
-    "score": 7,
-    "scraped_at": "2026-05-26"
   }
 ]
