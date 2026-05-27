@@ -1,0 +1,68 @@
+[
+  {
+    "id": "9d44573c198f670a",
+    "title": "Project Glasswing: An initial update",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/research/glasswing-initial-update",
+    "date": "2026-05-25",
+    "description": "Anthropic published a first progress update on Project Glasswing, its initiative to harden critical software using Claude Mythos Preview. Partners including AWS, Apple, Cisco, Google, JPMorgan Chase, Microsoft, and NVIDIA have collectively identified more than 10,000 high- or critical-severity vulnerabilities, with Mythos flagging 23,019 potential flaws in open-source projects alone. Progress on remediation is now the binding constraint: the pace of vulnerability discovery has outrun the speed at which fixes can be verified, disclosed, and patched.",
+    "score": 9,
+    "scraped_at": "2026-05-27"
+  },
+  {
+    "id": "6c515531e3517348",
+    "title": "Anthropic's restricted Claude Mythos model may be coming to Claude Code",
+    "vendor": "Anthropic",
+    "source": "bleepingcomputer.com",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
+    "date": "2026-05-26",
+    "description": "Bleeping Computer reports that Anthropic intends to make Mythos-class models available through a general release in the near future, which would include access via Claude Code. Currently restricted to Project Glasswing partners, Mythos Preview has identified thousands of zero-day vulnerabilities—including a 27-year-old OpenBSD bug and a 16-year-old FFmpeg flaw missed by prior tooling. A Claude Security tool built on Mythos is already in public beta for Claude Enterprise customers.",
+    "score": 8,
+    "scraped_at": "2026-05-27"
+  },
+  {
+    "id": "5ecfa573d9d76583",
+    "title": "Google unveils AI model Gemini 3.5 and AI agent Gemini Spark",
+    "vendor": "Google",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/05/19/google-ai-ultra-gemini-spark-omni.html",
+    "date": "2026-05-19",
+    "description": "At Google I/O 2026, Google launched Gemini 3.5 Flash, a model that rivals large flagships in reasoning while maintaining Flash-series speed and outperforming Gemini 3.1 Pro on coding and agentic benchmarks. Google also announced Gemini Spark, a general-purpose AI agent in the Gemini app that reasons across connected applications and acts on users' behalf, available first to Google AI Ultra subscribers. A third model, Gemini Omni, was unveiled as a world model for multimodal creation and editing from any input type.",
+    "score": 9,
+    "scraped_at": "2026-05-27"
+  },
+  {
+    "id": "492f3d281a57d964",
+    "title": "100 things we announced at Google I/O 2026",
+    "vendor": "Google",
+    "source": "blog.google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+    "date": "2026-05-19",
+    "description": "Google's official I/O 2026 roundup covers over 100 product and model announcements spanning Android XR intelligent eyewear with Gemini launching this fall, Gemini 3.5 Flash as the new default in Search AI Mode globally, and expanded Project Astra capabilities across the Android ecosystem. The keynote also featured voice-driven productivity upgrades in Gmail, Docs, and Keep, and a new design tool called Google Pics. The breadth of announcements signals Google's strategy to position Gemini as the connective layer across all consumer and developer products.",
+    "score": 8,
+    "scraped_at": "2026-05-27"
+  },
+  {
+    "id": "b28194f531afc390",
+    "title": "What's New in Cursor — Latest Updates & Release Notes",
+    "vendor": "Cursor",
+    "source": "cursor.com",
+    "url": "https://cursor.com/changelog",
+    "date": "2026-05-13",
+    "description": "Cursor 3.4 introduced agent development environment tools that automate engineering tasks end-to-end, including repository cloning, dependency installation, and access to internal credentials and build systems. The release also brought Cursor into Microsoft Teams, allowing teams to mention @Cursor in any channel to delegate coding tasks to a cloud agent that automatically selects the right model and repository. Cursor has grown to over 4 million developers, backed by a $400 million funding round at a $10 billion valuation.",
+    "score": 7,
+    "scraped_at": "2026-05-27"
+  },
+  {
+    "id": "cb820ada4d9964de",
+    "title": "OpenAI revenue chief Dresser says enterprise AI adoption is 'at a tipping point'",
+    "vendor": "OpenAI",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/05/11/open-ai-dresser-enterprise-business.html",
+    "date": "2026-05-11",
+    "description": "OpenAI's revenue chief told CNBC that enterprise AI adoption has reached a tipping point, pointing to approximately $5.7 billion in first-quarter 2026 revenue driven by Codex, expanded enterprise contracts, and early advertising experiments on ChatGPT. The company is seeing accelerating demand across financial services, air carriers, and manufacturers deploying agentic workflows for tasks such as flight rebooking, meeting action capture, and new product development. The revenue trajectory marks a sharp acceleration from prior quarters and reflects broad corporate uptake beyond early adopters.",
+    "score": 7,
+    "scraped_at": "2026-05-27"
+  }
+]
