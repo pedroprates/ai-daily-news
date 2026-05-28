@@ -22,6 +22,7 @@ REPO_ROOT = Path(__file__).parent.parent
 ARTICLES_PATH = REPO_ROOT / "data" / "articles.json"
 TEMPLATES_DIR = REPO_ROOT / "templates"
 STATIC_DIR = REPO_ROOT / "static"
+IMGS_DIR = REPO_ROOT / "imgs"
 DEFAULT_BUILD_DIR = REPO_ROOT / "build"
 SUMMARIES_DIR = REPO_ROOT / "data" / "summaries"
 
@@ -225,6 +226,10 @@ def copy_static(output_dir: Path) -> None:
     if dest.exists():
         shutil.rmtree(dest)
     shutil.copytree(str(STATIC_DIR), str(dest))
+    imgs_dest = output_dir / "imgs"
+    if imgs_dest.exists():
+        shutil.rmtree(imgs_dest)
+    shutil.copytree(str(IMGS_DIR), str(imgs_dest))
 
 
 def render(

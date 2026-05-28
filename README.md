@@ -30,22 +30,7 @@ The repo is also the archive. Every scrape is a git commit, so the full history 
 
 ## How it works
 
-```
-Claude Routine (daily)          Claude Routine (weekly)
-  scrape + score news             summarize the week
-        │                               │
-        └──── commit + push (PAT) ──────┘
-                       │
-              GitHub: ai-daily-news
-                       │
-              ┌────────┼─────────────────┐
-              ▼        ▼                 ▼
-         validate   ingest.yml       deploy.yml
-          .yml      dedup + merge    render HTML
-         (schema)   → articles.json  S3 sync + CF
-                                          │
-                                     prates.fyi
-```
+![Architecture diagram](imgs/architecture-diagram.svg)
 
 ### Pipeline stages
 

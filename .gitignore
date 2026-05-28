@@ -15,5 +15,7 @@ build/
 bkp/
 backup.sh
 
-# Claude Worktrees
+# Claude
 **/.claude/worktrees/*
+**/.playwright-mcp/*
+
