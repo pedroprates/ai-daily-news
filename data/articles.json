@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-27T07:37:18.174030+00:00",
+  "updated_at": "2026-05-28T07:36:51.140710+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -199,6 +199,61 @@
       "description": "OpenAI's revenue chief told CNBC that enterprise AI adoption has reached a tipping point, pointing to approximately $5.7 billion in first-quarter 2026 revenue driven by Codex, expanded enterprise contracts, and early advertising experiments on ChatGPT. The company is seeing accelerating demand across financial services, air carriers, and manufacturers deploying agentic workflows for tasks such as flight rebooking, meeting action capture, and new product development. The revenue trajectory marks a sharp acceleration from prior quarters and reflects broad corporate uptake beyond early adopters.",
       "score": 7,
       "scraped_at": "2026-05-27"
+    },
+    {
+      "id": "c96a93ddc54203eb",
+      "title": "Seoul becomes Anthropic's third office in Asia-Pacific as company appoints KiYoung Choi as Representative Director of Korea",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific",
+      "date": "2026-05-26",
+      "description": "Anthropic opened its Seoul office, marking its third presence in Asia-Pacific and signaling continued expansion in the region. KiYoung Choi was appointed as Representative Director to lead the Korea operation. The move reflects growing enterprise demand for Claude across Korean government, financial services, and technology sectors.",
+      "score": 7,
+      "scraped_at": "2026-05-28"
+    },
+    {
+      "id": "64d3b9098e0ecad8",
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "vendor": "Google",
+      "source": "blog.google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "date": "2026-05-19",
+      "description": "Google launched Gemini 3.5 Flash at Google I/O 2026, positioning it as its strongest coding model to date and a cornerstone for agentic workflows. The model offers frontier-level intelligence with a 1M-token context window, full multimodal input, and benchmarks that surpass Gemini 3.1 Pro, at 4× the speed of comparable frontier models. Pricing starts at $1.50/$9 per million tokens and the model is generally available across Google AI Studio, Vertex AI, and the Gemini app.",
+      "score": 9,
+      "scraped_at": "2026-05-28"
+    },
+    {
+      "id": "d6f6970b30183c40",
+      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "date": "2026-05-14",
+      "description": "Anthropic and the Bill & Melinda Gates Foundation announced a four-year, $200 million partnership combining funding, Claude usage credits, and technical support for programs in global health, life sciences, education, and economic mobility. The deal represents one of the largest philanthropic AI commitments to date, and aims to direct frontier AI capabilities toward underserved populations and development goals. Claude will be integrated into Gates Foundation-backed initiatives across multiple continents.",
+      "score": 8,
+      "scraped_at": "2026-05-28"
+    },
+    {
+      "id": "282f3791a4aeb335",
+      "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+      "date": "2026-05-14",
+      "description": "PwC expanded its strategic alliance with Anthropic, deepening its use of Claude across technology build, M&A execution, and enterprise transformation engagements for clients. The expanded agreement covers internal productivity use cases as well as client-facing Claude-powered products. PwC joins a growing list of Big Four and global consulting firms formalizing deep Claude integrations.",
+      "score": 7,
+      "scraped_at": "2026-05-28"
+    },
+    {
+      "id": "f629323443d71532",
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "vendor": "Microsoft",
+      "source": "github.blog",
+      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "date": "2026-04-27",
+      "description": "GitHub announced that all Copilot plans will transition to usage-based billing on June 1, 2026, replacing flat premium request quotas with AI Credits priced at $0.01 each. Copilot Pro+ ($39/mo) and Copilot Business ($19/user/mo) will include a monthly credit allotment equal to the plan price, with code completions remaining unlimited. The shift drew developer pushback over concerns that equal spending will now cover less AI usage than before.",
+      "score": 7,
+      "scraped_at": "2026-05-28"
     }
   ]
 }
