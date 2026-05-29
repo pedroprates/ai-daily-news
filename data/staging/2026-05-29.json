@@ -1,0 +1,68 @@
+[
+  {
+    "id": "5348a7d239028e9b",
+    "title": "Introducing Claude Opus 4.8",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "date": "2026-05-28",
+    "description": "Anthropic released Claude Opus 4.8, claiming the top spot for computer-use and browser-agent tasks with an 84% score on Online-Mind2Web — a meaningful jump over Opus 4.7 and GPT-5.5. The release adds dynamic workflows in Claude Code for large-scale parallel tasks, user-controlled effort levels on claude.ai, and a fast mode running at 2.5× speed at the same price of $5/$25 per million input/output tokens.",
+    "score": 9,
+    "scraped_at": "2026-05-29"
+  },
+  {
+    "id": "ed625a7e3d6a1732",
+    "title": "Meta Unveils Subscriptions for AI While OpenAI, xAI Target Meta's Ad Business",
+    "vendor": "Meta",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-05-28/meta-unveils-subscriptions-for-ai-while-openai-xai-target-meta-s-ad-business",
+    "date": "2026-05-28",
+    "description": "Meta announced a paid subscription tier for its consumer AI chatbot, marking a significant monetization shift beyond its core advertising model. The same Bloomberg report notes that OpenAI and xAI are moving aggressively to capture a share of Meta's advertising business, opening a multi-front competitive battle between the major AI players.",
+    "score": 7,
+    "scraped_at": "2026-05-29"
+  },
+  {
+    "id": "1a83fc4b0c129e36",
+    "title": "Microsoft's GitHub was positioned to win the AI coding race. Outages got in the way",
+    "vendor": "Microsoft",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/05/22/microsoft-was-positioned-to-win-in-ai-coding-outages-got-in-the-way.html",
+    "date": "2026-05-22",
+    "description": "A CNBC analysis details how repeated GitHub service outages have eroded Microsoft's lead in AI-assisted coding, giving rivals like Cursor room to grow. The competitive stakes sharpened further after Cursor reportedly struck a deal granting SpaceX the right to acquire it for $60 billion, underlining how valuable the developer tooling market has become.",
+    "score": 6,
+    "scraped_at": "2026-05-29"
+  },
+  {
+    "id": "dd85aab1a3595869",
+    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+    "date": "2026-05-14",
+    "description": "OpenAI is reportedly exploring legal action against Apple over a ChatGPT integration inside Apple Intelligence that failed to deliver the subscriber growth and prominence the company expected. The dispute follows Apple's decision to anchor Apple Intelligence primarily around Google's Gemini models, with Apple paying Google roughly $1 billion per year for the arrangement.",
+    "score": 7,
+    "scraped_at": "2026-05-29"
+  },
+  {
+    "id": "20ad0eeb885efdfd",
+    "title": "Google brings agentic AI and vibe-coded widgets to Android",
+    "vendor": "Google",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+    "date": "2026-05-12",
+    "description": "Google unveiled Gemini Intelligence-branded features at its Android Show: I/O Edition event, enabling on-device AI agents to complete tasks across apps, browse the web, and fill out forms autonomously. Users can also vibe-code custom Android home screen widgets using natural language, giving Gemini a deeper integration into the Android UI than any previous release.",
+    "score": 7,
+    "scraped_at": "2026-05-29"
+  },
+  {
+    "id": "cb820ada4d9964de",
+    "title": "OpenAI revenue chief Dresser says enterprise AI adoption is 'at a tipping point'",
+    "vendor": "OpenAI",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/05/11/open-ai-dresser-enterprise-business.html",
+    "date": "2026-05-11",
+    "description": "OpenAI's Chief Revenue Officer told CNBC that enterprise now accounts for more than 40% of company revenue, with expectations it will reach parity with consumer revenue by year-end. Dresser credited forward-deployed engineering partnerships with major consulting firms — BCG, McKinsey, Accenture, and Capgemini — as the primary driver of large-scale enterprise rollouts.",
+    "score": 6,
+    "scraped_at": "2026-05-29"
+  }
+]
