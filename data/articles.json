@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-28T07:36:51.140710+00:00",
+  "updated_at": "2026-05-29T07:36:47.178596+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -254,6 +254,50 @@
       "description": "GitHub announced that all Copilot plans will transition to usage-based billing on June 1, 2026, replacing flat premium request quotas with AI Credits priced at $0.01 each. Copilot Pro+ ($39/mo) and Copilot Business ($19/user/mo) will include a monthly credit allotment equal to the plan price, with code completions remaining unlimited. The shift drew developer pushback over concerns that equal spending will now cover less AI usage than before.",
       "score": 7,
       "scraped_at": "2026-05-28"
+    },
+    {
+      "id": "5348a7d239028e9b",
+      "title": "Introducing Claude Opus 4.8",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "date": "2026-05-28",
+      "description": "Anthropic released Claude Opus 4.8, claiming the top spot for computer-use and browser-agent tasks with an 84% score on Online-Mind2Web — a meaningful jump over Opus 4.7 and GPT-5.5. The release adds dynamic workflows in Claude Code for large-scale parallel tasks, user-controlled effort levels on claude.ai, and a fast mode running at 2.5× speed at the same price of $5/$25 per million input/output tokens.",
+      "score": 9,
+      "scraped_at": "2026-05-29"
+    },
+    {
+      "id": "ed625a7e3d6a1732",
+      "title": "Meta Unveils Subscriptions for AI While OpenAI, xAI Target Meta's Ad Business",
+      "vendor": "Meta",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-28/meta-unveils-subscriptions-for-ai-while-openai-xai-target-meta-s-ad-business",
+      "date": "2026-05-28",
+      "description": "Meta announced a paid subscription tier for its consumer AI chatbot, marking a significant monetization shift beyond its core advertising model. The same Bloomberg report notes that OpenAI and xAI are moving aggressively to capture a share of Meta's advertising business, opening a multi-front competitive battle between the major AI players.",
+      "score": 7,
+      "scraped_at": "2026-05-29"
+    },
+    {
+      "id": "dd85aab1a3595869",
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn't be the first partner to feel burned",
+      "vendor": "OpenAI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "date": "2026-05-14",
+      "description": "OpenAI is reportedly exploring legal action against Apple over a ChatGPT integration inside Apple Intelligence that failed to deliver the subscriber growth and prominence the company expected. The dispute follows Apple's decision to anchor Apple Intelligence primarily around Google's Gemini models, with Apple paying Google roughly $1 billion per year for the arrangement.",
+      "score": 7,
+      "scraped_at": "2026-05-29"
+    },
+    {
+      "id": "20ad0eeb885efdfd",
+      "title": "Google brings agentic AI and vibe-coded widgets to Android",
+      "vendor": "Google",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+      "date": "2026-05-12",
+      "description": "Google unveiled Gemini Intelligence-branded features at its Android Show: I/O Edition event, enabling on-device AI agents to complete tasks across apps, browse the web, and fill out forms autonomously. Users can also vibe-code custom Android home screen widgets using natural language, giving Gemini a deeper integration into the Android UI than any previous release.",
+      "score": 7,
+      "scraped_at": "2026-05-29"
     }
   ]
 }
