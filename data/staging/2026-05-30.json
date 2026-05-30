@@ -1,0 +1,68 @@
+[
+  {
+    "id": "4cd6d8261aa9cb89",
+    "title": "Anthropic upgrades Claude with new Opus 4.8 model, here's what's new",
+    "vendor": "Anthropic",
+    "source": "9to5mac.com",
+    "url": "https://9to5mac.com/2026/05/28/anthropic-upgrades-claude-with-new-opus-4-8-model-heres-whats-new/",
+    "date": "2026-05-28",
+    "description": "Anthropic released Claude Opus 4.8, bringing stronger benchmark performance, improved reasoning, and enhanced collaboration capabilities over its predecessor. The launch introduces effort control on claude.ai—letting users dial in how hard Claude works on a task—and dynamic workflows in Claude Code for tackling large-scale engineering problems. API access is available immediately at the same price points as Opus 4.7.",
+    "score": 9,
+    "scraped_at": "2026-05-30"
+  },
+  {
+    "id": "3ab61e4b3cf2ba71",
+    "title": "Introducing a new design for Microsoft 365 Copilot",
+    "vendor": "Microsoft",
+    "source": "microsoft.com",
+    "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/",
+    "date": "2026-05-28",
+    "description": "Microsoft redesigned Microsoft 365 Copilot, transforming its static prompt bar into a task-aware workspace that adapts to the user's current activity across Word, Excel, Teams, and Outlook. The new interface positions Copilot as a more proactive assistant rather than a passive question-answering box, with tighter integration into document and meeting workflows. The redesign is rolling out to commercial Microsoft 365 subscribers immediately.",
+    "score": 7,
+    "scraped_at": "2026-05-30"
+  },
+  {
+    "id": "92f9fa8327778c21",
+    "title": "What's new in Copilot Studio: new and improved computer-using agents, a new Workflows experience, and real-time voice",
+    "vendor": "Microsoft",
+    "source": "microsoft.com",
+    "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/new-and-improved-computer-using-agents-a-new-workflows-experience-and-real-time-voice-experiences/",
+    "date": "2026-05-28",
+    "description": "Microsoft's May 2026 Copilot Studio update makes computer-using agents generally available, adds a redesigned Workflows experience for enterprise orchestration, and introduces real-time voice interactions for customer-facing agents. The release also includes new governance capabilities—multi-agent management, audit logs, and scoped secrets—marking a shift from low-code chatbot builder to a production-grade enterprise agent platform. The update is available to Copilot Studio customers now.",
+    "score": 7,
+    "scraped_at": "2026-05-30"
+  },
+  {
+    "id": "ab08538328542290",
+    "title": "The next phase of enterprise AI",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/next-phase-of-enterprise-ai/",
+    "date": "2026-05-27",
+    "description": "OpenAI launched a new $4 billion enterprise deployment company in partnership with 19 global investment firms, consultancies, and system integrators to accelerate large-scale AI adoption. The initiative moves OpenAI beyond its API-first model toward hands-on engagement: helping enterprises identify high-impact use cases and redesign critical workflows around AI. OpenAI framed the move as a necessary step to translate individual AI productivity gains into organization-wide outcomes.",
+    "score": 8,
+    "scraped_at": "2026-05-30"
+  },
+  {
+    "id": "5bf2cd6b33b57d90",
+    "title": "Building the compute infrastructure for the Intelligence Age",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age/",
+    "date": "2026-05-29",
+    "description": "OpenAI published a detailed overview of its compute infrastructure strategy, outlining how it plans to scale training and inference capacity to support increasingly capable AI systems. The post identifies compute, energy, and software stack as the three critical bottlenecks and details partnerships and proprietary investments being made at each layer. OpenAI frames this build-out as foundational to what it calls the \"Intelligence Age.\"",
+    "score": 7,
+    "scraped_at": "2026-05-30"
+  },
+  {
+    "id": "b28194f531afc390",
+    "title": "What's New in Cursor — Latest Updates & Release Notes",
+    "vendor": "Cursor",
+    "source": "cursor.com",
+    "url": "https://cursor.com/changelog",
+    "date": "2026-05-20",
+    "description": "Cursor 3.5 introduces Automations in the Agents Window with multi-repo support, allowing agents to reason across multiple codebases and deliver, test, and verify tasks end-to-end. The release also adds agent development environments with Dockerfile-based configuration, version history, audit logs, and rollback controls for enterprise governance. Bugbot transitions to usage-based billing, replacing per-seat fees with configurable effort levels for deeper PR reviews.",
+    "score": 7,
+    "scraped_at": "2026-05-30"
+  }
+]
