@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-30T07:37:20.530683+00:00",
+  "updated_at": "2026-06-01T07:35:46.044690+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -353,6 +353,61 @@
       "description": "OpenAI published a detailed overview of its compute infrastructure strategy, outlining how it plans to scale training and inference capacity to support increasingly capable AI systems. The post identifies compute, energy, and software stack as the three critical bottlenecks and details partnerships and proprietary investments being made at each layer. OpenAI frames this build-out as foundational to what it calls the \"Intelligence Age.\"",
       "score": 7,
       "scraped_at": "2026-05-30"
+    },
+    {
+      "id": "b5e22ae086a6b353",
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/series-h",
+      "date": "2026-05-28",
+      "description": "Anthropic closed a $65 billion Series H round led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital, pushing its post-money valuation to $965 billion and eclipsing rival OpenAI for the first time. The company reports a $47 billion annual revenue run rate and $10 billion in revenue last year. Proceeds will fund safety and interpretability research, expanded compute capacity, and product and partnership scaling.",
+      "score": 9,
+      "scraped_at": "2026-06-01"
+    },
+    {
+      "id": "970979cb607942aa",
+      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "vendor": "OpenAI",
+      "source": "openai.com",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/",
+      "date": "2026-05-30",
+      "description": "OpenAI introduced GPT-5.5 and GPT-5.5-Cyber, its most capable models for cybersecurity tasks, available through its Trusted Access for Cyber program. The models are designed for permissive use by vetted security professionals, with Advanced Account Security becoming mandatory for program members starting June 1, 2026. The release marks OpenAI's deepest push yet into the professional cybersecurity market.",
+      "score": 8,
+      "scraped_at": "2026-06-01"
+    },
+    {
+      "id": "751a892e2ef7a354",
+      "title": "OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence",
+      "vendor": "OpenAI",
+      "source": "openai.com",
+      "url": "https://openai.com/index/openai-launches-the-deployment-company/",
+      "date": "2026-05-29",
+      "description": "OpenAI announced the OpenAI Deployment Company, a new entity that will partner directly with enterprises to design and execute AI deployments around its models. The move is a significant expansion beyond API access, positioning OpenAI as a hands-on implementation partner alongside its existing consulting push. It follows OpenAI's earlier hire of enterprise-focused consultants and signals a shift toward capturing more of the enterprise services market.",
+      "score": 7,
+      "scraped_at": "2026-06-01"
+    },
+    {
+      "id": "b86216cf8bfbd2b7",
+      "title": "Teaching Claude why",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/research/teaching-claude-why",
+      "date": "2026-05-29",
+      "description": "Anthropic published a research post detailing its approach to teaching Claude not just what behaviors are expected but the underlying reasoning and values behind them, aiming to build models that can generalize to novel situations. The work is part of Anthropic's broader interpretability and alignment research agenda, seeking to make Claude's decision-making more robust and principled rather than pattern-matched. The post offers transparency into how Anthropic's safety training philosophy translates into model development practice.",
+      "score": 7,
+      "scraped_at": "2026-06-01"
+    },
+    {
+      "id": "091761950d421beb",
+      "title": "How long is Anthropic's lease with SpaceX? Opinions vary",
+      "vendor": "Anthropic",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+      "date": "2026-05-28",
+      "description": "TechCrunch reported that Anthropic's multi-billion-dollar compute agreement with SpaceX for access to the Colossus 1 data center contains a 180-day term with a 90-day mutual cancellation clause, raising questions about the deal's long-term stability despite its headline-grabbing $45 billion price tag. Differing interpretations of the contract terms led to public confusion about whether Anthropic has secured multi-year compute or a shorter-term arrangement. The piece highlights how compute agreements have become a key battleground for AI labs seeking to signal strength to investors and customers.",
+      "score": 6,
+      "scraped_at": "2026-06-01"
     }
   ]
 }
