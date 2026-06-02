@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-01T07:35:46.044690+00:00",
+  "updated_at": "2026-06-02T07:39:42.624215+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -408,6 +408,17 @@
       "description": "TechCrunch reported that Anthropic's multi-billion-dollar compute agreement with SpaceX for access to the Colossus 1 data center contains a 180-day term with a 90-day mutual cancellation clause, raising questions about the deal's long-term stability despite its headline-grabbing $45 billion price tag. Differing interpretations of the contract terms led to public confusion about whether Anthropic has secured multi-year compute or a shorter-term arrangement. The piece highlights how compute agreements have become a key battleground for AI labs seeking to signal strength to investors and customers.",
       "score": 6,
       "scraped_at": "2026-06-01"
+    },
+    {
+      "id": "5b97f14ee8010c94",
+      "title": "Gen-Z Gamer's 3D-Model Startup Vast Becomes China's Latest AI Unicorn",
+      "vendor": "Industry",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/gen-z-gamer-s-3d-model-startup-becomes-china-s-latest-ai-unicorn",
+      "date": "2026-06-01",
+      "description": "Vast, a Chinese 3D-modeling startup founded by a 29-year-old gaming entrepreneur, raised nearly $200 million in a new funding round, reaching a $1 billion valuation and becoming China's latest AI unicorn. The company applies AI to power its 3D content creation platform, serving the gaming and entertainment industries. The milestone underscores continued investor appetite for applied AI startups in China despite the broader macroeconomic environment.",
+      "score": 7,
+      "scraped_at": "2026-06-02"
     }
   ]
 }
