@@ -1,0 +1,68 @@
+[
+  {
+    "id": "fd9b87df1fe1b911",
+    "title": "Expanding Project Glasswing",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+    "date": "2026-06-02",
+    "description": "Anthropic is expanding Project Glasswing to approximately 150 new organizations across more than 15 countries, deploying Claude Mythos to find critical software vulnerabilities in power, water, healthcare, and communications infrastructure. Since the initiative launched, partners have identified over 10,000 high- or critical-severity vulnerabilities using Claude Mythos Preview, including zero-days across all major operating systems and browsers. Major partners include Apple, Nvidia, Microsoft, CrowdStrike, and Palo Alto Networks.",
+    "score": 9,
+    "scraped_at": "2026-06-03"
+  },
+  {
+    "id": "2a5d03e1e09c4333",
+    "title": "Anthropic files to go public",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+    "date": "2026-06-01",
+    "description": "Anthropic has confidentially filed draft IPO paperwork with the SEC, joining a wave of major AI companies preparing to list on public markets. The filing comes as the company's revenue run rate has reached $47 billion, up from $10 billion annually in 2025, following a funding round that valued it at $965 billion — topping rival OpenAI. Anthropic aims to list as early as fall 2026, potentially ahead of OpenAI in the race to Wall Street.",
+    "score": 9,
+    "scraped_at": "2026-06-03"
+  },
+  {
+    "id": "b4c2c75e8fc382c7",
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+    "date": "2026-06-01",
+    "description": "OpenAI's frontier models including GPT-5.5, Codex, and Managed Agents are now generally available on Amazon Web Services, allowing enterprises to build AI applications within AWS-native security and governance controls. Teams can power Codex directly through Amazon Bedrock, enabling organizations with existing AWS commitments to access OpenAI's coding agent suite without additional procurement friction. The integration also exposes OpenAI's Managed Agents SDK for orchestrating multi-step agentic workflows in cloud-native environments.",
+    "score": 8,
+    "scraped_at": "2026-06-03"
+  },
+  {
+    "id": "600bc7437caa9359",
+    "title": "Microsoft offers devs a better way to control AI agent behavior",
+    "vendor": "Microsoft",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+    "date": "2026-06-02",
+    "description": "Microsoft has open-sourced the Agent Control Specification (ACS), a new standard giving developers a consistent and granular way to define what AI agents are permitted to do at runtime. The ACS ships as an SDK with plug-ins for major agent frameworks including LangChain, OpenAI Agents SDK, Anthropic Agents SDK, AutoGen, CrewAI, Semantic Kernel, and MCP tools. The specification addresses growing enterprise concerns around auditability, safety boundaries, and policy enforcement in production agentic deployments.",
+    "score": 7,
+    "scraped_at": "2026-06-03"
+  },
+  {
+    "id": "8aad478a26f3b6ef",
+    "title": "Copilot SDK is now generally available",
+    "vendor": "Industry",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-06-02-copilot-sdk-is-now-generally-available/",
+    "date": "2026-06-02",
+    "description": "GitHub has released the Copilot SDK as generally available, allowing developers to embed Copilot's agentic engine directly into their own applications, services, and developer tools via a stable, production-ready API. Third-party platforms can now integrate GitHub Copilot's code generation and agentic capabilities natively, extending the reach of Copilot well beyond GitHub's own interfaces. The GA release marks a strategic shift for GitHub, positioning Copilot as an embeddable platform rather than a standalone product.",
+    "score": 7,
+    "scraped_at": "2026-06-03"
+  },
+  {
+    "id": "ab98802bf82d1807",
+    "title": "Google Gemini AI Search Shift Is Freaking Out the Online Ad World",
+    "vendor": "Google",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/opinion/articles/2026-06-03/google-gemini-ai-search-shift-is-freaking-out-the-online-ad-world",
+    "date": "2026-06-03",
+    "description": "Bloomberg examines the growing alarm among digital publishers and online advertisers as Google's Gemini-powered AI Mode, now used by over one billion monthly users, increasingly answers queries without directing traffic to external websites. AI Mode — upgraded to Gemini 3.5 Flash as its global default — is accelerating the collapse of the traditional web-search referral model that underpins online advertising. Analysts warn that Google's evolution from a link aggregator to an AI answer engine raises fundamental questions about the future economics of the open web.",
+    "score": 7,
+    "scraped_at": "2026-06-03"
+  }
+]
