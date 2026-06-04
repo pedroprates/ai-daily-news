@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-03T11:09:46.012774+00:00",
+  "updated_at": "2026-06-04T07:35:39.669840+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -485,6 +485,39 @@
       "description": "Bloomberg examines the growing alarm among digital publishers and online advertisers as Google's Gemini-powered AI Mode, now used by over one billion monthly users, increasingly answers queries without directing traffic to external websites. AI Mode — upgraded to Gemini 3.5 Flash as its global default — is accelerating the collapse of the traditional web-search referral model that underpins online advertising. Analysts warn that Google's evolution from a link aggregator to an AI answer engine raises fundamental questions about the future economics of the open web.",
       "score": 7,
       "scraped_at": "2026-06-03"
+    },
+    {
+      "id": "4d5e67258f32f5a2",
+      "title": "Introducing OpenAI for Government",
+      "vendor": "OpenAI",
+      "source": "openai.com",
+      "url": "https://openai.com/global-affairs/introducing-openai-for-government/",
+      "date": "2026-06-03",
+      "description": "OpenAI launched OpenAI for Government, a dedicated product offering providing U.S. and international government agencies with access to its AI models under specialized terms and compliance-oriented features. The program is designed to help public-sector organizations modernize operations with enterprise-grade AI while meeting the unique data governance and security requirements of government deployments. The initiative also includes a commitment to advancing democratic governance of frontier AI.",
+      "score": 8,
+      "scraped_at": "2026-06-04"
+    },
+    {
+      "id": "83a7ccda34f90ddd",
+      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+      "vendor": "Microsoft",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+      "date": "2026-06-02",
+      "description": "Microsoft unveiled ASSERT (Adaptive Spec-driven Scoring for Evaluation and Regression Testing), a tool that lets developers create AI agent behavior tests using plain-text descriptions instead of hand-coded test cases. ASSERT automatically generates scored test scenarios from natural language specifications, reducing the manual effort required to validate how AI agents behave in production. The tool is designed to complement ACS as part of a broader Microsoft framework for governing and evaluating AI agent deployments.",
+      "score": 6,
+      "scraped_at": "2026-06-04"
+    },
+    {
+      "id": "bab0e18b2802152d",
+      "title": "OpenAI deprecates Evals platform, Agent Builder, and reusable prompts",
+      "vendor": "OpenAI",
+      "source": "developers.openai.com",
+      "url": "https://developers.openai.com/api/docs/deprecations",
+      "date": "2026-06-03",
+      "description": "OpenAI notified developers on June 3 that it is deprecating the Evals platform, Agent Builder, and reusable prompt objects from its dashboard and API. Older GPT Image models were also flagged for removal from the API on December 1, 2026. The deprecations reflect ongoing consolidation of OpenAI's developer tooling as the company streamlines its product surface.",
+      "score": 4,
+      "scraped_at": "2026-06-04"
     }
   ]
 }
