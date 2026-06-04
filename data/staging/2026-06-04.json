@@ -1,0 +1,68 @@
+[
+  {
+    "id": "fd9b87df1fe1b911",
+    "title": "Expanding Project Glasswing",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+    "date": "2026-06-02",
+    "description": "Anthropic is expanding Project Glasswing, its joint industry initiative to identify and fix critical software vulnerabilities using AI, to approximately 150 new organizations across more than 15 countries. The program is powered by Claude Mythos, described as Anthropic's most powerful model yet, which can autonomously identify thousands of zero-day vulnerabilities over several weeks. Partners in the initiative have already discovered more than 10,000 high- or critical-severity security flaws through the program.",
+    "score": 9,
+    "scraped_at": "2026-06-04"
+  },
+  {
+    "id": "4d5e67258f32f5a2",
+    "title": "Introducing OpenAI for Government",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/global-affairs/introducing-openai-for-government/",
+    "date": "2026-06-03",
+    "description": "OpenAI launched OpenAI for Government, a dedicated product offering providing U.S. and international government agencies with access to its AI models under specialized terms and compliance-oriented features. The program is designed to help public-sector organizations modernize operations with enterprise-grade AI while meeting the unique data governance and security requirements of government deployments. The initiative also includes a commitment to advancing democratic governance of frontier AI.",
+    "score": 8,
+    "scraped_at": "2026-06-04"
+  },
+  {
+    "id": "600bc7437caa9359",
+    "title": "Microsoft offers devs a better way to control AI agent behavior",
+    "vendor": "Microsoft",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+    "date": "2026-06-02",
+    "description": "Microsoft introduced the Agent Control Specification (ACS), an open-source standard designed to give developers a more consistent and granular way to control what AI agents are permitted to do. ACS provides a structured schema for specifying agent behavior rules, enabling more predictable and auditable AI agent deployments across platforms. The specification aims to become a common framework for enterprise environments as agentic AI systems grow more prevalent.",
+    "score": 7,
+    "scraped_at": "2026-06-04"
+  },
+  {
+    "id": "83a7ccda34f90ddd",
+    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+    "vendor": "Microsoft",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+    "date": "2026-06-02",
+    "description": "Microsoft unveiled ASSERT (Adaptive Spec-driven Scoring for Evaluation and Regression Testing), a tool that lets developers create AI agent behavior tests using plain-text descriptions instead of hand-coded test cases. ASSERT automatically generates scored test scenarios from natural language specifications, reducing the manual effort required to validate how AI agents behave in production. The tool is designed to complement ACS as part of a broader Microsoft framework for governing and evaluating AI agent deployments.",
+    "score": 6,
+    "scraped_at": "2026-06-04"
+  },
+  {
+    "id": "b28194f531afc390",
+    "title": "Enterprise multi-team management in Cursor",
+    "vendor": "Cursor",
+    "source": "cursor.com",
+    "url": "https://cursor.com/changelog",
+    "date": "2026-06-03",
+    "description": "Cursor added multi-team management for Enterprise customers, enabling organizations to manage multiple Cursor teams from a single interface with separate security, governance, budget, and feature controls for each team. The update addresses a key gap for large organizations deploying Cursor across multiple departments or subsidiaries. It follows recent additions such as Auto-review mode and canvas sharing as Cursor accelerates enterprise-readiness features.",
+    "score": 6,
+    "scraped_at": "2026-06-04"
+  },
+  {
+    "id": "bab0e18b2802152d",
+    "title": "OpenAI deprecates Evals platform, Agent Builder, and reusable prompts",
+    "vendor": "OpenAI",
+    "source": "developers.openai.com",
+    "url": "https://developers.openai.com/api/docs/deprecations",
+    "date": "2026-06-03",
+    "description": "OpenAI notified developers on June 3 that it is deprecating the Evals platform, Agent Builder, and reusable prompt objects from its dashboard and API. Older GPT Image models were also flagged for removal from the API on December 1, 2026. The deprecations reflect ongoing consolidation of OpenAI's developer tooling as the company streamlines its product surface.",
+    "score": 4,
+    "scraped_at": "2026-06-04"
+  }
+]
