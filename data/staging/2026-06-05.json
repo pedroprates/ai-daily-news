@@ -1,0 +1,79 @@
+[
+  {
+    "id": "2a5d03e1e09c4333",
+    "title": "Anthropic files to go public",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+    "date": "2026-06-01",
+    "description": "Anthropic confidentially filed for an initial public offering with the SEC on June 1, less than a week after closing a $65 billion Series H round that pushed its valuation to $965 billion. The filing places Anthropic ahead of rival OpenAI in the race to go public, though the company has not yet set share count or price. The proposed IPO remains subject to market conditions.",
+    "score": 9,
+    "scraped_at": "2026-06-05"
+  },
+  {
+    "id": "034ffa77f622f1d9",
+    "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+    "date": "2026-06-02",
+    "description": "Anthropic is expanding Project Glasswing — its joint industry initiative to identify and fix critical software vulnerabilities using AI — to roughly 150 new organizations across more than 15 countries. Claude Mythos, Anthropic's most capable model yet, powers the effort and has demonstrated the ability to surface thousands of zero-day vulnerabilities over multi-week engagements. The scale-up represents a significant push into AI-driven cybersecurity for critical infrastructure globally.",
+    "score": 8,
+    "scraped_at": "2026-06-05"
+  },
+  {
+    "id": "50f5b8b2ad0eeaff",
+    "title": "Codex for every role, tool, and workflow",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/codex-for-every-role-tool-workflow/",
+    "date": "2026-06-02",
+    "description": "OpenAI launched six role-specific plugins for Codex that bundle relevant apps, skills, and instructions for data analytics, creative production, and other professional workflows — spanning 62 popular apps and 110 skills. The announcement accompanies a milestone of over 5 million weekly Codex users, with non-developers now comprising 20% of the user base and growing more than 3x as fast as developers. New features include in-context annotations and a preview for building shareable interactive websites directly from Codex.",
+    "score": 7,
+    "scraped_at": "2026-06-05"
+  },
+  {
+    "id": "b4c2c75e8fc382c7",
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+    "date": "2026-06-01",
+    "description": "OpenAI announced that its frontier models and the Codex agentic coding platform are now available on Amazon Web Services, giving enterprise AWS customers direct access within their existing cloud environments. The partnership extends OpenAI's distribution reach significantly, mirroring similar cloud availability on Azure. Customers can now provision and call OpenAI models through standard AWS tooling without leaving their AWS infrastructure.",
+    "score": 7,
+    "scraped_at": "2026-06-05"
+  },
+  {
+    "id": "2c286659d42710e8",
+    "title": "Microsoft Build 2026 live blog",
+    "vendor": "Microsoft",
+    "source": "microsoft.com",
+    "url": "https://news.microsoft.com/build-2026-live-blog/microsoft-build-2026-live/",
+    "date": "2026-06-02",
+    "description": "Microsoft Build 2026 (June 2–3, San Francisco) centered on agentic AI, with the debut of seven new MAI models including MAI-Thinking-1, a 35-billion-parameter reasoning model with a 256K context window built without distillation and entering private preview on Azure Foundry. Microsoft introduced Autopilots — long-running autonomous agents, starting with Scout — and the Microsoft IQ context layer that feeds agents real-time workplace, data, and web knowledge. GitHub Copilot also received updates aimed at developers and non-developer roles alike.",
+    "score": 9,
+    "scraped_at": "2026-06-05"
+  },
+  {
+    "id": "1a27c63824de7849",
+    "title": "Infosys, TCS and Wipro scale Microsoft 365 Copilot to over 300,000 employees",
+    "vendor": "Microsoft",
+    "source": "microsoft.com",
+    "url": "https://news.microsoft.com/source/asia/2026/06/03/infosys-tcs-and-wipro-scale-microsoft-365-copilot-to-over-300000-employees/",
+    "date": "2026-06-03",
+    "description": "Microsoft announced that Infosys, TCS, and Wipro have each individually scaled Microsoft 365 Copilot deployments past 100,000 employees, collectively surpassing 300,000 seats across the three firms in under six months. The milestone illustrates the pace of enterprise AI adoption among large IT services organizations, with Microsoft noting it will make 365 Business Standard and Premium with Copilot permanent SKUs starting July 1, 2026.",
+    "score": 8,
+    "scraped_at": "2026-06-05"
+  },
+  {
+    "id": "a7cbd48b2571156d",
+    "title": "Musk's xAI Pauses Hiring for Specialists to Train Grok Chatbot",
+    "vendor": "xAI",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/musk-s-xai-pauses-hiring-for-specialists-to-train-grok-chatbot",
+    "date": "2026-06-03",
+    "description": "Elon Musk's xAI has paused hiring for the domain specialists who train Grok on specialized skills, signaling a pivot in how the company builds model capabilities. The pause follows SpaceX's February 2026 absorption of xAI, after which more than 50 researchers and engineers — including the head of the pre-training team — departed. xAI simultaneously launched Grok Connectors, enabling deep integrations with SharePoint, Google Workspace, GitHub, and other enterprise tools, suggesting a near-term focus on product utility over model training breadth.",
+    "score": 6,
+    "scraped_at": "2026-06-05"
+  }
+]
