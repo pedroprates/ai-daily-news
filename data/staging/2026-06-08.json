@@ -1,0 +1,68 @@
+[
+  {
+    "id": "bd891e1aa686b089",
+    "title": "Anthropic confidentially submits draft S-1 to the SEC",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+    "date": "2026-06-01",
+    "description": "Anthropic filed a confidential draft Form S-1 registration statement with the SEC for a proposed initial public offering, potentially leapfrogging rival OpenAI in the race to Wall Street. The filing follows a $65 billion funding round at a near-$1 trillion valuation and comes as Anthropic reportedly hit $10.9 billion in revenue during Q2 2026. The company has not yet disclosed the IPO timeline or proposed share price.",
+    "score": 9,
+    "scraped_at": "2026-06-08"
+  },
+  {
+    "id": "034ffa77f622f1d9",
+    "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+    "date": "2026-06-02",
+    "description": "Anthropic is expanding Project Glasswing, its joint initiative to find and fix critical software vulnerabilities using AI, to approximately 150 new organizations across more than 15 countries. Claude Mythos, described as Anthropic's most capable model to date, powers the program and has demonstrated the ability to discover thousands of zero-day vulnerabilities over several weeks. The expansion significantly broadens the scope of AI-assisted critical infrastructure security.",
+    "score": 8,
+    "scraped_at": "2026-06-08"
+  },
+  {
+    "id": "9d6a48ccf42b9ba3",
+    "title": "Anthropic invests $100 million into the Claude Partner Network",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/claude-partner-network",
+    "date": "2026-06-03",
+    "description": "Anthropic launched the Services Track and Partner Hub of the Claude Partner Network, backed by a $100 million investment to build an ecosystem of deployment and integration partners. The program creates a formal pathway for consulting and services firms to bring Claude capabilities to enterprise customers. The initiative is part of Anthropic's broader push to accelerate enterprise AI adoption ahead of its planned IPO.",
+    "score": 7,
+    "scraped_at": "2026-06-08"
+  },
+  {
+    "id": "a7cbd48b2571156d",
+    "title": "Musk's xAI Pauses Hiring for Specialists to Train Grok Chatbot",
+    "vendor": "xAI",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/musk-s-xai-pauses-hiring-for-specialists-to-train-grok-chatbot",
+    "date": "2026-06-03",
+    "description": "Elon Musk's xAI has paused hiring for professionals who specialize in training AI models on domain-specific skills, signaling a potential shift in how the company develops its Grok chatbot. The pause suggests xAI may be moving toward more automated or synthetic training data pipelines rather than relying on domain experts. The development comes as xAI competes with larger labs including OpenAI and Anthropic for frontier model leadership.",
+    "score": 6,
+    "scraped_at": "2026-06-08"
+  },
+  {
+    "id": "c810b309cf73a8c1",
+    "title": "What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates",
+    "vendor": "Apple",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "date": "2026-06-06",
+    "description": "Apple's WWDC 2026 opens today with major AI announcements centered on a sweeping Siri overhaul that leverages Google's Gemini technology to transform the assistant into a full conversational AI competing with ChatGPT and Claude. Apple is expected to announce iOS 27, macOS 27, and updates across all platforms featuring new Apple Intelligence capabilities with a strong emphasis on on-device inference as a privacy-preserving alternative to cloud processing. Image Playground, memory features, and multi-step task handling across apps are also expected to debut.",
+    "score": 8,
+    "scraped_at": "2026-06-08"
+  },
+  {
+    "id": "1539ba11f8d08457",
+    "title": "OpenAI Readies 'Superapp' Pivot Ahead of Planned IPO, FT Reports",
+    "vendor": "OpenAI",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-07/openai-plans-superapp-pivot-ahead-of-planned-ipo-ft-reports",
+    "date": "2026-06-07",
+    "description": "OpenAI is planning a major platform overhaul to transform ChatGPT from a question-and-answer chatbot into a comprehensive \"superapp\" ahead of its anticipated IPO, with changes set to roll out in the coming weeks. The pivot is aimed at deepening user engagement and expanding ChatGPT's utility beyond standalone Q&A to cover a broader range of daily tasks and services. The move mirrors strategies seen in Asian super-apps and is intended to strengthen OpenAI's consumer revenue base alongside its growing enterprise business.",
+    "score": 8,
+    "scraped_at": "2026-06-08"
+  }
+]
