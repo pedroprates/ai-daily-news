@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-08T07:37:46.301767+00:00",
+  "updated_at": "2026-06-09T07:40:09.190286+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -617,6 +617,28 @@
       "description": "OpenAI is planning a major platform overhaul to transform ChatGPT from a question-and-answer chatbot into a comprehensive \"superapp\" ahead of its anticipated IPO, with changes set to roll out in the coming weeks. The pivot is aimed at deepening user engagement and expanding ChatGPT's utility beyond standalone Q&A to cover a broader range of daily tasks and services. The move mirrors strategies seen in Asian super-apps and is intended to strengthen OpenAI's consumer revenue base alongside its growing enterprise business.",
       "score": 8,
       "scraped_at": "2026-06-08"
+    },
+    {
+      "id": "b94d6404c66017b8",
+      "title": "Innovations from Google I/O 26 on Google Cloud",
+      "vendor": "Google",
+      "source": "cloud.google.com",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud",
+      "date": "2026-06-09",
+      "description": "Google Cloud detailed how AI innovations announced at I/O 2026 land on its platform, highlighting Gemini 3.5 Flash for high-performance agentic workloads and Gemini Omni's multimodal output generation capabilities. The post covers expanded enterprise tooling and infrastructure updates designed to support the next wave of AI-native applications. These announcements position Google Cloud as the deployment infrastructure for multimodal and agentic AI at scale.",
+      "score": 7,
+      "scraped_at": "2026-06-09"
+    },
+    {
+      "id": "10845ea96e172413",
+      "title": "How Google used Gemini and other AI products to build I/O 2026",
+      "vendor": "Google",
+      "source": "blog.google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "date": "2026-06-09",
+      "description": "Google published a behind-the-scenes look at how it used its own Gemini-powered AI tools to plan and execute Google I/O 2026 across logistics, content creation, and event production. The post serves as a real-world demonstration of Gemini's practical utility in large-scale organizational workflows. It highlights Google's use of its own AI stack as a proving ground for the tools it sells to enterprises.",
+      "score": 5,
+      "scraped_at": "2026-06-09"
     }
   ]
 }
