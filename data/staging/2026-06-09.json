@@ -1,0 +1,68 @@
+[
+  {
+    "id": "751a892e2ef7a354",
+    "title": "OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/openai-launches-the-deployment-company/",
+    "date": "2026-06-08",
+    "description": "OpenAI launched the OpenAI Deployment Company, a new organization designed to help businesses deploy and rely on AI across their most critical operations. The venture opened with more than $4 billion in initial investment and aims to embed AI deeply into enterprise workflows. It marks OpenAI's direct push into enterprise services, competing with consulting firms and AI-native service providers.",
+    "score": 9,
+    "scraped_at": "2026-06-09"
+  },
+  {
+    "id": "5348a7d239028e9b",
+    "title": "Introducing Claude Opus 4.8",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "date": "2026-06-08",
+    "description": "Anthropic released Claude Opus 4.8, its latest flagship model featuring stronger coding, agentic capabilities, reasoning, and practical knowledge work performance compared to Claude Opus 4.7. The model is available immediately via API and on Claude.ai. The release also deprecates Claude Opus 4.1, with API retirement scheduled for August 5, 2026.",
+    "score": 9,
+    "scraped_at": "2026-06-09"
+  },
+  {
+    "id": "282f3791a4aeb335",
+    "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+    "vendor": "Industry",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+    "date": "2026-06-07",
+    "description": "Anthropic and PwC announced a major expansion of their strategic alliance to deploy Claude across PwC's global workforce, including plans to train and certify 30,000 professionals on Claude and establish a joint Center of Excellence. Engineering teams using Claude Code are shipping production software in weeks rather than quarters, with clients reporting up to 70% delivery improvements and insurance underwriting cycles compressed from ten weeks to ten days. The partnership focuses on three areas: agentic technology build, AI-native deal-making, and enterprise function reinvention.",
+    "score": 8,
+    "scraped_at": "2026-06-09"
+  },
+  {
+    "id": "f3054c38c05bad1a",
+    "title": "Google I/O 2026: Sundar Pichai's opening keynote",
+    "vendor": "Google",
+    "source": "blog.google",
+    "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+    "date": "2026-06-09",
+    "description": "Google CEO Sundar Pichai kicked off Google I/O 2026 with major AI announcements including the launch of Gemini 3.5 Flash for agents and coding, a price cut for Gemini Ultra from $250 to $200 per month, and a new $100 per month Developer tier. The company reported reaching 900 million monthly Gemini users and unveiled Gemini Omni, a new model capable of generating outputs in any modality from any input. DeepMind also announced the hire of more than 20 Contextual AI researchers under an $80–90 million licensing deal.",
+    "score": 8,
+    "scraped_at": "2026-06-09"
+  },
+  {
+    "id": "b94d6404c66017b8",
+    "title": "Innovations from Google I/O 26 on Google Cloud",
+    "vendor": "Google",
+    "source": "cloud.google.com",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud",
+    "date": "2026-06-09",
+    "description": "Google Cloud detailed how AI innovations announced at I/O 2026 land on its platform, highlighting Gemini 3.5 Flash for high-performance agentic workloads and Gemini Omni's multimodal output generation capabilities. The post covers expanded enterprise tooling and infrastructure updates designed to support the next wave of AI-native applications. These announcements position Google Cloud as the deployment infrastructure for multimodal and agentic AI at scale.",
+    "score": 7,
+    "scraped_at": "2026-06-09"
+  },
+  {
+    "id": "10845ea96e172413",
+    "title": "How Google used Gemini and other AI products to build I/O 2026",
+    "vendor": "Google",
+    "source": "blog.google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+    "date": "2026-06-09",
+    "description": "Google published a behind-the-scenes look at how it used its own Gemini-powered AI tools to plan and execute Google I/O 2026 across logistics, content creation, and event production. The post serves as a real-world demonstration of Gemini's practical utility in large-scale organizational workflows. It highlights Google's use of its own AI stack as a proving ground for the tools it sells to enterprises.",
+    "score": 5,
+    "scraped_at": "2026-06-09"
+  }
+]
