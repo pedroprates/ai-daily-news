@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-10T07:35:32.358399+00:00",
+  "updated_at": "2026-06-11T07:38:18.323373+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -705,6 +705,39 @@
       "description": "At Build 2026, Microsoft unveiled MAI-Code-1-Flash, its first proprietary code-generation model that converts natural-language descriptions into application source code, as part of a broader effort to reduce dependence on OpenAI and offer more affordable AI options to developers. The announcement positions Microsoft as a direct competitor to Anthropic and Google in the AI coding model segment, a market it had previously ceded while OpenAI's Codex powered GitHub Copilot. Additional models targeting cost-sensitive enterprise workloads were also announced alongside new GitHub agent features.",
       "score": 7,
       "scraped_at": "2026-06-10"
+    },
+    {
+      "id": "44df8f2b6b941c46",
+      "title": "Microsoft Build 2026: Be yourself at work",
+      "vendor": "Microsoft",
+      "source": "blogs.microsoft.com",
+      "url": "https://blogs.microsoft.com/blog/2026/06/02/microsoft-build-2026-be-yourself-at-work/",
+      "date": "2026-06-02",
+      "description": "Microsoft's Build 2026 developer conference unveiled a broad set of AI announcements including Scout, an executive assistant AI that integrates directly into workplace email and calendar systems, and a new in-house model family: MAI-Code-1-Flash for code generation, MAI-Thinking-1 for reasoning, and MAI-Image-2.5 for image tasks. The company also introduced Microsoft IQ and Work IQ, context layers designed to ground AI agents in enterprise knowledge and workflows. The announcements signal Microsoft's push to reduce dependence on third-party AI models while deepening its agentic AI platform.",
+      "score": 8,
+      "scraped_at": "2026-06-11"
+    },
+    {
+      "id": "c3ab8c2b1dbfd6f4",
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "vendor": "Anthropic",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "date": "2026-06-10",
+      "description": "Security researchers are pushing back on Claude Fable 5's hard safety guardrails, which block responses in cybersecurity, biology, chemistry, and distillation domains and fall back to Claude Opus 4.8. While Anthropic designed the restrictions to prevent misuse of the frontier model's capabilities, professionals argue the blocks are too broad and disrupt legitimate security research workflows. The backlash highlights ongoing tensions between frontier-model safety measures and the needs of specialized technical users.",
+      "score": 7,
+      "scraped_at": "2026-06-11"
+    },
+    {
+      "id": "39acd6416fb6b6d0",
+      "title": "Intelligence layer models protect enterprise AI investments",
+      "vendor": "Industry",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/06/10/intelligence-layer-models-protect-enterprise-ai-investments-finopsx/",
+      "date": "2026-06-10",
+      "description": "Coverage from FinOpsX 2026 examines how enterprises are adopting intelligence layer models—contextual AI systems that manage enterprise knowledge and governance independently of underlying foundation models—to insulate their AI investments from rapid model churn. By decoupling business logic from specific foundational models, organizations can upgrade or swap models without losing accumulated context or rewriting integrations. The architectural approach is gaining traction as vendors including Microsoft and others position context layers as a durable enterprise AI strategy.",
+      "score": 6,
+      "scraped_at": "2026-06-11"
     }
   ]
 }
