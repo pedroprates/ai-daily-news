@@ -1,0 +1,79 @@
+[
+  {
+    "id": "e11fcea9cd94bb20",
+    "title": "Claude Fable 5 and Claude Mythos 5",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "date": "2026-06-09",
+    "description": "Anthropic launched Claude Fable 5, the first publicly available version of its Mythos-tier model family, alongside Claude Mythos 5 for approved enterprise customers. Fable 5 achieves state-of-the-art performance on nearly all tested benchmarks across software engineering, knowledge work, vision, and scientific research, with hard safety limits in high-risk domains. Both models are priced at $10 per million input tokens and $50 per million output tokens—less than half the previous Mythos Preview pricing—and are included at no extra cost in Pro, Max, Team, and Enterprise plans through June 22.",
+    "score": 10,
+    "scraped_at": "2026-06-11"
+  },
+  {
+    "id": "bd891e1aa686b089",
+    "title": "Anthropic confidentially submits draft S-1 to the SEC",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+    "date": "2026-06-01",
+    "description": "Anthropic confidentially submitted a draft S-1 registration statement to the U.S. Securities and Exchange Commission for a proposed initial public offering of its common stock. The company reported an annualized revenue run rate of $47 billion—up from roughly $10 billion the prior year—and recently closed a funding round that valued it at $965 billion, topping OpenAI's $852 billion valuation from March. The filing marks Anthropic's first concrete step toward becoming a publicly traded company.",
+    "score": 9,
+    "scraped_at": "2026-06-11"
+  },
+  {
+    "id": "44df8f2b6b941c46",
+    "title": "Microsoft Build 2026: Be yourself at work",
+    "vendor": "Microsoft",
+    "source": "blogs.microsoft.com",
+    "url": "https://blogs.microsoft.com/blog/2026/06/02/microsoft-build-2026-be-yourself-at-work/",
+    "date": "2026-06-02",
+    "description": "Microsoft's Build 2026 developer conference unveiled a broad set of AI announcements including Scout, an executive assistant AI that integrates directly into workplace email and calendar systems, and a new in-house model family: MAI-Code-1-Flash for code generation, MAI-Thinking-1 for reasoning, and MAI-Image-2.5 for image tasks. The company also introduced Microsoft IQ and Work IQ, context layers designed to ground AI agents in enterprise knowledge and workflows. The announcements signal Microsoft's push to reduce dependence on third-party AI models while deepening its agentic AI platform.",
+    "score": 8,
+    "scraped_at": "2026-06-11"
+  },
+  {
+    "id": "c3ab8c2b1dbfd6f4",
+    "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "date": "2026-06-10",
+    "description": "Security researchers are pushing back on Claude Fable 5's hard safety guardrails, which block responses in cybersecurity, biology, chemistry, and distillation domains and fall back to Claude Opus 4.8. While Anthropic designed the restrictions to prevent misuse of the frontier model's capabilities, professionals argue the blocks are too broad and disrupt legitimate security research workflows. The backlash highlights ongoing tensions between frontier-model safety measures and the needs of specialized technical users.",
+    "score": 7,
+    "scraped_at": "2026-06-11"
+  },
+  {
+    "id": "b4c2c75e8fc382c7",
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+    "date": "2026-06-02",
+    "description": "OpenAI's frontier models and Codex are now generally available on Amazon Web Services, extending access to millions of AWS customers through the cloud infrastructure they already use. Codex has grown to over 4 million weekly active developers and is among OpenAI's fastest-growing enterprise products. The integration gives enterprises a new deployment path for OpenAI models without requiring a separate API relationship.",
+    "score": 7,
+    "scraped_at": "2026-06-11"
+  },
+  {
+    "id": "282f3791a4aeb335",
+    "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+    "date": "2026-06-09",
+    "description": "Anthropic announced an expanded partnership with PwC in which the Big Four firm is deploying Claude across its client-facing technology, deal execution workflows, and enterprise transformation engagements. The partnership reflects a broader trend of major professional services firms embedding frontier AI models into core business processes rather than using them as standalone productivity tools. PwC joins a growing roster of enterprise customers leveraging Claude for high-stakes knowledge work at scale.",
+    "score": 8,
+    "scraped_at": "2026-06-11"
+  },
+  {
+    "id": "39acd6416fb6b6d0",
+    "title": "Intelligence layer models protect enterprise AI investments",
+    "vendor": "Industry",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/06/10/intelligence-layer-models-protect-enterprise-ai-investments-finopsx/",
+    "date": "2026-06-10",
+    "description": "Coverage from FinOpsX 2026 examines how enterprises are adopting intelligence layer models—contextual AI systems that manage enterprise knowledge and governance independently of underlying foundation models—to insulate their AI investments from rapid model churn. By decoupling business logic from specific foundational models, organizations can upgrade or swap models without losing accumulated context or rewriting integrations. The architectural approach is gaining traction as vendors including Microsoft and others position context layers as a durable enterprise AI strategy.",
+    "score": 6,
+    "scraped_at": "2026-06-11"
+  }
+]
