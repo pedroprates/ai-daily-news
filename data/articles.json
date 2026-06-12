@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-11T07:38:18.323373+00:00",
+  "updated_at": "2026-06-12T07:38:11.670636+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -738,6 +738,17 @@
       "description": "Coverage from FinOpsX 2026 examines how enterprises are adopting intelligence layer models—contextual AI systems that manage enterprise knowledge and governance independently of underlying foundation models—to insulate their AI investments from rapid model churn. By decoupling business logic from specific foundational models, organizations can upgrade or swap models without losing accumulated context or rewriting integrations. The architectural approach is gaining traction as vendors including Microsoft and others position context layers as a durable enterprise AI strategy.",
       "score": 6,
       "scraped_at": "2026-06-11"
+    },
+    {
+      "id": "2f212237ceb0cfdb",
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "vendor": "OpenAI",
+      "source": "openai.com",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+      "date": "2026-06-08",
+      "description": "OpenAI filed a confidential draft S-1 with the SEC, signaling its intent to go public, though the company says it has not decided on timing and expects the filing to leak. Valued at over $850 billion, OpenAI is working with Goldman Sachs and Morgan Stanley on a potential listing. The move follows a similar confidential IPO filing by rival Anthropic weeks earlier.",
+      "score": 8,
+      "scraped_at": "2026-06-12"
     }
   ]
 }
