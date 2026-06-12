@@ -1,0 +1,68 @@
+[
+  {
+    "id": "e11fcea9cd94bb20",
+    "title": "Claude Fable 5 and Claude Mythos 5",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "date": "2026-06-09",
+    "description": "Anthropic released Claude Fable 5, a Mythos-class model now available to Pro, Max, Team, and Enterprise subscribers at no extra cost through June 22. The model sets new state-of-the-art benchmarks across software engineering, knowledge work, vision, and scientific research, and is priced at $10 per million input tokens and $50 per million output tokens—less than half the price of Claude Mythos Preview. Starting June 23, Fable 5 will require usage credits.",
+    "score": 10,
+    "scraped_at": "2026-06-12"
+  },
+  {
+    "id": "dd5d2c6c728e8abb",
+    "title": "Apple unveils next generation of Apple Intelligence, Siri AI, and more",
+    "vendor": "Apple",
+    "source": "apple.com",
+    "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+    "date": "2026-06-08",
+    "description": "At WWDC 2026, Apple announced a major overhaul of Siri, rebranded as \"Siri AI\" and powered by Google Gemini, now capable of multi-turn conversations, real-time world knowledge, and cross-app context awareness. Siri gains a standalone app, Dynamic Island integration, and expanded Apple Intelligence features across iOS 27, iPadOS, macOS, and more. iOS 27 will be supported on all devices from iPhone 11 onward, the broadest compatibility of any iOS release.",
+    "score": 9,
+    "scraped_at": "2026-06-12"
+  },
+  {
+    "id": "2f212237ceb0cfdb",
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+    "date": "2026-06-08",
+    "description": "OpenAI filed a confidential draft S-1 with the SEC, signaling its intent to go public, though the company says it has not decided on timing and expects the filing to leak. Valued at over $850 billion, OpenAI is working with Goldman Sachs and Morgan Stanley on a potential listing. The move follows a similar confidential IPO filing by rival Anthropic weeks earlier.",
+    "score": 8,
+    "scraped_at": "2026-06-12"
+  },
+  {
+    "id": "034ffa77f622f1d9",
+    "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+    "date": "2026-06-02",
+    "description": "Anthropic expanded Project Glasswing, its joint AI-powered vulnerability-detection initiative, to roughly 150 new organizations across more than 15 countries. The program uses Claude Mythos to identify and fix critical software vulnerabilities in infrastructure systems. The expansion underscores Anthropic's push to position frontier models as active tools for national and industrial cybersecurity.",
+    "score": 7,
+    "scraped_at": "2026-06-12"
+  },
+  {
+    "id": "ef1d54b6c649a0ca",
+    "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
+    "vendor": "Microsoft",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
+    "date": "2026-06-02",
+    "description": "At Microsoft Build 2026, Microsoft launched MAI-Code-1-Flash, its first code-generation model, and MAI-Thinking-1, a high-efficiency reasoning model built for low token cost. The announcements signal Microsoft's strategy to diversify its AI model portfolio beyond its partnership with OpenAI and compete directly in the coding and reasoning model market. Both models target developer workloads at competitive price points.",
+    "score": 7,
+    "scraped_at": "2026-06-12"
+  },
+  {
+    "id": "d890e4bb37a903a7",
+    "title": "Google will pay SpaceX $920M per month for compute",
+    "vendor": "Google",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+    "date": "2026-06-05",
+    "description": "Google signed an agreement to pay SpaceX approximately $920 million per month from October 2026 through June 2029 for access to around 110,000 NVIDIA GPUs and associated compute infrastructure at SpaceX's Colossus data center. The deal reflects the intensifying competition among frontier AI labs to lock in large-scale GPU capacity as demand for AI inference and training accelerates. Anthropic announced a similar SpaceX compute deal worth roughly $1.25 billion per month earlier in May.",
+    "score": 7,
+    "scraped_at": "2026-06-12"
+  }
+]
