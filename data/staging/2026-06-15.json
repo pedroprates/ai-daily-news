@@ -1,0 +1,68 @@
+[
+  {
+    "id": "72c805579f21b6e8",
+    "title": "Introducing Claude Corps",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/claude-corps",
+    "date": "2026-06-11",
+    "description": "Anthropic announced Claude Corps, a national fellowship program committing $150 million to place 1,000 early-career fellows with nonprofits across America for a full year. Fellows will be trained to use Claude effectively and embedded with host organizations advancing missions in education, healthcare, and community services. CodePath, an Anthropic nonprofit partner, will serve as the official employer of record, while Social Finance will lead measurement and evaluation of the program.",
+    "score": 8,
+    "scraped_at": "2026-06-15"
+  },
+  {
+    "id": "7f42ae0d5b44a6ef",
+    "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+    "vendor": "Industry",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+    "date": "2026-06-11",
+    "description": "Tata Consultancy Services (TCS) and Anthropic announced a partnership to deploy Claude to 50,000 TCS employees across 56 countries and build Claude-powered products for clients in financial services, healthcare, the public sector, and other regulated industries. TCS will package Claude into industry-specific offerings such as claims processing for insurers and lending advisory for banks. TCS's UK life and pensions subsidiary Diligenta will also use Claude to improve customer experience for over 22 million policyholders.",
+    "score": 8,
+    "scraped_at": "2026-06-15"
+  },
+  {
+    "id": "2204a32eda4158df",
+    "title": "SpaceX Leases Colossus 1 Data Center to Anthropic After Internal AI Hurdles",
+    "vendor": "Anthropic",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-rented-out-computing-after-own-teams-had-trouble-using-it",
+    "date": "2026-06-12",
+    "description": "Bloomberg reported that SpaceX opted to lease the entirety of its Colossus 1 data center in Memphis to Anthropic after encountering technical challenges running its own Grok AI models at the facility. SpaceX experienced latency issues connecting Colossus 1 with two other sites more than 10 miles away, compounded by aging network infrastructure. The arrangement gives Anthropic access to over 220,000 NVIDIA GPUs and more than 300 megawatts of capacity.",
+    "score": 7,
+    "scraped_at": "2026-06-15"
+  },
+  {
+    "id": "5eb893081b000593",
+    "title": "Apple's Xcode now supports the Claude Agent SDK",
+    "vendor": "Apple",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk",
+    "date": "2026-06-09",
+    "description": "Anthropic announced that Xcode 26.3 now includes a native integration with the Claude Agent SDK, available as a release candidate for all Apple Developer Program members. Developers can configure Anthropic models directly within Xcode's coding intelligence features to power agentic development workflows. This deepens the existing Claude integration in Xcode 26, which allowed developers to connect their Claude account to power standard coding assistance.",
+    "score": 8,
+    "scraped_at": "2026-06-15"
+  },
+  {
+    "id": "416f1eec7676dbeb",
+    "title": "Google DeepMind and partners announce multi-agent safety research funding call",
+    "vendor": "Google",
+    "source": "deepmind.google",
+    "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "date": "2026-06-10",
+    "description": "Google DeepMind, Schmidt Sciences, the Cooperative AI Foundation, and the Advanced Research and Invention Agency (ARIA) launched a global research funding call of up to $10 million to study emergent risks in large-scale multi-agent AI systems. The program aims to develop frameworks for understanding how independent AI systems behave as a group across different networks and how to mitigate collective safety risks. Applications close August 8, 2026, with awardees to be announced in Autumn 2026.",
+    "score": 7,
+    "scraped_at": "2026-06-15"
+  },
+  {
+    "id": "7da739ccef233dea",
+    "title": "Custom stores, custom tools, and auto-review for the Cursor SDK",
+    "vendor": "Cursor",
+    "source": "cursor.com",
+    "url": "https://cursor.com/changelog/sdk-updates-jun-2026",
+    "date": "2026-06-04",
+    "description": "Cursor shipped major updates to its TypeScript and Python SDKs, adding the ability for developers to expose custom functions as tools, choose how agent and run metadata is persisted, and route local tool calls through an auto-review pipeline. Developers can now nest subagents to any depth and define custom stores that agents can query during task execution. The update also enables /review, /review-bugbot, and /review-security commands to sync Bugbot reviews with GitHub and GitLab repositories.",
+    "score": 6,
+    "scraped_at": "2026-06-15"
+  }
+]
