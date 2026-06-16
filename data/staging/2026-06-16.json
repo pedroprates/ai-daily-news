@@ -1,0 +1,68 @@
+[
+  {
+    "id": "441e4eae59af5e99",
+    "title": "Anthropic to meet with Trump administration over Mythos dispute",
+    "vendor": "Anthropic",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/06/15/anthropic-mythos-trump-ai.html",
+    "date": "2026-06-15",
+    "description": "Anthropic executives are set to meet with White House officials this week after the U.S. government ordered the company to suspend foreign access to its Fable 5 and Mythos 5 models, citing national security authorities. Anthropic says it believes the directive stems from concern over a narrow jailbreak that could let a user bypass cybersecurity guardrails, but the government has not detailed its specific concern. The dispute follows a breakdown in talks over deploying Claude on the Pentagon's GenAI.mil platform.",
+    "score": 9,
+    "scraped_at": "2026-06-16"
+  },
+  {
+    "id": "bd9bf27f1c675da1",
+    "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+    "date": "2026-06-15",
+    "description": "Salesforce agreed to acquire Fin, the AI customer service agent platform formerly known as Intercom, for about $3.6 billion. Fin's AI agents resolve customer queries across chat, WhatsApp, SMS, phone, and Slack, and will complement Salesforce's existing Agentforce product. The deal is expected to close in Salesforce's fiscal Q4 2027 and underscores the rush among enterprise software vendors to acquire proven agentic AI technology.",
+    "score": 7,
+    "scraped_at": "2026-06-16"
+  },
+  {
+    "id": "64d5226568c18034",
+    "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
+    "vendor": "Meta",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html",
+    "date": "2026-06-14",
+    "description": "A year after Meta brought in Alexandr Wang to lead its Superintelligence Labs, the company shipped its first proprietary foundation model, Muse Spark, in April. CNBC examines the pressure now on Mark Zuckerberg to prove Meta can turn that model into a paying business rather than just an enhancement to its advertising engine. The piece highlights ongoing friction inside Meta's three-month-old Applied AI unit as it scales to roughly 6,500 staff.",
+    "score": 6,
+    "scraped_at": "2026-06-16"
+  },
+  {
+    "id": "824268f2e9adbd3c",
+    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+    "vendor": "xAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+    "date": "2026-06-10",
+    "description": "A former xAI engineer sued the company and SpaceX, alleging he was terminated after raising internal safety concerns about Grok. The lawsuit, filed June 10, adds to scrutiny of xAI's safety culture as the company races to ship larger models. xAI has not publicly detailed the specific concerns the engineer raised.",
+    "score": 6,
+    "scraped_at": "2026-06-16"
+  },
+  {
+    "id": "5cef4596cb8484d4",
+    "title": "Meta's new 'AI Mode' on Facebook pulls from public info across its platforms",
+    "vendor": "Meta",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+    "date": "2026-06-15",
+    "description": "Meta is rolling out 'AI Mode,' a new Facebook search feature powered by Meta AI that lets users ask plain-language questions and get synthesized answers pulled from public posts across Meta's platforms. The feature is part of a broader push to keep users engaged on Facebook by layering generative AI into search and discovery. It follows Meta's recent launch of an AI assistant for creators offering posting-time and audience-comment suggestions.",
+    "score": 5,
+    "scraped_at": "2026-06-16"
+  },
+  {
+    "id": "f662af4f2fed3d6f",
+    "title": "Copilot code review: New configurations and controls",
+    "vendor": "Industry",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls/",
+    "date": "2026-06-12",
+    "description": "GitHub added new organization-level runner controls, content exclusion support, and removed the character limit on repository custom instructions for Copilot code review. The update gives engineering teams finer-grained control over how Copilot's automated review process is configured and scoped across their repositories. The changes are available now for Copilot code review users.",
+    "score": 5,
+    "scraped_at": "2026-06-16"
+  }
+]
