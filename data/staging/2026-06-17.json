@@ -1,0 +1,57 @@
+[
+  {
+    "id": "e11fcea9cd94bb20",
+    "title": "Claude Fable 5 and Claude Mythos 5",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "date": "2026-06-09",
+    "description": "Anthropic released Claude Fable 5, the first publicly available model in its Mythos class, alongside Claude Mythos 5 for trusted access users. Fable 5 delivers exceptional performance in software engineering, knowledge work, and scientific reasoning, with new safety guardrails that block responses in high-risk categories like cybersecurity and biology and fall back to Claude Opus 4.8. The model launched simultaneously across the Claude API, AWS, Microsoft Foundry, and other platforms.",
+    "score": 9,
+    "scraped_at": "2026-06-17"
+  },
+  {
+    "id": "441e4eae59af5e99",
+    "title": "Anthropic to meet with Trump administration over Mythos dispute",
+    "vendor": "Anthropic",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/06/15/anthropic-mythos-trump-ai.html",
+    "date": "2026-06-15",
+    "description": "Anthropic executives traveled to Washington to hold face-to-face talks with White House, Commerce Department, and National Cyber Director officials over the US export ban on Claude Fable 5 and Mythos 5. The ban was triggered after Amazon researchers reportedly bypassed Fable 5's safety guardrails, though Anthropic maintains the vulnerability is minor. Officials stated that lifting the ban depends on Anthropic demonstrating long-term security guarantees for the models.",
+    "score": 9,
+    "scraped_at": "2026-06-17"
+  },
+  {
+    "id": "bdb897e9b16cdf71",
+    "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+    "vendor": "Cursor",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+    "date": "2026-06-16",
+    "description": "SpaceX confirmed it will acquire Anysphere, the maker of popular AI coding tool Cursor, for $60 billion in an all-stock deal, just days after SpaceX's blockbuster IPO. The acquisition builds on SpaceX's earlier merger with xAI and is aimed at strengthening its AI engineering capabilities. The deal, which follows an option SpaceX secured in April, is expected to close in Q3 2026 pending regulatory approval.",
+    "score": 9,
+    "scraped_at": "2026-06-17"
+  },
+  {
+    "id": "ea49b62071a4cbeb",
+    "title": "Work IQ: Production-ready intelligence for every agent",
+    "vendor": "Microsoft",
+    "source": "microsoft.com",
+    "url": "https://devblogs.microsoft.com/microsoft365dev/work-iq-production-ready-intelligence-for-every-agent/",
+    "date": "2026-06-16",
+    "description": "Microsoft's Work IQ APIs reached general availability on June 16, giving developers programmatic access to a workplace intelligence layer that continuously processes email, calendar, meetings, chats, files, and people signals to ground enterprise AI agents with organizational context. The APIs are available via Agent-to-Agent (A2A) protocol, a redesigned remote MCP server, and REST, and are billed through a consumption-based Copilot Credits model. Work IQ is positioned as the semantic foundation for enterprise agents operating within Microsoft 365.",
+    "score": 7,
+    "scraped_at": "2026-06-17"
+  },
+  {
+    "id": "6202587d018d50e4",
+    "title": "Cursor · Origin",
+    "vendor": "Cursor",
+    "source": "cursor.com",
+    "url": "https://cursor.com/origin",
+    "date": "2026-06-17",
+    "description": "Cursor announced Origin, a git hosting and code collaboration platform built around AI agents as primary collaborators rather than humans. Unlike traditional version control systems, Origin structures code review, conflict resolution, and merge state to be machine-readable and machine-actionable from the ground up, positioning itself as a direct agent-first alternative to GitHub. Origin is expected to launch in fall 2026, with a waitlist open now.",
+    "score": 8,
+    "scraped_at": "2026-06-17"
+  }
+]
