@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-16T07:39:51.811920+00:00",
+  "updated_at": "2026-06-17T07:39:12.580712+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -881,6 +881,39 @@
       "description": "GitHub added new organization-level runner controls, content exclusion support, and removed the character limit on repository custom instructions for Copilot code review. The update gives engineering teams finer-grained control over how Copilot's automated review process is configured and scoped across their repositories. The changes are available now for Copilot code review users.",
       "score": 5,
       "scraped_at": "2026-06-16"
+    },
+    {
+      "id": "bdb897e9b16cdf71",
+      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+      "vendor": "Cursor",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+      "date": "2026-06-16",
+      "description": "SpaceX confirmed it will acquire Anysphere, the maker of popular AI coding tool Cursor, for $60 billion in an all-stock deal, just days after SpaceX's blockbuster IPO. The acquisition builds on SpaceX's earlier merger with xAI and is aimed at strengthening its AI engineering capabilities. The deal, which follows an option SpaceX secured in April, is expected to close in Q3 2026 pending regulatory approval.",
+      "score": 9,
+      "scraped_at": "2026-06-17"
+    },
+    {
+      "id": "ea49b62071a4cbeb",
+      "title": "Work IQ: Production-ready intelligence for every agent",
+      "vendor": "Microsoft",
+      "source": "microsoft.com",
+      "url": "https://devblogs.microsoft.com/microsoft365dev/work-iq-production-ready-intelligence-for-every-agent/",
+      "date": "2026-06-16",
+      "description": "Microsoft's Work IQ APIs reached general availability on June 16, giving developers programmatic access to a workplace intelligence layer that continuously processes email, calendar, meetings, chats, files, and people signals to ground enterprise AI agents with organizational context. The APIs are available via Agent-to-Agent (A2A) protocol, a redesigned remote MCP server, and REST, and are billed through a consumption-based Copilot Credits model. Work IQ is positioned as the semantic foundation for enterprise agents operating within Microsoft 365.",
+      "score": 7,
+      "scraped_at": "2026-06-17"
+    },
+    {
+      "id": "6202587d018d50e4",
+      "title": "Cursor · Origin",
+      "vendor": "Cursor",
+      "source": "cursor.com",
+      "url": "https://cursor.com/origin",
+      "date": "2026-06-17",
+      "description": "Cursor announced Origin, a git hosting and code collaboration platform built around AI agents as primary collaborators rather than humans. Unlike traditional version control systems, Origin structures code review, conflict resolution, and merge state to be machine-readable and machine-actionable from the ground up, positioning itself as a direct agent-first alternative to GitHub. Origin is expected to launch in fall 2026, with a waitlist open now.",
+      "score": 8,
+      "scraped_at": "2026-06-17"
     }
   ]
 }
