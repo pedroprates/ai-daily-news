@@ -1,0 +1,68 @@
+[
+  {
+    "id": "001317287cdd9d97",
+    "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/fable-mythos-access",
+    "date": "2026-06-13",
+    "description": "The US government issued an export control directive on June 12, 2026 requiring Anthropic to immediately suspend all access to Claude Fable 5 and Claude Mythos 5 for any foreign nationals, including Anthropic employees. The government cited national security concerns related to a reported jailbreak involving having the model read and fix a specific codebase, which Anthropic publicly disputed as too narrow and non-universal to justify disabling models used by hundreds of millions of people. Access to all other Claude models remains unaffected, and Anthropic said it is working to restore access as quickly as possible.",
+    "score": 9,
+    "scraped_at": "2026-06-18"
+  },
+  {
+    "id": "47e96fb85bcbcad4",
+    "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+    "date": "2026-06-17",
+    "description": "Anthropic formally opened its Seoul office on June 17, 2026, its third Asia-Pacific location after Tokyo and Bengaluru, led by KiYoung Choi. The launch was accompanied by enterprise deployments at NAVER (Claude Code across its full engineering organization), Samsung SDS, LG CNS, and Nexon, plus an MOU with Korea's Ministry of Science and ICT to advance AI safety. Anthropic will also provide Claude access to up to sixty researchers affiliated with the National AI Research Lab consortium across KAIST, Korea University, Yonsei, and POSTECH.",
+    "score": 7,
+    "scraped_at": "2026-06-18"
+  },
+  {
+    "id": "985eecf342c2493f",
+    "title": "Introducing LifeSciBench",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/introducing-life-sci-bench/",
+    "date": "2026-06-17",
+    "description": "OpenAI introduced LifeSciBench, an expert-authored and expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks across biology, chemistry, and drug discovery. The benchmark was developed alongside practicing scientists and is designed to track progress of GPT-Rosalind, OpenAI's specialized life sciences model. A companion announcement detailed how GPT-5.4 working with Molecule.one operated as a near-autonomous AI chemist, improving a challenging medicinal chemistry reaction.",
+    "score": 7,
+    "scraped_at": "2026-06-18"
+  },
+  {
+    "id": "aaa0f33e80e63a35",
+    "title": "Introducing gpt-realtime and Realtime API updates for production voice agents",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/introducing-gpt-realtime/",
+    "date": "2026-06-17",
+    "description": "OpenAI launched gpt-realtime, a new production-ready model for the Realtime API, alongside five expressive new voices (Ash, Ballad, Coral, Sage, and Verse) and significant cost reductions via prompt caching. Cached text input is now 50% cheaper and cached audio input is 80% cheaper, reducing a typical 15-minute voice conversation cost by approximately 30% compared to the API's initial launch. The updates target making real-time voice agent deployment economically viable at production scale.",
+    "score": 6,
+    "scraped_at": "2026-06-18"
+  },
+  {
+    "id": "2f212237ceb0cfdb",
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+    "date": "2026-06-08",
+    "description": "OpenAI confirmed it submitted a confidential draft S-1 registration statement to the US Securities and Exchange Commission on June 8, 2026, opening the path to a potential public listing as early as September 2026. The company is targeting a valuation between $730 billion and $850 billion at listing, with Goldman Sachs and Morgan Stanley as underwriters, though leadership noted timing remains undecided. The filing follows Anthropic's own IPO filing at a $965 billion valuation on June 1, creating the prospect of two major AI company listings in the same window.",
+    "score": 8,
+    "scraped_at": "2026-06-18"
+  },
+  {
+    "id": "c4b568f009d68606",
+    "title": "Grok Imagine Video 1.5",
+    "vendor": "xAI",
+    "source": "x.ai",
+    "url": "https://x.ai/news/grok-imagine-video-1-5",
+    "date": "2026-06-09",
+    "description": "xAI launched Grok Imagine Video 1.5, now generally available on grok.com/imagine and in iOS and Android apps, with a Fast variant that generates 6-second, 720p videos in roughly 25 seconds — nearly twice as fast as the previous generation. The model is also available to developers via the xAI API in preview. Video 1.5 Fast targets a balance between generation speed and visual quality for image-to-video workflows.",
+    "score": 6,
+    "scraped_at": "2026-06-18"
+  }
+]
