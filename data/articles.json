@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-18T07:39:39.516025+00:00",
+  "updated_at": "2026-06-19T07:38:55.650964+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -969,6 +969,72 @@
       "description": "xAI launched Grok Imagine Video 1.5, now generally available on grok.com/imagine and in iOS and Android apps, with a Fast variant that generates 6-second, 720p videos in roughly 25 seconds — nearly twice as fast as the previous generation. The model is also available to developers via the xAI API in preview. Video 1.5 Fast targets a balance between generation speed and visual quality for image-to-video workflows.",
       "score": 6,
       "scraped_at": "2026-06-18"
+    },
+    {
+      "id": "1b0938288101b6f8",
+      "title": "Introducing GPT-5.5",
+      "vendor": "OpenAI",
+      "source": "openai.com",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "date": "2026-06-19",
+      "description": "OpenAI released GPT-5.5, its newest large language model, now available across the API, Codex, and ChatGPT. The model represents the next step in OpenAI's rapid GPT-5 family release cadence, building on the reasoning and agentic capabilities introduced in earlier GPT-5 variants. Full benchmarks and pricing details were published alongside the release.",
+      "score": 9,
+      "scraped_at": "2026-06-19"
+    },
+    {
+      "id": "eda9ea6a23974c66",
+      "title": "'A signal of where power sits': Trump and world leaders joined by OpenAI, Anthropic, Google at G7",
+      "vendor": "Industry",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/17/g7-trump-ai-tech-leaders-openai-anthropic-google.html",
+      "date": "2026-06-17",
+      "description": "OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, and Google DeepMind CEO Demis Hassabis joined heads of government at the G7 summit in France on June 17, a gathering CNBC described as a signal of the concentration of influence between government and frontier AI labs. Amodei and Hassabis jointly called for a U.S.-led coalition to establish global AI rules and safety standards before other nations move to fill the vacuum. The summit marks one of the first times multiple frontier AI executives have attended a G7 as official participants rather than observers.",
+      "score": 8,
+      "scraped_at": "2026-06-19"
+    },
+    {
+      "id": "bda0f16e2cf57cad",
+      "title": "Anthropic asked for regulation. Washington went much further",
+      "vendor": "Anthropic",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/17/anthropic-ai-regulation-trump.html",
+      "date": "2026-06-17",
+      "description": "A CNBC analysis examines how the Trump administration's export control directive against Anthropic's Fable 5 and Mythos 5 models exceeded anything Anthropic had publicly lobbied for, despite the company being among the most vocal advocates for government AI oversight. The directive arrived with no prior consultation, no statutory process, and a disputed technical justification around an alleged narrow jailbreak, which Anthropic contested publicly. The episode has intensified debate in the AI industry over whether calling for regulation invites regulatory overreach.",
+      "score": 8,
+      "scraped_at": "2026-06-19"
+    },
+    {
+      "id": "5cbb89ca63676039",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "vendor": "OpenAI",
+      "source": "openai.com",
+      "url": "https://openai.com/index/openai-on-aws/",
+      "date": "2026-06-18",
+      "description": "OpenAI announced that its frontier models, Codex, and Managed Agents are now available directly through Amazon Web Services, letting enterprise customers deploy OpenAI capabilities within existing AWS infrastructure. Managed Agents on AWS enable autonomous, multi-step AI workflows with enterprise-grade access controls and audit logging. The integration expands OpenAI's enterprise distribution channel beyond its own API and Microsoft Azure.",
+      "score": 7,
+      "scraped_at": "2026-06-19"
+    },
+    {
+      "id": "0707924be91f4382",
+      "title": "Meet your new AI coding teammate: Gemini CLI GitHub Actions",
+      "vendor": "Google",
+      "source": "blog.google",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-cli-github-actions/",
+      "date": "2026-06-18",
+      "description": "Google launched Gemini CLI GitHub Actions, an open-source AI agent that can be mentioned in GitHub issues or pull request comments to autonomously fix bugs, implement features, and perform routine repository tasks. The integration runs as a standard GitHub Actions workflow and requires only a repository and a Gemini API key, with no additional infrastructure needed. Google is offering the integration at no cost, targeting developers who want AI-assisted automation embedded directly in their existing GitHub collaboration workflow.",
+      "score": 7,
+      "scraped_at": "2026-06-19"
+    },
+    {
+      "id": "8db3cc83d271824d",
+      "title": "Spec-driven development with AI: Get started with a new open source toolkit",
+      "vendor": "Industry",
+      "source": "github.blog",
+      "url": "https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/",
+      "date": "2026-06-18",
+      "description": "GitHub released an open-source toolkit for spec-driven development, establishing a structured workflow where engineers write formal feature specifications first and then delegate implementation to AI coding agents including GitHub Copilot, Claude Code, and Gemini CLI. The toolkit follows the open Agent Skills specification, enabling interoperability across the major AI coding assistants and reducing ambiguity in how agents interpret feature requirements. GitHub framed the approach as a best practice for teams looking to safely scale agentic code generation without sacrificing consistency or review quality.",
+      "score": 7,
+      "scraped_at": "2026-06-19"
     }
   ]
 }
