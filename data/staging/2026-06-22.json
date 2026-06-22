@@ -1,0 +1,68 @@
+[
+  {
+    "id": "317002a5314d07bc",
+    "title": "Billionaire Ambani wants AI in every call, app, and home",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "date": "2026-06-19",
+    "description": "At its annual shareholder meeting, Mukesh Ambani's Reliance Industries unveiled Jio Call Agent, an AI assistant that joins phone calls to transcribe conversations and take actions such as booking cabs, ordering food, and making reservations. The service is targeted at Jio's more than 500 million subscribers and is expected to launch later in 2026. The announcement represents one of the largest planned consumer AI deployments ever attempted given the scale of Jio's user base.",
+    "score": 9,
+    "scraped_at": "2026-06-22"
+  },
+  {
+    "id": "7f055dff129a6d7e",
+    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+    "vendor": "Apple",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+    "date": "2026-06-21",
+    "description": "Apple's WWDC 2026 announcements are landing in iOS 27 as a series of practical AI features embedded across its built-in apps, including bill splitting, automated task execution, password remediation after data breaches, and smarter information organization. The rollout reflects Apple's strategy of weaving AI into everyday workflows rather than building a standalone product. The features are set to ship with iOS 27 later this year.",
+    "score": 7,
+    "scraped_at": "2026-06-22"
+  },
+  {
+    "id": "6e54914974ff4f0f",
+    "title": "GitHub Copilot app generally available",
+    "vendor": "Industry",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-06-17-github-copilot-app-generally-available/",
+    "date": "2026-06-17",
+    "description": "GitHub made its Copilot app generally available for macOS, Windows, and Linux after a month-long technical preview, positioning it as the desktop home for agent-driven development built natively on GitHub. The app allows developers to start sessions from issues or pull requests, run parallel sessions across repositories each on its own branch and worktree, and schedule recurring cloud automations. The launch directly competes with Claude Code and Codex in the autonomous AI coding agent space.",
+    "score": 8,
+    "scraped_at": "2026-06-22"
+  },
+  {
+    "id": "82502b99dc684375",
+    "title": "Chinese AI Stocks Rally on Demand Optimism and Policy Support",
+    "vendor": "Industry",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-22/chinese-ai-stocks-rally-on-demand-optimism-and-policy-support",
+    "date": "2026-06-22",
+    "description": "Chinese AI-related stocks surged on June 22, with LLM developers Zhipu and MiniMax each gaining over 23% in Hong Kong trading, bringing year-to-date returns to as high as 2,000% and 260% respectively. The rally was driven by a more supportive policy tone from Beijing and continued global demand for AI infrastructure. The move underscores growing investor confidence in Chinese AI despite ongoing geopolitical tensions over model access.",
+    "score": 6,
+    "scraped_at": "2026-06-22"
+  },
+  {
+    "id": "47e96fb85bcbcad4",
+    "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+    "date": "2026-06-17",
+    "description": "Anthropic opened its Seoul office and announced a set of new partnerships across South Korea's AI industry, extending its Asia-Pacific footprint. The expansion follows aggressive international growth alongside the Claude Fable 5 and Mythos 5 model releases. Anthropic has been targeting regulated industries in the region as demand for enterprise AI adoption grows.",
+    "score": 6,
+    "scraped_at": "2026-06-22"
+  },
+  {
+    "id": "20bfeecb69d72c26",
+    "title": "Signal's Meredith Whittaker wants you to remember that AI chatbots 'are not your friends'",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "date": "2026-06-20",
+    "description": "Signal President Meredith Whittaker warned publicly that AI chatbots like ChatGPT and Claude are not trustworthy companions, citing privacy risks and the danger of users outsourcing critical thinking to AI systems. She argued that AI companies deliberately design systems to foster parasocial relationships and capture attention. The statement adds a prominent privacy voice to ongoing debates about the ethics of AI chatbot design and user dependency.",
+    "score": 5,
+    "scraped_at": "2026-06-22"
+  }
+]
