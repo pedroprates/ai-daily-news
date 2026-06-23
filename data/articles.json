@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-22T07:38:27.196601+00:00",
+  "updated_at": "2026-06-23T07:42:11.672468+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -1090,6 +1090,39 @@
       "description": "Signal President Meredith Whittaker warned publicly that AI chatbots like ChatGPT and Claude are not trustworthy companions, citing privacy risks and the danger of users outsourcing critical thinking to AI systems. She argued that AI companies deliberately design systems to foster parasocial relationships and capture attention. The statement adds a prominent privacy voice to ongoing debates about the ethics of AI chatbot design and user dependency.",
       "score": 5,
       "scraped_at": "2026-06-22"
+    },
+    {
+      "id": "88ca535a278fef4f",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "vendor": "OpenAI",
+      "source": "openai.com",
+      "url": "https://openai.com/index/daybreak-securing-the-world/",
+      "date": "2026-06-22",
+      "description": "OpenAI launched Daybreak on June 22, a cybersecurity program built around GPT-5.5-Cyber, a new specialized model optimized for discovering and patching software vulnerabilities at machine speed. The model scores 85.6% on CyberGym and 39.5% on ExploitGym, outperforming the general-purpose GPT-5.5, and has already been applied to vulnerabilities in major browsers, operating systems, and network infrastructure. The initiative also includes an update to the Codex Security plugin to prevent new vulnerabilities from reaching production.",
+      "score": 9,
+      "scraped_at": "2026-06-23"
+    },
+    {
+      "id": "3e2b83e6bc8b5438",
+      "title": "SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion",
+      "vendor": "Industry",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
+      "date": "2026-06-22",
+      "description": "SpaceX signed a compute agreement worth up to $6.3 billion with Reflection, an open-source AI startup, granting access to capacity at its Colossus 1 data center in Memphis, Tennessee. The deal follows SpaceX's existing $1.25 billion-per-month arrangement with Anthropic and signals that Colossus is emerging as a major third-party AI compute provider. Reflection focuses on developing open-weight frontier models accessible to the broader research community.",
+      "score": 7,
+      "scraped_at": "2026-06-23"
+    },
+    {
+      "id": "5ded53fae9c3f0c1",
+      "title": "Anthropic releases Mythos-like AI model to the public, Claude Fable 5",
+      "vendor": "Anthropic",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/09/anthropic-mythos-claude-fable-5.html",
+      "date": "2026-06-09",
+      "description": "Anthropic released Claude Fable 5, a frontier model with capabilities approaching its restricted Mythos Preview, to enterprise customers and paid subscribers on June 9. The model includes safety guardrails that block outputs in high-risk domains such as advanced cybersecurity and biology, enabling broader public access than Mythos. Starting June 23, Fable 5 requires usage credits at $10 per million input tokens and $50 per million output tokens for all Claude subscribers.",
+      "score": 9,
+      "scraped_at": "2026-06-23"
     }
   ]
 }
