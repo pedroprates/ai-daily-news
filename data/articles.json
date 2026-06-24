@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-23T07:42:11.672468+00:00",
+  "updated_at": "2026-06-24T07:37:02.879600+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -1123,6 +1123,61 @@
       "description": "Anthropic released Claude Fable 5, a frontier model with capabilities approaching its restricted Mythos Preview, to enterprise customers and paid subscribers on June 9. The model includes safety guardrails that block outputs in high-risk domains such as advanced cybersecurity and biology, enabling broader public access than Mythos. Starting June 23, Fable 5 requires usage credits at $10 per million input tokens and $50 per million output tokens for all Claude subscribers.",
       "score": 9,
       "scraped_at": "2026-06-23"
+    },
+    {
+      "id": "64748ac3266300d1",
+      "title": "Introducing Claude Tag",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "date": "2026-06-23",
+      "description": "Anthropic launched Claude Tag, a new feature that integrates Claude directly into Slack channels as a persistent team member with access to selected channels, tools, and codebases. Users can @mention Claude in channels where it maintains organizational context across conversations and, with ambient mode enabled, proactively surfaces relevant information and follows up on quiet threads. The feature is available in beta for Claude Enterprise and Team customers, with Anthropic reporting that 65% of its own product team's code is now generated using an internal version of Claude Tag.",
+      "score": 8,
+      "scraped_at": "2026-06-24"
+    },
+    {
+      "id": "c99be0bf4fca642c",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "vendor": "Industry",
+      "source": "openai.com",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment/",
+      "date": "2026-06-22",
+      "description": "Samsung Electronics announced one of OpenAI's largest enterprise deployments to date, making ChatGPT and Codex available to all employees in Korea and globally across its Device eXperience (DX) division. The rollout spans software development, marketing, product development, and manufacturing, and enables non-technical employees to use Codex to build internal tools, websites, and automated workflows. Samsung plans to use the capabilities for both code-heavy tasks like reviewing and debugging and broader knowledge work such as document drafting and data analysis.",
+      "score": 8,
+      "scraped_at": "2026-06-24"
+    },
+    {
+      "id": "1fbd37ebeb0805e9",
+      "title": "Codex-maxxing for long-running work",
+      "vendor": "OpenAI",
+      "source": "openai.com",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work/",
+      "date": "2026-06-22",
+      "description": "OpenAI published a whitepaper outlining strategies for using Codex as a persistent workspace for complex, multi-session software engineering projects. The guide covers breaking ambitious goals into verifiable steps, maintaining context continuity across workstreams, and determining when to delegate execution to Codex versus when human oversight is most valuable. The release coincides with growing enterprise adoption of Codex for long-running development tasks that extend well beyond a single prompt session.",
+      "score": 7,
+      "scraped_at": "2026-06-24"
+    },
+    {
+      "id": "c99dc913d5e08622",
+      "title": "Hybrid architecture: Dell and AMD power enterprise AI",
+      "vendor": "Industry",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/06/23/dell-amd-partnership-hybrid-architecture-delltechworld/",
+      "date": "2026-06-23",
+      "description": "At DellTechWorld 2026, Dell and AMD announced a strategic hybrid architecture partnership to support enterprise-scale agentic AI workloads, combining Dell AI Factory infrastructure with AMD accelerators across edge, on-premises, and cloud environments. Dell reported adding 1,000 new AI Factory customers globally in a single quarter, bringing its total base to over 5,000 organizations. The partnership reflects broader enterprise demand for flexible, hardware-agnostic infrastructure capable of running agentic AI at the edge where most enterprise data is generated.",
+      "score": 6,
+      "scraped_at": "2026-06-24"
+    },
+    {
+      "id": "37c92644617c5a16",
+      "title": "AI evolution: 9 ways AI is moving from pilots to real impact",
+      "vendor": "Industry",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/06/23/ai-evolution-9-ways-ai-moving-pilots-real-impact-awssummitnyc/",
+      "date": "2026-06-23",
+      "description": "At AWS Summit New York 2026, analysts and practitioners outlined nine key patterns driving enterprise AI from experimentation to production, including agentic systems automating IT ticket resolution, physical AI robots addressing labor shortages in solar installation, and hybrid infrastructure for edge-based inference. The event highlighted that organizations are now confronting governance, compliance, and operational reliability challenges as deployments scale. Luminous Robotics was cited as an example of physical AI in production, using AWS for edge processing and continuous model fine-tuning.",
+      "score": 6,
+      "scraped_at": "2026-06-24"
     }
   ]
 }
