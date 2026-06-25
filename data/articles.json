@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-24T07:37:02.879600+00:00",
+  "updated_at": "2026-06-25T07:38:23.538280+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -1178,6 +1178,61 @@
       "description": "At AWS Summit New York 2026, analysts and practitioners outlined nine key patterns driving enterprise AI from experimentation to production, including agentic systems automating IT ticket resolution, physical AI robots addressing labor shortages in solar installation, and hybrid infrastructure for edge-based inference. The event highlighted that organizations are now confronting governance, compliance, and operational reliability challenges as deployments scale. Luminous Robotics was cited as an example of physical AI in production, using AWS for edge processing and continuous model fine-tuning.",
       "score": 6,
       "scraped_at": "2026-06-24"
+    },
+    {
+      "id": "50ae12860f3b0230",
+      "title": "Anthropic Accuses Alibaba of 'Illicitly' Accessing Its Claude AI Models",
+      "vendor": "Anthropic",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+      "date": "2026-06-24",
+      "description": "Anthropic accused Alibaba of orchestrating the largest known distillation attack on the company, using approximately 25,000 fraudulent accounts to conduct 28.8 million exchanges with Claude between April 22 and June 5, 2026. Operators linked to Alibaba's Qwen AI lab used adversarial distillation to harvest Claude's most commercially valuable capabilities—including software engineering and agentic reasoning—to train competing models without the costs of primary research. Anthropic notified the White House about the campaign, framing it as part of a broader pattern of Chinese AI labs illicitly extracting frontier model capabilities.",
+      "score": 9,
+      "scraped_at": "2026-06-25"
+    },
+    {
+      "id": "78dd55bd3d76bf5e",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "vendor": "OpenAI",
+      "source": "openai.com",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+      "date": "2026-06-24",
+      "description": "OpenAI and Broadcom unveiled Jalapeño, OpenAI's first custom Intelligence Processor, an LLM-optimized inference chip designed from the ground up around OpenAI's inference architecture. The reticle-sized ASIC went from initial design to manufacturing tape-out in nine months—described as one of the fastest ASIC development cycles ever achieved in high-performance semiconductors—with development accelerated by OpenAI's own AI models. Engineering samples are already running production-target ML workloads, and OpenAI plans to deploy Jalapeño in gigawatt-scale data centers alongside Microsoft and other partners starting in 2026.",
+      "score": 9,
+      "scraped_at": "2026-06-25"
+    },
+    {
+      "id": "d6bb4be6138d4490",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "vendor": "OpenAI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "date": "2026-06-24",
+      "description": "TechCrunch covers OpenAI's debut of Jalapeño, its first custom AI inference chip co-developed with Broadcom, marking the company's move to reduce dependency on third-party GPU suppliers as it scales to serve hundreds of millions of ChatGPT users. The chip is purpose-built for LLM inference—the compute-intensive process of serving model responses—and delivers substantially better performance per watt than current state-of-the-art alternatives according to early benchmarks. The announcement positions OpenAI alongside Google (TPUs) and Amazon (Trainium) in the growing trend of AI labs building proprietary silicon.",
+      "score": 8,
+      "scraped_at": "2026-06-25"
+    },
+    {
+      "id": "172674afcb8f94fb",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "vendor": "OpenAI",
+      "source": "openai.com",
+      "url": "https://openai.com/index/patch-the-planet/",
+      "date": "2026-06-22",
+      "description": "OpenAI launched Patch the Planet, a Daybreak initiative built with Trail of Bits, HackerOne, and Calif to automatically find and fix security vulnerabilities in widely used open-source software. The program uses GPT-5.5-Cyber combined with expert human review to identify critical vulnerabilities in open-source maintainers' projects at no cost to maintainers. The initiative targets the long tail of high-impact but under-resourced open-source dependencies that underpin much of the internet's infrastructure.",
+      "score": 7,
+      "scraped_at": "2026-06-25"
+    },
+    {
+      "id": "9e64da6e4124ff76",
+      "title": "Global AI Diffusion in Q1 2026",
+      "vendor": "Microsoft",
+      "source": "microsoft.com",
+      "url": "https://www.microsoft.com/en-us/corporate-responsibility/dmc/topics/ai-economy-institute/reports/global-ai-adoption-2026-q1/",
+      "date": "2026-06-24",
+      "description": "Microsoft's AI Economy Institute released its Q1 2026 global AI diffusion report, tracking AI adoption rates across countries and industries as generative AI usage has roughly doubled from 33% in 2024 to 65% of enterprises in 2026. The report finds that coding, customer support, and search continue to dominate enterprise use cases, with agentic AI workflows beginning to reach production at 72% of surveyed enterprises. The data highlights a widening gap between early-adopter organizations and those still navigating foundational AI integration challenges.",
+      "score": 6,
+      "scraped_at": "2026-06-25"
     }
   ]
 }
