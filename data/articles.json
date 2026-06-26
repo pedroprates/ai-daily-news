@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-25T07:38:23.538280+00:00",
+  "updated_at": "2026-06-26T07:37:02.345524+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -1233,6 +1233,50 @@
       "description": "Microsoft's AI Economy Institute released its Q1 2026 global AI diffusion report, tracking AI adoption rates across countries and industries as generative AI usage has roughly doubled from 33% in 2024 to 65% of enterprises in 2026. The report finds that coding, customer support, and search continue to dominate enterprise use cases, with agentic AI workflows beginning to reach production at 72% of surveyed enterprises. The data highlights a widening gap between early-adopter organizations and those still navigating foundational AI integration challenges.",
       "score": 6,
       "scraped_at": "2026-06-25"
+    },
+    {
+      "id": "a536d55463d36147",
+      "title": "AI researchers continue to leave Google for its rivals",
+      "vendor": "Google",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "date": "2026-06-24",
+      "description": "TechCrunch reports that Google DeepMind's talent exodus is deepening, with four senior researchers departing within the same week: Noam Shazeer (Gemini co-lead and Transformer co-author) joining OpenAI, Nobel laureate John Jumper (AlphaFold) joining Anthropic, and now Jonas Adler and Alexander Pritzel—both key Gemini contributors—also headed to Anthropic. Alphabet shares fell roughly 5–6% as investor confidence in Google's ability to retain frontier AI talent wavered.",
+      "score": 8,
+      "scraped_at": "2026-06-26"
+    },
+    {
+      "id": "be3f9ae547d7662d",
+      "title": "Google Poised to Lose Two More High-Profile AI Staffers to Anthropic",
+      "vendor": "Google",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic",
+      "date": "2026-06-24",
+      "description": "Bloomberg reports that Jonas Adler, who worked on AI coding within Google's Gemini team, and Alexander Pritzel, who was involved in training AI systems, are both set to join Anthropic. The departures follow the announcements of Noam Shazeer and John Jumper leaving for OpenAI and Anthropic respectively, compounding concerns about Google's ability to maintain its position at the frontier of AI development.",
+      "score": 7,
+      "scraped_at": "2026-06-26"
+    },
+    {
+      "id": "6554b8ad4d00ae3e",
+      "title": "Explore the markets with Interactive Brokers and Grok",
+      "vendor": "xAI",
+      "source": "x.ai",
+      "url": "https://x.ai/news/grok-interactive-brokers",
+      "date": "2026-06-25",
+      "description": "xAI announced the integration of Grok with Interactive Brokers, bringing AI-powered analysis directly into clients' trading workflow. The integration enables portfolio analysis, scenario modeling, market research, and conversational order instructions without requiring a new account. Interactive Brokers clients can connect their existing accounts to Grok in minutes at no additional cost.",
+      "score": 6,
+      "scraped_at": "2026-06-26"
+    },
+    {
+      "id": "c7dd7ee558651dd5",
+      "title": "Grok on Databricks",
+      "vendor": "xAI",
+      "source": "x.ai",
+      "url": "https://x.ai/news/grok-databricks",
+      "date": "2026-06-25",
+      "description": "xAI announced that Grok models are now available on Databricks, allowing enterprises to access Grok's AI capabilities within their existing data and AI workflows. The integration enables organizations to build and deploy Grok-powered applications using their proprietary data without moving it outside their environment.",
+      "score": 6,
+      "scraped_at": "2026-06-26"
     }
   ]
 }
