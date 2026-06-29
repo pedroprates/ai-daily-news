@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-26T07:37:02.345524+00:00",
+  "updated_at": "2026-06-29T07:36:56.212542+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -1277,6 +1277,72 @@
       "description": "xAI announced that Grok models are now available on Databricks, allowing enterprises to access Grok's AI capabilities within their existing data and AI workflows. The integration enables organizations to build and deploy Grok-powered applications using their proprietary data without moving it outside their environment.",
       "score": 6,
       "scraped_at": "2026-06-26"
+    },
+    {
+      "id": "0ab55117e3771689",
+      "title": "Anthropic's Mythos 5 AI Model Cleared by US for Wider Use",
+      "vendor": "Anthropic",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/us-allows-trusted-partners-to-use-anthropic-s-mythos-5-ai-model",
+      "date": "2026-06-26",
+      "description": "The U.S. Commerce Department granted Anthropic permission to release its Mythos 5 model to approximately 100 trusted companies and federal agencies after a two-week government block over national security concerns. Commerce Secretary Howard Lutnick confirmed that 'appropriate safeguards are in place,' with access covering many Fortune 500 firms. Mythos 5 is Anthropic's most powerful cybersecurity model, capable of discovering thousands of novel vulnerabilities; the less capable Fable model remains restricted.",
+      "score": 9,
+      "scraped_at": "2026-06-29"
+    },
+    {
+      "id": "238c8d8bf6e82e96",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "vendor": "OpenAI",
+      "source": "openai.com",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "date": "2026-06-26",
+      "description": "OpenAI announced a limited preview of GPT-5.6 Sol, its most capable model yet, alongside Terra (comparable to GPT-5.5 at half the cost) and Luna (lowest cost tier). Sol delivers improvements across coding, biology, and cybersecurity, and ships with OpenAI's most robust safety stack to date. Broader availability across ChatGPT, Codex, and the API is planned for the coming weeks.",
+      "score": 9,
+      "scraped_at": "2026-06-29"
+    },
+    {
+      "id": "7be3a73d12a23ada",
+      "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
+      "vendor": "OpenAI",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html",
+      "date": "2026-06-26",
+      "description": "The Trump administration asked OpenAI to restrict the initial rollout of the GPT-5.6 family to a small group of trusted partners, whose identities have been shared with the government, before any wider release. The move mirrors the Anthropic Mythos 5 situation and signals a broader government posture of vetting advanced AI models prior to public deployment. OpenAI said it intends to make the models generally available in coming weeks.",
+      "score": 8,
+      "scraped_at": "2026-06-29"
+    },
+    {
+      "id": "41879d61cf677bab",
+      "title": "Anthropic Economic Index report: Cadences",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
+      "date": "2026-06-28",
+      "description": "Anthropic's June 2026 Economic Index surveyed approximately 9,700 Claude users and linked responses to actual session data, finding that roughly half report AI can already handle 50% or more of their work tasks, with 4% saying Claude could perform their entire job today. The report reveals distinct usage cadences: work-related queries dip on weekends, news requests peak in the morning, and tax questions surge around filing deadlines. Looking ahead 12 months, 26% of respondents expect AI to handle the majority of their tasks, a share that held constant across experience levels and professions.",
+      "score": 8,
+      "scraped_at": "2026-06-29"
+    },
+    {
+      "id": "e7054996ea315634",
+      "title": "MAI-Code-1-Flash for Copilot Business and Copilot Enterprise",
+      "vendor": "Microsoft",
+      "source": "github.blog",
+      "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise/",
+      "date": "2026-06-26",
+      "description": "Microsoft AI's in-house coding model, MAI-Code-1-Flash, is now generally available for GitHub Copilot Business and Enterprise subscribers. The model is purpose-built for coding and optimized for low-latency, high-volume agentic workflows, making it well-suited for iterative coding tasks where speed matters. It joins the existing roster of third-party models available in Copilot, giving enterprise teams more choice for agentic development.",
+      "score": 7,
+      "scraped_at": "2026-06-29"
+    },
+    {
+      "id": "c2ffae12bf7614da",
+      "title": "GitHub Copilot for Jira is now generally available",
+      "vendor": "Microsoft",
+      "source": "github.blog",
+      "url": "https://github.blog/changelog/2026-06-25-github-copilot-for-jira-is-now-generally-available/",
+      "date": "2026-06-25",
+      "description": "GitHub Copilot for Jira has graduated from public preview to general availability, bringing AI-assisted issue management to Atlassian's project tracking platform. Since the March 2026 preview, GitHub shipped enhancements including model selection, Confluence context via MCP, custom agents, custom fields, space-level guidance, and review request notifications. The integration lets teams interact with GitHub Copilot directly inside Jira to draft issues, summarize work, and automate ticket triage.",
+      "score": 6,
+      "scraped_at": "2026-06-29"
     }
   ]
 }
