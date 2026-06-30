@@ -1,0 +1,79 @@
+[
+  {
+    "id": "238c8d8bf6e82e96",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "date": "2026-06-28",
+    "description": "OpenAI previewed GPT-5.6 Sol, its strongest model to date, with notable improvements in coding, biology, and cybersecurity capabilities. The GPT-5.6 family ships in three sizes — Sol, Terra, and Luna — at tiered price points ($5/$2.50/$1 input per 1M tokens respectively). Access is initially restricted to a small group of trusted partners at the US government's request, with broader availability planned for coming weeks.",
+    "score": 9,
+    "scraped_at": "2026-06-30"
+  },
+  {
+    "id": "001317287cdd9d97",
+    "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/fable-mythos-access",
+    "date": "2026-06-27",
+    "description": "Anthropic published a statement addressing a US government directive requiring suspension of access to its most capable frontier models, Fable 5 and Mythos 5. The company stated it is cooperating with the directive while working with authorities to address the identified risks. This is part of a broader government initiative to evaluate and control the rollout of the most advanced AI models.",
+    "score": 9,
+    "scraped_at": "2026-06-30"
+  },
+  {
+    "id": "6a2544fa7095c859",
+    "title": "KI-Modell Mythos 5: USA erlauben Anthropic die teilweise Freigabe",
+    "vendor": "Anthropic",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-29/ki-modell-mythos-5-usa-erlauben-anthropic-die-teilweise-freigabe",
+    "date": "2026-06-29",
+    "description": "The US government authorized Anthropic to partially restore access to its powerful Mythos 5 model after previously mandating a suspension. Commerce Secretary Howard Lutnick confirmed the decision in a letter to Anthropic, allowing the model to be made available to 'certain trusted partners.' The partial restoration follows Anthropic's cooperation with government risk-assessment efforts.",
+    "score": 9,
+    "scraped_at": "2026-06-30"
+  },
+  {
+    "id": "cb657bf0e36584bc",
+    "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "date": "2026-06-29",
+    "description": "Anthropic and California Governor Gavin Newsom struck a deal granting all state agencies and local governments access to Claude at a significantly discounted rate. The agreement also includes training and technical support from Anthropic. This marks a major expansion of enterprise AI into US state government, positioning Claude as the AI platform for California's public sector.",
+    "score": 8,
+    "scraped_at": "2026-06-30"
+  },
+  {
+    "id": "7be3a73d12a23ada",
+    "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
+    "vendor": "OpenAI",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html",
+    "date": "2026-06-26",
+    "description": "OpenAI agreed to restrict access to its latest AI models to a small group of trusted partners following a US government request, mirroring similar restrictions placed on Anthropic. The company stated it 'believes in broad access' but is complying with the directive as part of a broader government effort to evaluate advanced AI models before wide release. This signals an emerging regulatory pattern for frontier AI labs in the US.",
+    "score": 8,
+    "scraped_at": "2026-06-30"
+  },
+  {
+    "id": "282f3791a4aeb335",
+    "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+    "vendor": "Industry",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+    "date": "2026-06-28",
+    "description": "PwC announced an expanded partnership with Anthropic, deploying Claude in production across professional sports operations, insurance underwriting, mainframe modernization, HR transformation, and cybersecurity for its clients. The deployment has compressed insurance underwriting cycles from ten weeks to ten days and is cutting overall delivery times by up to 70%. The agreement positions Claude as PwC's primary AI engine for reinventing enterprise functions across industries.",
+    "score": 8,
+    "scraped_at": "2026-06-30"
+  },
+  {
+    "id": "0a742ed714ec6c89",
+    "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+    "vendor": "Cursor",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+    "date": "2026-06-29",
+    "description": "Cursor launched a public beta mobile app for iOS on all paid plans, allowing developers to spin up new coding agents or interact with agents initiated from the desktop client directly from their phone. The app extends Cursor's agentic coding workflow to mobile, letting engineers guide and monitor AI coding tasks away from their desks. This is the first major AI coding tool to offer a companion mobile experience for its agent platform.",
+    "score": 7,
+    "scraped_at": "2026-06-30"
+  }
+]
