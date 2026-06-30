@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-29T07:36:56.212542+00:00",
+  "updated_at": "2026-06-30T07:39:48.825358+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -1343,6 +1343,39 @@
       "description": "GitHub Copilot for Jira has graduated from public preview to general availability, bringing AI-assisted issue management to Atlassian's project tracking platform. Since the March 2026 preview, GitHub shipped enhancements including model selection, Confluence context via MCP, custom agents, custom fields, space-level guidance, and review request notifications. The integration lets teams interact with GitHub Copilot directly inside Jira to draft issues, summarize work, and automate ticket triage.",
       "score": 6,
       "scraped_at": "2026-06-29"
+    },
+    {
+      "id": "6a2544fa7095c859",
+      "title": "KI-Modell Mythos 5: USA erlauben Anthropic die teilweise Freigabe",
+      "vendor": "Anthropic",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-29/ki-modell-mythos-5-usa-erlauben-anthropic-die-teilweise-freigabe",
+      "date": "2026-06-29",
+      "description": "The US government authorized Anthropic to partially restore access to its powerful Mythos 5 model after previously mandating a suspension. Commerce Secretary Howard Lutnick confirmed the decision in a letter to Anthropic, allowing the model to be made available to 'certain trusted partners.' The partial restoration follows Anthropic's cooperation with government risk-assessment efforts.",
+      "score": 9,
+      "scraped_at": "2026-06-30"
+    },
+    {
+      "id": "cb657bf0e36584bc",
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "vendor": "Anthropic",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "date": "2026-06-29",
+      "description": "Anthropic and California Governor Gavin Newsom struck a deal granting all state agencies and local governments access to Claude at a significantly discounted rate. The agreement also includes training and technical support from Anthropic. This marks a major expansion of enterprise AI into US state government, positioning Claude as the AI platform for California's public sector.",
+      "score": 8,
+      "scraped_at": "2026-06-30"
+    },
+    {
+      "id": "0a742ed714ec6c89",
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "vendor": "Cursor",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "date": "2026-06-29",
+      "description": "Cursor launched a public beta mobile app for iOS on all paid plans, allowing developers to spin up new coding agents or interact with agents initiated from the desktop client directly from their phone. The app extends Cursor's agentic coding workflow to mobile, letting engineers guide and monitor AI coding tasks away from their desks. This is the first major AI coding tool to offer a companion mobile experience for its agent platform.",
+      "score": 7,
+      "scraped_at": "2026-06-30"
     }
   ]
 }
