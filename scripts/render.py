@@ -211,12 +211,14 @@ def render_index(env: Environment, today: date, articles: list, output_dir: Path
 def render_daily(env: Environment, today: date, articles: list, output_dir: Path) -> None:
     archive_articles = filter_archive_articles(articles, today)
     article_groups = group_by_vendor(archive_articles)
+    week_articles = filter_week_articles(articles, today)
 
     html = env.get_template("daily.html").render(
         nav_active="archive",
         date_formatted=today.strftime("%A, %B %-d, %Y"),
         date_iso=today.isoformat(),
         article_groups=article_groups,
+        week_articles=week_articles,
     )
     (output_dir / f"{today.isoformat()}.html").write_text(html)
 

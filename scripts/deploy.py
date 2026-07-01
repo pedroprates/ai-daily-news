@@ -56,7 +56,7 @@ def invalidate_cloudfront(distribution_id: str) -> None:
     cf.create_invalidation(
         DistributionId=distribution_id,
         InvalidationBatch={
-            "Paths": {"Quantity": 1, "Items": ["/*"]},
+            "Paths": {"Quantity": 1, "Items": ["/*", "/"]},
             "CallerReference": str(os.getpid()),
         },
     )
