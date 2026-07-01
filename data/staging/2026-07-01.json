@@ -1,0 +1,68 @@
+[
+  {
+    "id": "4307222bc7e5f2e4",
+    "title": "Introducing Claude Sonnet 5",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "date": "2026-06-30",
+    "description": "Anthropic released Claude Sonnet 5, calling it the most agentic Sonnet model yet, with performance approaching Opus 4.8 on reasoning, tool use, and coding tasks at a lower price. It is the default model for Free and Pro users and is available in Claude Code, Cowork, and the API at introductory pricing of $2/$10 per million input/output tokens through August 31.",
+    "score": 9,
+    "scraped_at": "2026-07-01"
+  },
+  {
+    "id": "238c8d8bf6e82e96",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "date": "2026-06-26",
+    "description": "OpenAI previewed its GPT-5.6 family, made up of the flagship Sol model plus lower-cost Terra and Luna variants, emphasizing stronger cybersecurity capability alongside a more robust safety stack. Access is initially limited to a small group of trusted partners via the API and Codex, at the request of the U.S. government, ahead of a broader rollout to ChatGPT and API users.",
+    "score": 8,
+    "scraped_at": "2026-07-01"
+  },
+  {
+    "id": "abf74475285fe25e",
+    "title": "Introducing Gemini Omni",
+    "vendor": "Google",
+    "source": "blog.google",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/",
+    "date": "2026-06-30",
+    "description": "Google launched Gemini Omni Flash, a multimodal model for high-quality video generation and conversational video editing from text, image, and video inputs. It is rolling out immediately to Google AI Plus, Pro, and Ultra subscribers through the Gemini app and Flow, with developer and enterprise API access priced at $0.10 per second of video output coming in the following weeks.",
+    "score": 8,
+    "scraped_at": "2026-07-01"
+  },
+  {
+    "id": "9f304bc3cdf52c44",
+    "title": "Anthropic releases Claude Science for automating research",
+    "vendor": "Anthropic",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-30/anthropic-releases-claude-science-for-automating-research",
+    "date": "2026-06-30",
+    "description": "Anthropic launched Claude Science, a research environment consolidating scientific databases, literature review, and 3D protein structure visualization for scientists and pharmaceutical researchers. The beta is open to Claude Pro, Max, Team, and Enterprise subscribers, and is aimed at expanding Anthropic's enterprise and pharma business ahead of a planned IPO.",
+    "score": 7,
+    "scraped_at": "2026-07-01"
+  },
+  {
+    "id": "9265214e5e9a7eb1",
+    "title": "Improvements to Teams Pricing",
+    "vendor": "Cursor",
+    "source": "cursor.com",
+    "url": "https://cursor.com/blog/teams-pricing-june-2026",
+    "date": "2026-06-30",
+    "description": "Cursor updated its Teams pricing so every seat now draws from two separate usage pools: one for first-party Composer/Auto models and one for third-party APIs like Claude, GPT, and Gemini. The change takes effect immediately for new customers and on billing cycles starting July 1 for existing customers.",
+    "score": 5,
+    "scraped_at": "2026-07-01"
+  },
+  {
+    "id": "0f8fe06795bbbd9e",
+    "title": "Grok Build changelog: clipboard, terminal, and session improvements",
+    "vendor": "xAI",
+    "source": "x.ai",
+    "url": "https://x.ai/build/changelog",
+    "date": "2026-06-30",
+    "description": "xAI shipped a round of Grok Build updates including keep-text-selection highlighting, fixes for doubled terminal lines, improved clipboard copy feedback, and a redesigned agent dashboard with clearer model and mode visibility. The update focuses on developer workflow polish rather than new model capability.",
+    "score": 4,
+    "scraped_at": "2026-07-01"
+  }
+]
