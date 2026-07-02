@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-01T07:37:57.892693+00:00",
+  "updated_at": "2026-07-02T07:37:46.128596+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -1431,6 +1431,61 @@
       "description": "xAI shipped a round of Grok Build updates including keep-text-selection highlighting, fixes for doubled terminal lines, improved clipboard copy feedback, and a redesigned agent dashboard with clearer model and mode visibility. The update focuses on developer workflow polish rather than new model capability.",
       "score": 4,
       "scraped_at": "2026-07-01"
+    },
+    {
+      "id": "fdd9745edc3aad4e",
+      "title": "Redeploying Claude Fable 5",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "date": "2026-07-01",
+      "description": "Anthropic restored global access to Claude Fable 5 and Mythos 5 on July 1 after the US government lifted the export control directive that had suspended the models since June 12. The suspension followed a report that Amazon researchers found a way to bypass Fable 5's safeguards; Anthropic responded by training an improved safety classifier that targets and blocks the behavior before redeploying the models across the Claude Platform, Claude.ai, Claude Code, and Claude Cowork.",
+      "score": 8,
+      "scraped_at": "2026-07-02"
+    },
+    {
+      "id": "021bc3a41cd6701c",
+      "title": "Meta is building a cloud business to sell excess AI compute",
+      "vendor": "Meta",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute",
+      "date": "2026-07-01",
+      "description": "Meta is launching a cloud business to sell excess AI computing capacity to outside customers, a strategic pivot for a company that has historically kept its infrastructure in-house. The move follows Meta's massive buildout of AI data centers and signals it now sees surplus compute capacity as a revenue opportunity rather than pure overhead; shares rose on the news.",
+      "score": 7,
+      "scraped_at": "2026-07-02"
+    },
+    {
+      "id": "1dafde049d0ad3ab",
+      "title": "Introducing the Voice Agent Builder",
+      "vendor": "xAI",
+      "source": "x.ai",
+      "url": "https://x.ai/news/grok-voice-agent-builder",
+      "date": "2026-07-01",
+      "description": "xAI launched Voice Agent Builder in beta, a no-code platform for configuring production voice agents on Grok Voice for customer support, sales, and similar use cases. Users write a plain-language description of how calls should flow and attach documents, tools, and guardrails to go from zero to a working agent in about two minutes; agents are billed at $0.05 per minute of audio with telephony included.",
+      "score": 6,
+      "scraped_at": "2026-07-02"
+    },
+    {
+      "id": "70fcb64abb763696",
+      "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
+      "vendor": "Meta",
+      "source": "ai.meta.com",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
+      "date": "2026-06-30",
+      "description": "Meta released Brain2Qwerty v2, a deep learning system that decodes typed sentences from non-invasive brain recordings (EEG or MEG) without requiring surgical implants. The model reaches 61% average word accuracy across nine participants, up sharply from the roughly 8% achieved by prior non-invasive methods, and Meta is open-sourcing the training code along with a partner-released dataset.",
+      "score": 6,
+      "scraped_at": "2026-07-02"
+    },
+    {
+      "id": "a3c68f9d6d9e8b92",
+      "title": "Per-user AI credit budgets available for cost centers",
+      "vendor": "Microsoft",
+      "source": "github.blog",
+      "url": "https://github.blog/changelog/2026-06-30-per-user-ai-credit-budgets-available-for-cost-centers/",
+      "date": "2026-06-30",
+      "description": "GitHub added per-user AI credit budgets for cost centers, letting enterprise admins set a single per-user Copilot spend cap that automatically applies to everyone in a cost center. The budget follows membership changes automatically, so users added to a cost center directly or via an enterprise team immediately pick up its limit, and those removed lose it.",
+      "score": 5,
+      "scraped_at": "2026-07-02"
     }
   ]
 }
