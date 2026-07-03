@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-02T07:37:46.128596+00:00",
+  "updated_at": "2026-07-03T07:37:57.980615+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -1486,6 +1486,94 @@
       "description": "GitHub added per-user AI credit budgets for cost centers, letting enterprise admins set a single per-user Copilot spend cap that automatically applies to everyone in a cost center. The budget follows membership changes automatically, so users added to a cost center directly or via an enterprise team immediately pick up its limit, and those removed lose it.",
       "score": 5,
       "scraped_at": "2026-07-02"
+    },
+    {
+      "id": "347e208fedcb5370",
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "vendor": "Anthropic",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "date": "2026-07-02",
+      "description": "Anthropic is in talks with Samsung about a custom AI chip, a sign the company is getting serious about developing its own silicon rather than relying solely on Nvidia and cloud partners. The discussions are early-stage, with Anthropic yet to decide what the chip will be used for or how it would fit into server infrastructure.",
+      "score": 8,
+      "scraped_at": "2026-07-03"
+    },
+    {
+      "id": "acd0d232ab24c111",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "vendor": "Microsoft",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "date": "2026-07-02",
+      "description": "Microsoft launched Microsoft Frontier Company, a new operating business dedicated to delivering enterprise AI deployments, backed by a $2.5 billion commitment and roughly 6,000 industry and engineering experts. The unit is aimed at closing the gap between AI pilots and production use inside large organizations.",
+      "score": 8,
+      "scraped_at": "2026-07-03"
+    },
+    {
+      "id": "d0d8da7d73835e71",
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "vendor": "Meta",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "date": "2026-07-02",
+      "description": "Meta quietly launched Pocket, an experimental app that lets users generate and share interactive mini games from text prompts using AI. The release extends Meta's push into consumer-facing generative AI tools built on its own models.",
+      "score": 6,
+      "scraped_at": "2026-07-03"
+    },
+    {
+      "id": "8aafbde5522c666a",
+      "title": "Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped",
+      "vendor": "Meta",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "date": "2026-07-02",
+      "description": "At an internal town hall, Meta CEO Mark Zuckerberg told staff that AI agent capabilities have not accelerated as fast as executives previously expected. The comments offer a rare admission from a frontier lab leader that agentic AI progress is proving slower than industry hype suggested.",
+      "score": 6,
+      "scraped_at": "2026-07-03"
+    },
+    {
+      "id": "17604d1f5ea995cc",
+      "title": "A warning sign about AI's real cost, courtesy of Google and Amazon",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
+      "date": "2026-07-02",
+      "description": "Google's total carbon emissions are up 25% year-over-year and Amazon's are up 16%, driven largely by AI infrastructure buildout. The figures underscore the growing environmental cost of the AI data center boom even as both companies tout efficiency gains per query.",
+      "score": 6,
+      "scraped_at": "2026-07-03"
+    },
+    {
+      "id": "84ff4d52cf276e95",
+      "title": "Gemini Spark, Google's agentic assistant, is now available on Mac",
+      "vendor": "Google",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "date": "2026-07-01",
+      "description": "Google brought Gemini Spark, its agentic assistant, to a beta Mac desktop app, adding features like real-time topic tracking and connections to apps such as Google Tasks and Keep. The macOS beta is limited to Google AI Ultra subscribers in the U.S. for now.",
+      "score": 6,
+      "scraped_at": "2026-07-03"
+    },
+    {
+      "id": "b429320e14a34994",
+      "title": "Copilot vision is generally available",
+      "vendor": "Microsoft",
+      "source": "github.blog",
+      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available/",
+      "date": "2026-07-01",
+      "description": "GitHub made Copilot vision generally available to all Copilot subscribers, letting users attach images and PDFs directly to chat prompts so Copilot can reason about visual content alongside code. The feature is rolling out across Free, Pro, Pro+, Business, and Enterprise tiers.",
+      "score": 6,
+      "scraped_at": "2026-07-03"
+    },
+    {
+      "id": "d2f7983007ef5b1c",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "vendor": "Microsoft",
+      "source": "github.blog",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "date": "2026-07-01",
+      "description": "GitHub added Kimi K2.7 Code to GitHub Copilot's model picker, marking the first open-weight model offered as a selectable option in Copilot. The addition gives developers a free alternative to proprietary models for everyday coding tasks.",
+      "score": 6,
+      "scraped_at": "2026-07-03"
     }
   ]
 }
