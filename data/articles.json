@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-03T07:37:57.980615+00:00",
+  "updated_at": "2026-07-06T07:40:06.521114+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -1574,6 +1574,61 @@
       "description": "GitHub added Kimi K2.7 Code to GitHub Copilot's model picker, marking the first open-weight model offered as a selectable option in Copilot. The addition gives developers a free alternative to proprietary models for everyday coding tasks.",
       "score": 6,
       "scraped_at": "2026-07-03"
+    },
+    {
+      "id": "e9f49d0f5a9d4b40",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "vendor": "Anthropic",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "date": "2026-07-04",
+      "description": "Alibaba will bar its employees from using Anthropic's Claude Code starting July 10, according to a report, amid ongoing tension between the two companies. The move follows Anthropic's accusation last month that Alibaba illicitly accessed its AI models, deepening the rift between the US lab and the Chinese tech giant.",
+      "score": 7,
+      "scraped_at": "2026-07-06"
+    },
+    {
+      "id": "70dffedf7035c053",
+      "title": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure",
+      "vendor": "OpenAI",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
+      "date": "2026-07-02",
+      "description": "OpenAI has proposed giving the US government a 5% equity stake in the company as it seeks to ease mounting political pressure in Washington. At OpenAI's post-money valuation of $852 billion from its March funding round, the stake would be worth roughly $42.6 billion.",
+      "score": 7,
+      "scraped_at": "2026-07-06"
+    },
+    {
+      "id": "31e971d854cebe95",
+      "title": "Copilot agent session streaming is now in public preview",
+      "vendor": "Microsoft",
+      "source": "github.blog",
+      "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview/",
+      "date": "2026-07-02",
+      "description": "GitHub Copilot agent sessions can now stream their activity in public preview, giving developers a live view into what an agent is doing as it works. The feature is aimed at improving visibility and trust when delegating longer, autonomous coding tasks to Copilot agents.",
+      "score": 6,
+      "scraped_at": "2026-07-06"
+    },
+    {
+      "id": "35013a8c9141eb17",
+      "title": "Browser tools for GitHub Copilot in VS Code are generally available",
+      "vendor": "Microsoft",
+      "source": "github.blog",
+      "url": "https://github.blog/changelog/2026-07-01-browser-tools-for-github-copilot-in-vs-code-are-generally-available/",
+      "date": "2026-07-01",
+      "description": "GitHub has made browser tools for Copilot in VS Code generally available, letting Copilot agents drive a real browser, navigate live web apps, and feed what they observe back into chat. The feature extends Copilot's agentic capabilities beyond the editor into interactive web testing and research tasks.",
+      "score": 6,
+      "scraped_at": "2026-07-06"
+    },
+    {
+      "id": "ad59a0d913c72448",
+      "title": "10 moments that defined AI's turbulent first half of 2026",
+      "vendor": "Industry",
+      "source": "thenewstack.io",
+      "url": "https://thenewstack.io/biggest-ai-moments-2026/",
+      "date": "2026-07-05",
+      "description": "The New Stack rounds up ten defining AI industry moments from the first half of 2026, including the Commerce Department's order for Anthropic to pull Fable 5 and Mythos 5 offline before lifting the ban weeks later, Pentagon disputes with Anthropic over military model access, and frontier labs racing to plant deployment arms on Wall Street. It also notes Anthropic and OpenAI both pursuing IPOs at valuations above $800 billion.",
+      "score": 5,
+      "scraped_at": "2026-07-06"
     }
   ]
 }
