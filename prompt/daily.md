@@ -52,13 +52,13 @@ Only include articles from the approved domains below. When in doubt, skip rathe
 - OpenAI: `openai.com`, `developers.openai.com`
 - Google: `blog.google`, `cloud.google.com/blog`, `ai.google`, `deepmind.google`
 - xAI: `x.ai`, `docs.x.ai`
-- Microsoft: `microsoft.com`, `blogs.microsoft.com`, `learn.microsoft.com`, `techcommunity.microsoft.com`
+- Microsoft: `microsoft.com`, `blogs.microsoft.com`, `learn.microsoft.com`, `techcommunity.microsoft.com`, `news.microsoft.com`
 - Apple: `apple.com`, `developer.apple.com`
 - Meta: `ai.meta.com`, `engineering.fb.com`
 - Cursor: `cursor.com`
 - GitHub: `github.blog`, `github.com`
 
-**Approved press:** `techcrunch.com`, `theverge.com`, `wired.com`, `arstechnica.com`, `geekwire.com`, `siliconangle.com`, `thenewstack.io`, `theregister.com`, `developer-tech.com`, `spectrum.ieee.org`, `technologyreview.com`, `hai.stanford.edu`, `thehackernews.com`, `bleepingcomputer.com`, `bloomberg.com`, `reuters.com`, `wsj.com`, `cnbc.com`, `ft.com`, `medium.com` (verify author), `towardsdatascience.com`, `macrumors.com`, `9to5mac.com`, `appleinsider.com`
+**Approved press:** `techcrunch.com`, `theverge.com`, `wired.com`, `arstechnica.com`, `geekwire.com`, `siliconangle.com`, `thenewstack.io`, `theregister.com`, `developer-tech.com`, `spectrum.ieee.org`, `technologyreview.com`, `hai.stanford.edu`, `thehackernews.com`, `bleepingcomputer.com`, `bloomberg.com`, `reuters.com`, `wsj.com`, `cnbc.com`, `ft.com`, `medium.com` (verify author), `towardsdatascience.com`, `macrumors.com`, `9to5mac.com`, `appleinsider.com`, `axios.com `, `9to5google.com`, `fortune.com`, and verified consultancies like Deloitte, Boston Consulting Group, McKinsey.
 
 **Never** cite look-alike domains (e.g. `googlecloudpresscorner.com`, `openainews.org`, `anthropicai.com`).
 
