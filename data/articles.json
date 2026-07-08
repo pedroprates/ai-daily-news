@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-06T07:40:06.521114+00:00",
+  "updated_at": "2026-07-08T07:35:55.579898+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -1629,6 +1629,72 @@
       "description": "The New Stack rounds up ten defining AI industry moments from the first half of 2026, including the Commerce Department's order for Anthropic to pull Fable 5 and Mythos 5 offline before lifting the ban weeks later, Pentagon disputes with Anthropic over military model access, and frontier labs racing to plant deployment arms on Wall Street. It also notes Anthropic and OpenAI both pursuing IPOs at valuations above $800 billion.",
       "score": 5,
       "scraped_at": "2026-07-06"
+    },
+    {
+      "id": "ae9e772be9004928",
+      "title": "The coding agent wars are spilling into the rest of the office: Claude Cowork",
+      "vendor": "Anthropic",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "date": "2026-07-07",
+      "description": "Anthropic expanded Claude Cowork, its agentic workspace assistant, to web and mobile by moving it fully to the cloud. Sessions and files now persist across devices, letting tasks keep running even after a user closes their laptop, extending Anthropic's coding-agent playbook into general office work.",
+      "score": 7,
+      "scraped_at": "2026-07-08"
+    },
+    {
+      "id": "7572938d99f0221b",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "vendor": "Google",
+      "source": "blog.google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "date": "2026-06-24",
+      "description": "Google made computer use a native built-in tool in Gemini 3.5 Flash, letting developers build agents that see, reason, and act across browser, mobile, and desktop environments. The capability was previously limited to a standalone Gemini 2.5 model and now ships with improved performance and enterprise safety guardrails via the Gemini API and Gemini Enterprise Agent Platform.",
+      "score": 7,
+      "scraped_at": "2026-07-08"
+    },
+    {
+      "id": "1c50831a0ab87fce",
+      "title": "Nine and Microsoft announce Australian-first AI agreement for news media content",
+      "vendor": "Microsoft",
+      "source": "news.microsoft.com",
+      "url": "https://news.microsoft.com/source/asia/2026/07/03/nine-microsoft-copilot-agreement/",
+      "date": "2026-07-03",
+      "description": "Australian media company Nine Entertainment and Microsoft announced a deal giving Nine's professional journalism a role in AI outputs generated for Microsoft Copilot users. It is described as a first-of-its-kind agreement between Microsoft and a major news publisher in Australia over how licensed content feeds AI-generated answers.",
+      "score": 6,
+      "scraped_at": "2026-07-08"
+    },
+    {
+      "id": "ca46a5332ecd9b0e",
+      "title": "GitHub Copilot app available to all",
+      "vendor": "Microsoft",
+      "source": "github.blog",
+      "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+      "date": "2026-07-07",
+      "description": "GitHub rolled out the standalone GitHub Copilot app to all users, widening access beyond IDE integrations. The app packages Copilot's chat, agent, and coding-assistance features into a dedicated client for developers who want to work outside their editor.",
+      "score": 6,
+      "scraped_at": "2026-07-08"
+    },
+    {
+      "id": "0427039daf6e1318",
+      "title": "Kimi K2.7 now available for Copilot Business and Enterprise",
+      "vendor": "Microsoft",
+      "source": "github.blog",
+      "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+      "date": "2026-07-07",
+      "description": "GitHub added Moonshot AI's Kimi K2.7 as a selectable model for Copilot Business and Enterprise customers, broadening the set of third-party models available inside Copilot's agentic coding workflows. The rollout follows GitHub's pattern of adding competing frontier and open models alongside its own in-house options.",
+      "score": 5,
+      "scraped_at": "2026-07-08"
+    },
+    {
+      "id": "9ac4b6a97ae1dcc0",
+      "title": "CFOs and the new economics of AI",
+      "vendor": "Cursor",
+      "source": "cursor.com",
+      "url": "https://cursor.com/blog/cfo-council",
+      "date": "2026-07-06",
+      "description": "Cursor published an analysis of how finance leaders are budgeting for AI coding agents, arguing that per-seat software pricing models are giving way to usage-based spend tied to agent output. The piece draws on conversations with CFOs adapting cost controls and forecasting to agentic development tools.",
+      "score": 5,
+      "scraped_at": "2026-07-08"
     }
   ]
 }
