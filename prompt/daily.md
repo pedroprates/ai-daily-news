@@ -58,7 +58,7 @@ Only include articles from the approved domains below. When in doubt, skip rathe
 - Cursor: `cursor.com`
 - GitHub: `github.blog`, `github.com`
 
-**Approved press:** `techcrunch.com`, `theverge.com`, `wired.com`, `arstechnica.com`, `geekwire.com`, `siliconangle.com`, `thenewstack.io`, `theregister.com`, `developer-tech.com`, `spectrum.ieee.org`, `technologyreview.com`, `hai.stanford.edu`, `thehackernews.com`, `bleepingcomputer.com`, `bloomberg.com`, `reuters.com`, `wsj.com`, `cnbc.com`, `ft.com`, `medium.com` (verify author), `towardsdatascience.com`, `macrumors.com`, `9to5mac.com`, `appleinsider.com`, `axios.com `, `9to5google.com`, `fortune.com`, and verified consultancies like Deloitte, Boston Consulting Group, McKinsey.
+**Approved press:** `techcrunch.com`, `theverge.com`, `wired.com`, `arstechnica.com`, `geekwire.com`, `siliconangle.com`, `thenewstack.io`, `theregister.com`, `developer-tech.com`, `spectrum.ieee.org`, `technologyreview.com`, `hai.stanford.edu`, `thehackernews.com`, `bleepingcomputer.com`, `bloomberg.com`, `reuters.com`, `wsj.com`, `cnbc.com`, `ft.com`, `medium.com` (verify author), `towardsdatascience.com`, `macrumors.com`, `9to5mac.com`, `appleinsider.com`, `axios.com `, `9to5google.com`, `fortune.com`, and verified consultancies like Deloitte, Boston Consulting Group (`https://www.bcg.com/`), McKinsey.
 
 **Never** cite look-alike domains (e.g. `googlecloudpresscorner.com`, `openainews.org`, `anthropicai.com`).
 
