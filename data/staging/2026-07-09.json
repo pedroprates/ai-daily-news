@@ -1,0 +1,68 @@
+[
+  {
+    "id": "f4d02f3ecb94ac94",
+    "title": "OpenAI to Roll Out Top AI Model Globally After Limited Preview",
+    "vendor": "OpenAI",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-08/openai-to-roll-out-top-ai-model-globally-after-limited-preview",
+    "date": "2026-07-08",
+    "description": "OpenAI is publicly launching its GPT-5.6 model family this week after a limited preview with 20 partners. The lineup includes Sol, tuned for biology, chemistry, and cybersecurity work; Terra, aimed at everyday use at roughly half the cost of GPT-5.5; and Luna, the company's lowest-cost tier.",
+    "score": 9,
+    "scraped_at": "2026-07-09"
+  },
+  {
+    "id": "69a3afcb362d2297",
+    "title": "SpaceXAI, Cursor Launch Grok 4.5 AI Model for Finance, Legal Applications",
+    "vendor": "xAI",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks",
+    "date": "2026-07-08",
+    "description": "xAI unveiled Grok 4.5, its strongest model to date for coding, agentic tasks, and knowledge work, trained in part on coding data from Cursor following SpaceX's $60 billion acquisition of Cursor parent Anysphere. The launch pushes Grok into finance and legal workflows alongside developer tooling.",
+    "score": 9,
+    "scraped_at": "2026-07-09"
+  },
+  {
+    "id": "33ff9177ca69de68",
+    "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+    "date": "2026-07-06",
+    "description": "Anthropic published a case study on how the Government of Alberta deployed Claude to identify and remediate cybersecurity vulnerabilities across its government IT systems, highlighting growing public-sector adoption of AI-assisted vulnerability management.",
+    "score": 8,
+    "scraped_at": "2026-07-09"
+  },
+  {
+    "id": "fed88e5c2993c2e6",
+    "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
+    "vendor": "Industry",
+    "source": "github.blog",
+    "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
+    "date": "2026-07-08",
+    "description": "GitHub detailed how GitHub Agentic Workflows can keep documentation in sync across multiple repositories automatically, letting teams update docs alongside code changes without manual intervention.",
+    "score": 6,
+    "scraped_at": "2026-07-09"
+  },
+  {
+    "id": "826a407adcaa15ca",
+    "title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+    "vendor": "Industry",
+    "source": "github.blog",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
+    "date": "2026-07-08",
+    "description": "GitHub explained how Copilot now automates DNS configuration for GitHub Pages custom domains, removing a manual setup step that previously tripped up developers publishing sites.",
+    "score": 5,
+    "scraped_at": "2026-07-09"
+  },
+  {
+    "id": "37ee7c598376f45a",
+    "title": "The Making of Claude Code",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/features/making-of-claude-code",
+    "date": "2026-07-06",
+    "description": "Anthropic published the inside story of how Claude Code evolved from an internal command-line tool into the company's flagship coding agent, covering key design decisions along the way.",
+    "score": 6,
+    "scraped_at": "2026-07-09"
+  }
+]
