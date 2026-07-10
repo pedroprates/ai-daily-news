@@ -1,0 +1,57 @@
+[
+  {
+    "id": "5390181be54fda4b",
+    "title": "OpenAI says GPT 5.6 is the 'preferred model' for Microsoft Copilot 365 amid breakup chatter",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "date": "2026-07-09",
+    "description": "OpenAI's GPT-5.6 family (Sol, Terra, and Luna) became generally available across ChatGPT, ChatGPT Work, Codex, and the API, with Sol targeting demanding agentic and reasoning workloads. OpenAI said GPT-5.6 is now the 'preferred model' powering Microsoft 365 Copilot, pushing back on reports that Microsoft was shifting Word and Excel to its own in-house MAI models.",
+    "score": 9,
+    "scraped_at": "2026-07-10"
+  },
+  {
+    "id": "c5fe4e158440bf6a",
+    "title": "Introducing Grok 4.5",
+    "vendor": "xAI",
+    "source": "x.ai",
+    "url": "https://x.ai/news/grok-4-5",
+    "date": "2026-07-08",
+    "description": "xAI released Grok 4.5, its strongest model yet, built for coding, agentic tasks, and knowledge work, with stronger real-world engineering performance and faster token speeds. The model was trained in part on real developer session data from Cursor following SpaceX's acquisition of the company, and is rolling out in Grok Build, Cursor, and the SpaceXAI console, with EU availability expected mid-July.",
+    "score": 9,
+    "scraped_at": "2026-07-10"
+  },
+  {
+    "id": "3b61f1bf953318f6",
+    "title": "Altman Says OpenAI Adjusted AI Models After Discussions With US Officials",
+    "vendor": "OpenAI",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-09/altman-says-openai-made-many-changes-during-talks-with-us",
+    "date": "2026-07-09",
+    "description": "OpenAI CEO Sam Altman said the company made 'many changes' to its models after discussions with the Trump administration, which conducted additional testing through the Commerce Department's Center for AI Standards and Innovation before clearing a wider GPT-5.6 release. Altman described a 'collaborative back and forth' with officials including Commerce Secretary Howard Lutnick and Treasury Secretary Scott Bessent.",
+    "score": 7,
+    "scraped_at": "2026-07-10"
+  },
+  {
+    "id": "808364485307040d",
+    "title": "Anthropic expanding Claude Cowork to mobile and web, details here",
+    "vendor": "Anthropic",
+    "source": "9to5mac.com",
+    "url": "https://9to5mac.com/2026/07/07/anthropic-expanding-claude-cowork-to-mobile-and-web-details-here/",
+    "date": "2026-07-07",
+    "description": "Anthropic is expanding Claude Cowork beyond desktop to mobile and web, letting AI agents continue working remotely across devices with persistent sessions, scheduled tasks, and cloud-based execution even when a user's computer is offline. The rollout starts with the Max plan, allowing work to keep running after a laptop is closed.",
+    "score": 7,
+    "scraped_at": "2026-07-10"
+  },
+  {
+    "id": "96abb90589873af8",
+    "title": "Introducing a way to reflect on how you use Claude",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/reflect-with-claude",
+    "date": "2026-07-09",
+    "description": "Anthropic launched 'Reflect,' a beta dashboard that visualizes how users work with Claude, surfacing the topics they spent time on, their most active day and peak hour, and observations about their AI habits. It's available on Free, Pro, and Max plans on web and Claude Desktop, requires memory to be enabled, and includes optional break reminders and quiet hours.",
+    "score": 6,
+    "scraped_at": "2026-07-10"
+  }
+]
