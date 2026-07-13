@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-10T10:58:56.594287+00:00",
+  "updated_at": "2026-07-13T07:34:16.519705+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -1816,6 +1816,61 @@
       "description": "Anthropic launched 'Reflect,' a beta dashboard that visualizes how users work with Claude, surfacing the topics they spent time on, their most active day and peak hour, and observations about their AI habits. It's available on Free, Pro, and Max plans on web and Claude Desktop, requires memory to be enabled, and includes optional break reminders and quiet hours.",
       "score": 6,
       "scraped_at": "2026-07-10"
+    },
+    {
+      "id": "1016df4add3685b4",
+      "title": "Apple Sues OpenAI for Trade Secret Theft Over AI Hardware Designs",
+      "vendor": "OpenAI",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case",
+      "date": "2026-07-10",
+      "description": "Apple filed suit against OpenAI in the Northern District of California, alleging trade secret misappropriation and breach of contract tied to OpenAI's upcoming AI hardware devices. The complaint cites more than 400 former Apple employees, many from its chip design, hardware, and on-device AI teams, now working at OpenAI. The case could complicate OpenAI's plans for AI hardware devices expected to launch later in 2026.",
+      "score": 8,
+      "scraped_at": "2026-07-13"
+    },
+    {
+      "id": "25c41221dd9a2fb1",
+      "title": "Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence",
+      "vendor": "Microsoft",
+      "source": "blogs.microsoft.com",
+      "url": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/",
+      "date": "2026-07-02",
+      "description": "Microsoft launched Microsoft Frontier Company, a new operating business dedicated to delivering enterprise AI deployments using Microsoft's existing AI tools. The unit is backed by a $2.5 billion investment and staffed with 6,000 industry and engineering experts focused on helping large organizations move AI projects into production.",
+      "score": 7,
+      "scraped_at": "2026-07-13"
+    },
+    {
+      "id": "90cf2fb983757d1d",
+      "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps",
+      "vendor": "Microsoft",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps",
+      "date": "2026-07-07",
+      "description": "Microsoft is swapping OpenAI and Anthropic models for its own internally built MAI models inside products like Excel and Outlook, aiming to cut AI infrastructure costs. Tens of thousands of AI prompts in the two apps are now being handled weekly by Microsoft's in-house models instead of third-party ones.",
+      "score": 7,
+      "scraped_at": "2026-07-13"
+    },
+    {
+      "id": "46ff818d6e395c4d",
+      "title": "Introducing Muse Image and Muse Video",
+      "vendor": "Meta",
+      "source": "ai.meta.com",
+      "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+      "date": "2026-07-07",
+      "description": "Meta introduced Muse Image, a new image-generation model, alongside an updated Muse Spark 1.1 aimed at agentic and coding workloads. Muse Image will take over image generation in Meta AI and will power more than 30 new effects across WhatsApp and Instagram.",
+      "score": 7,
+      "scraped_at": "2026-07-13"
+    },
+    {
+      "id": "5e747e3cd7b68a92",
+      "title": "Meta's new AI chips will begin production in September",
+      "vendor": "Meta",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "date": "2026-07-09",
+      "description": "Meta is on track to begin manufacturing the latest version of its custom AI chip in September, according to an internal memo. Meta co-designed the chip with Broadcom and will use TSMC for manufacturing, part of its push to reduce reliance on Nvidia hardware for AI workloads.",
+      "score": 6,
+      "scraped_at": "2026-07-13"
     }
   ]
 }
