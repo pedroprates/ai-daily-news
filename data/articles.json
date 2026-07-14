@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-13T07:34:16.519705+00:00",
+  "updated_at": "2026-07-14T07:35:16.572516+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -1871,6 +1871,50 @@
       "description": "Meta is on track to begin manufacturing the latest version of its custom AI chip in September, according to an internal memo. Meta co-designed the chip with Broadcom and will use TSMC for manufacturing, part of its push to reduce reliance on Nvidia hardware for AI workloads.",
       "score": 6,
       "scraped_at": "2026-07-13"
+    },
+    {
+      "id": "40c4cf9177d51c76",
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "vendor": "OpenAI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "date": "2026-07-09",
+      "description": "OpenAI publicly released GPT-5.6 in three tiers - Sol, Terra, and Luna - priced from $1 to $5 per million input tokens depending on tier, available through ChatGPT, Codex, and the API. The launch also introduced ChatGPT Work, an enterprise agent tool for drafting documents and coordinating team tasks, and GPT-5.6 is billed as OpenAI's strongest cybersecurity model yet.",
+      "score": 10,
+      "scraped_at": "2026-07-14"
+    },
+    {
+      "id": "439ee8a147463933",
+      "title": "xAI launches Grok 4.5, its first release since acquiring Cursor",
+      "vendor": "xAI",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/07/08/spacexai-grok-new-model",
+      "date": "2026-07-08",
+      "description": "xAI released Grok 4.5, pitched primarily as a coding and agentic-work model rather than a consumer chatbot. It is priced at $2 per million input tokens and $6 per million output tokens, and is available in Grok Build, in Cursor on all plans, and via the xAI console, though not yet in the EU.",
+      "score": 9,
+      "scraped_at": "2026-07-14"
+    },
+    {
+      "id": "08e6da2ff0239b3f",
+      "title": "Anthropic says Claude has carved out its own space to ponder",
+      "vendor": "Anthropic",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/07/06/anthropic-claude-ai-conscious",
+      "date": "2026-07-06",
+      "description": "Anthropic researchers identified an internal workspace, which they nicknamed \"J-Space,\" that Claude appears to use to hold and manipulate ideas before putting them into words. The company says the structure shows intriguing similarities to how humans consciously access thoughts, though it stops short of claiming the finding proves machine consciousness.",
+      "score": 7,
+      "scraped_at": "2026-07-14"
+    },
+    {
+      "id": "7856f2515e68504e",
+      "title": "Microsoft 365 Copilot adds Claude as a model option and content watermarks",
+      "vendor": "Microsoft",
+      "source": "learn.microsoft.com",
+      "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+      "date": "2026-07-01",
+      "description": "Microsoft's release notes for Microsoft 365 Copilot confirm that Anthropic's Claude is now selectable as a model option in Copilot Chat for complex analysis and document work. The same update rolled out watermarks for AI-generated content in Copilot across Android, Windows, iOS, Mac, and Web.",
+      "score": 6,
+      "scraped_at": "2026-07-14"
     }
   ]
 }
