@@ -1,0 +1,68 @@
+[
+  {
+    "id": "40c4cf9177d51c76",
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "date": "2026-07-09",
+    "description": "OpenAI publicly released GPT-5.6 in three tiers - Sol, Terra, and Luna - priced from $1 to $5 per million input tokens depending on tier, available through ChatGPT, Codex, and the API. The launch also introduced ChatGPT Work, an enterprise agent tool for drafting documents and coordinating team tasks, and GPT-5.6 is billed as OpenAI's strongest cybersecurity model yet.",
+    "score": 10,
+    "scraped_at": "2026-07-14"
+  },
+  {
+    "id": "439ee8a147463933",
+    "title": "xAI launches Grok 4.5, its first release since acquiring Cursor",
+    "vendor": "xAI",
+    "source": "axios.com",
+    "url": "https://www.axios.com/2026/07/08/spacexai-grok-new-model",
+    "date": "2026-07-08",
+    "description": "xAI released Grok 4.5, pitched primarily as a coding and agentic-work model rather than a consumer chatbot. It is priced at $2 per million input tokens and $6 per million output tokens, and is available in Grok Build, in Cursor on all plans, and via the xAI console, though not yet in the EU.",
+    "score": 9,
+    "scraped_at": "2026-07-14"
+  },
+  {
+    "id": "fdd9745edc3aad4e",
+    "title": "Anthropic redeploys Claude Fable 5 globally after export controls lifted",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/redeploying-fable-5",
+    "date": "2026-06-30",
+    "description": "Anthropic lifted the export controls placed on Claude Fable 5 and Mythos 5 on June 12, restoring global access starting July 1 across the Claude Platform, Claude.ai, Claude Code, and Claude Cowork. The redeployment follows the rollout of improved safety classifiers addressing a jailbreak technique that had bypassed Fable 5's cybersecurity safeguards; cloud platform access via AWS, Google Cloud, and Microsoft Foundry is still being restored.",
+    "score": 7,
+    "scraped_at": "2026-07-14"
+  },
+  {
+    "id": "08e6da2ff0239b3f",
+    "title": "Anthropic says Claude has carved out its own space to ponder",
+    "vendor": "Anthropic",
+    "source": "axios.com",
+    "url": "https://www.axios.com/2026/07/06/anthropic-claude-ai-conscious",
+    "date": "2026-07-06",
+    "description": "Anthropic researchers identified an internal workspace, which they nicknamed \"J-Space,\" that Claude appears to use to hold and manipulate ideas before putting them into words. The company says the structure shows intriguing similarities to how humans consciously access thoughts, though it stops short of claiming the finding proves machine consciousness.",
+    "score": 7,
+    "scraped_at": "2026-07-14"
+  },
+  {
+    "id": "84ff4d52cf276e95",
+    "title": "Gemini Spark, Google's agentic assistant, is now available on Mac",
+    "vendor": "Google",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+    "date": "2026-07-01",
+    "description": "Google brought Gemini Spark, its background AI agent, to macOS, letting it work directly with files on a user's computer, including converting documents into Google Workspace spreadsheets. The update adds integrations with Google Tasks, Keep, Canva, Dropbox, Instacart, and Zillow Rentals, plus MCP support, but remains limited to Google AI Ultra subscribers in the U.S. in beta.",
+    "score": 6,
+    "scraped_at": "2026-07-14"
+  },
+  {
+    "id": "7856f2515e68504e",
+    "title": "Microsoft 365 Copilot adds Claude as a model option and content watermarks",
+    "vendor": "Microsoft",
+    "source": "learn.microsoft.com",
+    "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+    "date": "2026-07-01",
+    "description": "Microsoft's release notes for Microsoft 365 Copilot confirm that Anthropic's Claude is now selectable as a model option in Copilot Chat for complex analysis and document work. The same update rolled out watermarks for AI-generated content in Copilot across Android, Windows, iOS, Mac, and Web.",
+    "score": 6,
+    "scraped_at": "2026-07-14"
+  }
+]
