@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-14T07:35:16.572516+00:00",
+  "updated_at": "2026-07-15T07:38:45.537227+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -1915,6 +1915,17 @@
       "description": "Microsoft's release notes for Microsoft 365 Copilot confirm that Anthropic's Claude is now selectable as a model option in Copilot Chat for complex analysis and document work. The same update rolled out watermarks for AI-generated content in Copilot across Android, Windows, iOS, Mac, and Web.",
       "score": 6,
       "scraped_at": "2026-07-14"
+    },
+    {
+      "id": "e264036c49b1e712",
+      "title": "Sam Altman seeks new world order for AI as OpenAI slowly loses ground to Google and Anthropic",
+      "vendor": "Industry",
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/07/02/sam-altman-new-world-order-ai-openai-google-anthropic/",
+      "date": "2026-07-02",
+      "description": "Sam Altman is pushing for a global AI safety governance framework modeled on aviation and atomic-energy standards, even as OpenAI cedes ground: ChatGPT's market share has fallen below 50% for the first time as Anthropic gains on revenue and engagement. The piece also notes that AI productivity gains remain concentrated in tech companies, with adoption in non-tech sectors moving slowly.",
+      "score": 7,
+      "scraped_at": "2026-07-15"
     }
   ]
 }
