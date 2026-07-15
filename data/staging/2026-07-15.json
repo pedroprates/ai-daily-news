@@ -1,0 +1,24 @@
+[
+  {
+    "id": "b28194f531afc390",
+    "title": "Side Chats and Conversation Search",
+    "vendor": "Cursor",
+    "source": "cursor.com",
+    "url": "https://cursor.com/changelog",
+    "date": "2026-07-10",
+    "description": "Cursor 3.11 adds side chats, letting developers branch off a quick question or tangent via /side or /btw without losing the main agent thread's context. The release also ships conversation search across a local index of past agent sessions, a redesigned project and repo picker, and new hooks for observing and controlling cloud agent conversations.",
+    "score": 5,
+    "scraped_at": "2026-07-15"
+  },
+  {
+    "id": "e264036c49b1e712",
+    "title": "Sam Altman seeks new world order for AI as OpenAI slowly loses ground to Google and Anthropic",
+    "vendor": "Industry",
+    "source": "fortune.com",
+    "url": "https://fortune.com/2026/07/02/sam-altman-new-world-order-ai-openai-google-anthropic/",
+    "date": "2026-07-02",
+    "description": "Sam Altman is pushing for a global AI safety governance framework modeled on aviation and atomic-energy standards, even as OpenAI cedes ground: ChatGPT's market share has fallen below 50% for the first time as Anthropic gains on revenue and engagement. The piece also notes that AI productivity gains remain concentrated in tech companies, with adoption in non-tech sectors moving slowly.",
+    "score": 7,
+    "scraped_at": "2026-07-15"
+  }
+]
