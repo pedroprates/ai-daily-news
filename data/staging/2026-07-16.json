@@ -1,0 +1,68 @@
+[
+  {
+    "id": "d1ceca30ec934226",
+    "title": "Apple Intelligence approved for launch in China with Alibaba's Qwen AI",
+    "vendor": "Apple",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "date": "2026-07-15",
+    "description": "China's Cyberspace Administration approved Apple's AI services for the domestic market, clearing the way for Apple Intelligence features across iOS, iPadOS, macOS, and visionOS. The approval rests on a partnership integrating Alibaba's Qwen model into Apple Intelligence for Chinese users, since Apple cannot rely on its US-trained models there, though no launch timeframe has been given.",
+    "score": 8,
+    "scraped_at": "2026-07-16"
+  },
+  {
+    "id": "b933130748567eb8",
+    "title": "Anthropic and Blackstone launch Ode, a $1.5 billion AI implementation venture",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+    "date": "2026-07-15",
+    "description": "Anthropic and Blackstone launched Ode, a $1.5 billion venture that embeds engineers directly inside enterprise clients to help them deploy AI into core business operations. The move reflects a broader shift among frontier labs toward viewing AI implementation, not just model-building, as the next major commercial opportunity.",
+    "score": 8,
+    "scraped_at": "2026-07-16"
+  },
+  {
+    "id": "fe985779dfb73155",
+    "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+    "date": "2026-07-15",
+    "description": "OpenAI launched the Codex Micro, a $230 keyboard co-designed with Work Louder for managing fleets of AI coding agents, featuring light-up \"Agent Keys\" showing agent status, programmable shortcut keys, a joystick for launching workflows, and a dial to adjust reasoning effort. The release comes as OpenAI faces a trade-secret lawsuit from Apple over its hardware plans.",
+    "score": 6,
+    "scraped_at": "2026-07-16"
+  },
+  {
+    "id": "ec2b50b366205fd7",
+    "title": "Thinking Machines unveils Inkling, its first open-weight model, betting against one-size-fits-all AI",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+    "date": "2026-07-15",
+    "description": "Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, released Inkling, a 975-billion-parameter open-weight mixture-of-experts model trained on 45 trillion multimodal tokens that developers can download and customize via the company's Tinker platform. The launch positions the startup as a challenger to proprietary frontier models from OpenAI, Anthropic, and Google, betting that organization-specific customization will outperform general-purpose systems.",
+    "score": 7,
+    "scraped_at": "2026-07-16"
+  },
+  {
+    "id": "faf51a22877b31f6",
+    "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+    "date": "2026-07-15",
+    "description": "London-based Applied Computing raised a $20 million Series A to build Orbital, a foundation model purpose-built for oil, gas, and petrochemical facilities that combines time-series analysis, physics-based modeling, and language processing to analyze thousands of plant sensors. The company says operators currently use less than 8% of available sensor data, and Orbital aims to compress investigations that took days or weeks into seconds.",
+    "score": 7,
+    "scraped_at": "2026-07-16"
+  },
+  {
+    "id": "0069ac994440e1d3",
+    "title": "Indian AI coding startup Emergent becomes a unicorn just over a year after launch",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+    "date": "2026-07-15",
+    "description": "Indian AI coding startup Emergent raised a $130 million Series C round that values the company at unicorn status, just over a year after its launch. The rapid rise underscores continued investor appetite for AI coding tools even as competition intensifies among Cursor, GitHub Copilot, and Claude Code.",
+    "score": 6,
+    "scraped_at": "2026-07-16"
+  }
+]
