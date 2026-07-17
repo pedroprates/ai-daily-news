@@ -11,6 +11,7 @@ is set in the environment.
 import argparse
 import os
 import sys
+import uuid
 from pathlib import Path
 
 import boto3
@@ -57,7 +58,7 @@ def invalidate_cloudfront(distribution_id: str) -> None:
         DistributionId=distribution_id,
         InvalidationBatch={
             "Paths": {"Quantity": 2, "Items": ["/*", "/"]},
-            "CallerReference": str(os.getpid()),
+            "CallerReference": str(uuid.uuid4()),
         },
     )
     print(f"✓ CloudFront invalidation created for {distribution_id}", file=sys.stderr)
