@@ -1,0 +1,90 @@
+[
+  {
+    "id": "f18b063ad9b0d565",
+    "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+    "vendor": "Apple",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+    "date": "2026-07-14",
+    "description": "Apple released the iOS 27 public beta, making its overhauled Siri AI assistant broadly available to iPhone users for the first time ahead of the software's official fall launch. The new Siri offers personal context awareness, onscreen understanding, and can answer general knowledge questions, summarize messages, and handle calendar tasks, though early testers report occasional errors in the beta build.",
+    "score": 8,
+    "scraped_at": "2026-07-17"
+  },
+  {
+    "id": "ad504bbdb221cc44",
+    "title": "Claude for Teachers",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/claude-for-teachers",
+    "date": "2026-07-14",
+    "description": "Anthropic launched Claude for Teachers, a free version of its chatbot built specifically for K-12 educators in the US. The product gives teachers access to a library of teaching skills and a direct connection to evidence-based curricula mapped to academic standards across all 50 states.",
+    "score": 7,
+    "scraped_at": "2026-07-17"
+  },
+  {
+    "id": "26d0f784fc4dcc73",
+    "title": "Google Gemini Launch Delayed as Tech Falls Short of Internal Goals",
+    "vendor": "Google",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals",
+    "date": "2026-07-16",
+    "description": "Google has delayed the launch of Gemini 3.5 Pro, its next flagship AI model, after determining the technology fell short of internal capability goals, particularly on coding performance. The company is taking additional time to improve the model before release, pushing the rollout behind its original schedule.",
+    "score": 7,
+    "scraped_at": "2026-07-17"
+  },
+  {
+    "id": "c3f670f0e59024d0",
+    "title": "Moonshot's upcoming Kimi 3 is expected to close the gap with Anthropic's Opus 4.8",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+    "date": "2026-07-16",
+    "description": "Chinese AI lab Moonshot is preparing to release Kimi 3, a new model expected to narrow the performance gap with Anthropic's Claude Opus 4.8 on coding and reasoning benchmarks. The upcoming release reflects intensifying competition between Western frontier labs and Chinese AI developers.",
+    "score": 6,
+    "scraped_at": "2026-07-17"
+  },
+  {
+    "id": "80f7b84f7442abd8",
+    "title": "Google's AI Mode now lets you link and interact with select apps",
+    "vendor": "Google",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+    "date": "2026-07-16",
+    "description": "Google expanded AI Mode in Search to let users link and interact with select third-party apps directly within conversational search results. The feature lets AI Mode pull in and act on data from connected apps, extending Google's push toward agentic search experiences.",
+    "score": 6,
+    "scraped_at": "2026-07-17"
+  },
+  {
+    "id": "fdcdbc9b728ff22d",
+    "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "date": "2026-07-16",
+    "description": "Roblox launched an AI-powered game-creation feature in its mobile app that lets users generate playable game elements directly from natural-language prompts on their phones. The tool lowers the barrier for casual creators to build content within Roblox's platform.",
+    "score": 5,
+    "scraped_at": "2026-07-17"
+  },
+  {
+    "id": "88783e9ab7078047",
+    "title": "Why AMI Labs' Alexandre LeBrun won't call his AI 'AGI' or 'superintelligence'",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+    "date": "2026-07-16",
+    "description": "AMI Labs founder Alexandre LeBrun explained why he avoids using terms like \"AGI\" or \"superintelligence\" to describe his company's AI systems, arguing the labels overstate current capabilities and distract from practical progress. The comments add to an ongoing industry debate over hype and terminology in AI development.",
+    "score": 4,
+    "scraped_at": "2026-07-17"
+  },
+  {
+    "id": "5f7650f97d0c7030",
+    "title": "Google Vids now lets you star in your own AI videos",
+    "vendor": "Google",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+    "date": "2026-07-16",
+    "description": "Google added a feature to Google Vids that lets users create AI-generated avatars of themselves to star in videos, using the tool's existing generative video capabilities. The update expands Google's suite of AI video creation tools aimed at business and personal content creators.",
+    "score": 4,
+    "scraped_at": "2026-07-17"
+  }
+]
