@@ -1,0 +1,46 @@
+[
+  {
+    "id": "0aba2be743cd52af",
+    "title": "Can an Apple lawsuit derail OpenAI's hardware plans?",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "date": "2026-07-19",
+    "description": "TechCrunch examines whether Apple's trade-secret lawsuit against OpenAI, which alleges theft of AI hardware designs, could delay or derail OpenAI's push into consumer hardware. The analysis weighs the legal risks against OpenAI's public roadmap for its device efforts. It follows Apple's blockbuster suit filed earlier in July.",
+    "score": 7,
+    "scraped_at": "2026-07-20"
+  },
+  {
+    "id": "990fa243b146f3dd",
+    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+    "date": "2026-07-19",
+    "description": "Current AI, a nonprofit initiative, is building open AI infrastructure and datasets intended to be freely available rather than controlled by a handful of large labs. The effort positions itself as a counterweight to the concentration of AI compute and models among a few dominant vendors. TechCrunch profiles the group's progress and ambitions.",
+    "score": 6,
+    "scraped_at": "2026-07-20"
+  },
+  {
+    "id": "1fcca80208dd9321",
+    "title": "'Odyssey' director Christopher Nolan calls AI an obvious 'Trojan horse'",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "date": "2026-07-19",
+    "description": "Filmmaker Christopher Nolan, promoting his film 'Odyssey', described artificial intelligence as an obvious 'Trojan horse' in comments covered by TechCrunch, warning about the technology's deceptive risks. His remarks add to a growing chorus of cultural figures publicly skeptical of the AI industry's trajectory. The piece is framed as commentary rather than a product or policy development.",
+    "score": 4,
+    "scraped_at": "2026-07-20"
+  },
+  {
+    "id": "f26afcf21c3f7e18",
+    "title": "What to watch for after Jensen Huang's Japan visit",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+    "date": "2026-07-19",
+    "description": "Nvidia CEO Jensen Huang's visit to Japan has drawn attention to the country's efforts to expand its AI and semiconductor infrastructure. TechCrunch outlines what to watch next, including potential partnerships tied to Japan's push for a bigger role in the global AI compute supply chain.",
+    "score": 5,
+    "scraped_at": "2026-07-20"
+  }
+]
