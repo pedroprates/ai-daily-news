@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-20T07:35:45.643982+00:00",
+  "updated_at": "2026-07-21T07:37:24.738578+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -2124,6 +2124,61 @@
       "description": "Nvidia CEO Jensen Huang's visit to Japan has drawn attention to the country's efforts to expand its AI and semiconductor infrastructure. TechCrunch outlines what to watch next, including potential partnerships tied to Japan's push for a bigger role in the global AI compute supply chain.",
       "score": 5,
       "scraped_at": "2026-07-20"
+    },
+    {
+      "id": "6f587fe95d6b5fb3",
+      "title": "Anthropic's landmark $1.5B copyright settlement is approved",
+      "vendor": "Anthropic",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "date": "2026-07-20",
+      "description": "A federal judge granted final approval to Anthropic's $1.5 billion settlement with authors over claims it used pirated books to train Claude, paying roughly $3,100 per work across more than 480,000 titles. It is described as the largest known US copyright settlement and the first major AI-training copyright case to resolve.",
+      "score": 9,
+      "scraped_at": "2026-07-21"
+    },
+    {
+      "id": "88aa02fac6f50788",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "vendor": "Google",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "date": "2026-07-20",
+      "description": "Alphabet is reportedly developing an internal server chip codenamed 'Frozen v2' to run Gemini models with far greater efficiency, potentially six to ten times more tokens generated per unit of power than Google's current AI chips, per The Information. The chip is expected to ship in 2028, and Google has not directly confirmed the details.",
+      "score": 7,
+      "scraped_at": "2026-07-21"
+    },
+    {
+      "id": "9fe76ef940d5426e",
+      "title": "AI's most important protocol is getting a little bit easier to use",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "date": "2026-07-20",
+      "description": "The Model Context Protocol, which lets AI models securely access external data sources and tools, is moving to stateless session management so it can operate more easily at scale across distributed servers. The change, developed by the MCP team with input from startup Arcade, replaces per-server session ID tracking with an approach closer to how ordinary websites work, rolling out in late July 2026.",
+      "score": 6,
+      "scraped_at": "2026-07-21"
+    },
+    {
+      "id": "cfebb9d36890835b",
+      "title": "Trump's latest AI czar has already resigned",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "date": "2026-07-20",
+      "description": "Chris Fall resigned as director of the Center for AI Standards and Innovation (CAISI), the Trump administration's AI standards body, just three months after his appointment and with no reason given. It marks the third leadership change at the agency in recent months, following David Sacks's departure in March and Collin Burns's exit in April after less than a week in the role.",
+      "score": 6,
+      "scraped_at": "2026-07-21"
+    },
+    {
+      "id": "413ef8ab41769726",
+      "title": "Apply for Anthropic's AI for Science rare disease research grants",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "date": "2026-07-20",
+      "description": "Anthropic opened applications for a new round of grants under its AI for Science program, this time focused specifically on funding rare disease research. The program is part of Anthropic's ongoing effort to support scientific applications of Claude beyond its core commercial products.",
+      "score": 5,
+      "scraped_at": "2026-07-21"
     }
   ]
 }
