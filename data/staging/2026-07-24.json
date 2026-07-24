@@ -1,0 +1,79 @@
+[
+  {
+    "id": "a501624b44a87a88",
+    "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+    "date": "2026-07-23",
+    "description": "OpenAI expanded ChatGPT Health, a feature for health-related queries, to all U.S.-based users 18 and older across every subscription plan. The rollout broadens access to health guidance tools that were previously limited to a smaller group. It reflects OpenAI's continued push into consumer health use cases for ChatGPT.",
+    "score": 7,
+    "scraped_at": "2026-07-24"
+  },
+  {
+    "id": "7c1b6e51aacaa33f",
+    "title": "Google's Gemini nears billion-user milestone",
+    "vendor": "Google",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+    "date": "2026-07-23",
+    "description": "Google's Gemini assistant has surpassed 950 million monthly active users, closing in on the billion-user mark. The growth underscores Gemini's rapid adoption following its integration across Google's product ecosystem. It would become only the second Google product, after Search, to reach that scale.",
+    "score": 7,
+    "scraped_at": "2026-07-24"
+  },
+  {
+    "id": "78152408aa7a67ee",
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "date": "2026-07-23",
+    "description": "AMD unveiled its Helios AI rack-scale system at its Advancing AI conference in San Francisco, positioning it as a direct challenger to Nvidia's data center dominance. Microsoft is listed among the growing roster of customers adopting the system. The launch signals intensifying competition in AI infrastructure hardware.",
+    "score": 7,
+    "scraped_at": "2026-07-24"
+  },
+  {
+    "id": "2b073f5d2caeb82a",
+    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+    "date": "2026-07-23",
+    "description": "AI chip startup Etched closed a $300 million Series C round at a $10.3 billion valuation, defying earlier skepticism about its transformer-specific chip approach. The funding highlights continued investor appetite for specialized AI silicon startups. Backers include several big-name investors betting on custom inference hardware.",
+    "score": 6,
+    "scraped_at": "2026-07-24"
+  },
+  {
+    "id": "b2487f279f3fca74",
+    "title": "Experts say exploiting Anthropic's Fable isn't how Kimi K3 got so good",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+    "date": "2026-07-23",
+    "description": "After a White House science advisor claimed Moonshot AI copied Anthropic's Fable model to build Kimi K3, independent experts pushed back, saying that explanation doesn't match how the Chinese model actually achieved its performance. The dispute also touches on allegations about chips not cleared for export to China. It highlights ongoing U.S.-China tension over frontier AI development.",
+    "score": 6,
+    "scraped_at": "2026-07-24"
+  },
+  {
+    "id": "ed1f2994131ea003",
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "date": "2026-07-23",
+    "description": "Safety guardrails built by major AI labs to prevent malicious use of their models are increasingly frustrating legitimate offensive security researchers and network defenders. The report details how overly broad restrictions can hinder penetration testing and vulnerability research. It raises questions about balancing model safety with usability for security professionals.",
+    "score": 6,
+    "scraped_at": "2026-07-24"
+  },
+  {
+    "id": "68e99a0f12e18210",
+    "title": "Runway launches AI model router as generative media gets crowded",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "date": "2026-07-23",
+    "description": "Runway launched a Media Router on its developer platform that automatically selects the best image, video, or audio generation model for a given request based on quality, speed, or cost priorities. The move reflects growing competition among generative media providers. It aims to simplify developer workflows across an increasingly fragmented model landscape.",
+    "score": 5,
+    "scraped_at": "2026-07-24"
+  }
+]
