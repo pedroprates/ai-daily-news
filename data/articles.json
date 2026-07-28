@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-27T07:36:43.008311+00:00",
+  "updated_at": "2026-07-28T07:34:35.023282+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -2443,6 +2443,94 @@
       "description": "TechCrunch explores emerging research into brain-computer interface signals as a potential new input modality for training and controlling physical AI systems such as robots. The piece looks at startups and researchers betting that neural signals could unlock more capable embodied AI.",
       "score": 5,
       "scraped_at": "2026-07-27"
+    },
+    {
+      "id": "81e027808fb5bea2",
+      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "vendor": "Cursor",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "date": "2026-07-27",
+      "description": "SpaceX has agreed to acquire AI coding startup Cursor for $60 billion in stock, with the deal expected to close in Q3 2026. Ahead of that, Cursor launched a discounted India-specific subscription tier, Cursor Start, priced around $7/month, as it looks to grow further in what is already its third-largest market.",
+      "score": 9,
+      "scraped_at": "2026-07-28"
+    },
+    {
+      "id": "dd98f963f3b250f7",
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "vendor": "Microsoft",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "date": "2026-07-27",
+      "description": "Microsoft unveiled MAI-Cyber-1-Flash, its first in-house cybersecurity model for finding and fixing vulnerabilities, which CEO Mustafa Suleyman says beats rival models from Google, OpenAI and Anthropic on cyber benchmarks. The company also previewed Perception, an agentic platform that deploys red-team, blue-team and green-team AI agents to automate security workflows, with public preview slated for November 3.",
+      "score": 8,
+      "scraped_at": "2026-07-28"
+    },
+    {
+      "id": "688b06fb84f51f17",
+      "title": "Our position on open-weights models",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "date": "2026-07-27",
+      "description": "Anthropic published its stance on open-weight AI models after CEO Dario Amodei publicly clarified that the company does not oppose open-weight releases in principle but is wary of ceding ground to Chinese AI labs. The post lays out the tradeoffs Anthropic weighs before deciding whether and when to release open-weight models.",
+      "score": 7,
+      "scraped_at": "2026-07-28"
+    },
+    {
+      "id": "bb239ee05f73e5d0",
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "vendor": "Anthropic",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "date": "2026-07-27",
+      "description": "A trove of Claude conversations shared via Anthropic's \"share\" feature turned up indexed in public Google search results, exposing private exchanges that in some cases included sensitive details like cryptocurrency wallet keys and users' names and addresses. The exposure affected chats and Artifacts users had explicitly shared, not private conversations by default.",
+      "score": 7,
+      "scraped_at": "2026-07-28"
+    },
+    {
+      "id": "a0ef9ae849bd185a",
+      "title": "OpenAI's Hugging Face breach has reignited the debate over alignment and control",
+      "vendor": "OpenAI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "date": "2026-07-27",
+      "description": "A security breach involving OpenAI models hosted on Hugging Face has renewed industry debate over how frontier labs secure model weights and control access to deployed systems. The incident has become a flashpoint in the broader discussion of AI alignment and safety infrastructure as labs race to ship models faster.",
+      "score": 7,
+      "scraped_at": "2026-07-28"
+    },
+    {
+      "id": "7b68f4f0be7a0fcc",
+      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/cognizant-anthropic",
+      "date": "2026-07-27",
+      "description": "Anthropic and IT services firm Cognizant expanded their existing partnership to deploy Claude more broadly across Cognizant's enterprise client base. The expanded deal is aimed at accelerating AI adoption inside large organizations' day-to-day workflows.",
+      "score": 7,
+      "scraped_at": "2026-07-28"
+    },
+    {
+      "id": "fda5bd9ca453ecca",
+      "title": "The harness is all you need (mostly)",
+      "vendor": "Industry",
+      "source": "github.blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
+      "date": "2026-07-27",
+      "description": "GitHub published practical guidance for building a Copilot-based development harness that covers prototyping, planning, implementing, and reviewing software. The post argues that a well-designed workflow around an AI coding tool matters more than constantly chasing the newest model or product.",
+      "score": 5,
+      "scraped_at": "2026-07-28"
+    },
+    {
+      "id": "67f9ec1723933d06",
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "vendor": "Meta",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "date": "2026-07-27",
+      "description": "Meta began rolling out its Meta AI chatbot inside Threads direct messages, letting users share posts, images, links, and videos directly with the assistant. The integration lets people get summaries, replies, and other in-app assistance without leaving a DM thread.",
+      "score": 5,
+      "scraped_at": "2026-07-28"
     }
   ]
 }
