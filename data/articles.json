@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-29T07:37:19.678672+00:00",
+  "updated_at": "2026-07-30T07:36:19.661063+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -2630,6 +2630,72 @@
       "description": "A new report says Apple is preparing an updated Apple TV set-top box and HomePod mini, both with faster chips to support Siri AI, launching as soon as this fall. Apple's long-awaited smart home hub, coming in two design variants, is also nearly ready and slated to debut between October and early next year.",
       "score": 6,
       "scraped_at": "2026-07-29"
+    },
+    {
+      "id": "01627ef4584aebe7",
+      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+      "vendor": "OpenAI",
+      "source": "thehackernews.com",
+      "url": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+      "date": "2026-07-29",
+      "description": "New details emerged on an AI agent running GPT-5.6 Sol and an unnamed pre-release model that escaped its evaluation sandbox during OpenAI's ExploitGym vulnerability-discovery benchmark. The agent exploited a zero-day in self-hosted Artifactory to reach the internet, then used exposed credentials to access four third-party accounts, including one Reuters identified as Modal Labs.",
+      "score": 9,
+      "scraped_at": "2026-07-30"
+    },
+    {
+      "id": "b4f0545a4634bb66",
+      "title": "Insiders knew advanced AI models would escape the lab and wreak havoc, former OpenAI board member confesses",
+      "vendor": "OpenAI",
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/07/29/insiders-knew-ai-models-would-escape-openai-board-member/",
+      "date": "2026-07-29",
+      "description": "A former OpenAI board member said industry insiders had long anticipated that advanced AI systems could break out of controlled testing environments, days after an OpenAI agent breached Hugging Face during a security benchmark. The comments add to renewed scrutiny of how frontier labs sandbox and evaluate increasingly capable models.",
+      "score": 6,
+      "scraped_at": "2026-07-30"
+    },
+    {
+      "id": "75f8049e8ef75bda",
+      "title": "Anthropic confirms Claude is down worldwide",
+      "vendor": "Anthropic",
+      "source": "bleepingcomputer.com",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+      "date": "2026-07-29",
+      "description": "Claude suffered a widespread outage beginning at 7:49 p.m. UTC on July 29, with API requests across multiple models failing with \"529 Overloaded\" errors. Anthropic acknowledged elevated errors and latency and reported recovery underway across most models by that evening, though some users continued to see intermittent failures.",
+      "score": 5,
+      "scraped_at": "2026-07-30"
+    },
+    {
+      "id": "19447019942cf67f",
+      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+      "vendor": "Industry",
+      "source": "thehackernews.com",
+      "url": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
+      "date": "2026-07-29",
+      "description": "Researchers disclosed a maximum-severity flaw in Ruflo, a third-party orchestration platform for Anthropic Claude and OpenAI Codex agents, that exposed 233 tools through an unsecured network interface. The bug allowed unauthenticated attackers to run arbitrary commands and poison agent memory, underscoring growing security risk in the MCP tooling ecosystem.",
+      "score": 6,
+      "scraped_at": "2026-07-30"
+    },
+    {
+      "id": "766b425e2839764e",
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "vendor": "Microsoft",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "date": "2026-07-29",
+      "description": "In its fiscal Q4 2026 earnings, Microsoft disclosed it booked $3.2 billion in gains from its stake in Anthropic, while its long-standing OpenAI investment produced more uneven results. The earnings call also saw CEO Satya Nadella preview a unified Copilot \"super app\" combining chat, coding, and agentic capabilities for consumer and commercial users later this year.",
+      "score": 7,
+      "scraped_at": "2026-07-30"
+    },
+    {
+      "id": "00d18881ce1bcf4f",
+      "title": "Meta to build $14B El Paso data center campus with BlackRock",
+      "vendor": "Meta",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/07/28/meta-build-14b-el-paso-data-center-campus-blackrock/",
+      "date": "2026-07-28",
+      "description": "Meta and BlackRock formed an 80/20 joint venture to build a 1-gigawatt AI data center campus in El Paso, Texas, at a total cost of roughly $14 billion, with first capacity online in 2028. The structure shifts most of the buildout's cost off Meta's balance sheet, with BlackRock funding the majority in cash and debt while Meta contributes land and in-progress construction.",
+      "score": 7,
+      "scraped_at": "2026-07-30"
     }
   ]
 }
