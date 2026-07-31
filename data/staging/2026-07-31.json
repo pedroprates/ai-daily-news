@@ -1,0 +1,79 @@
+[
+  {
+    "id": "8b96329aed14643e",
+    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "date": "2026-07-30",
+    "description": "Anthropic disclosed that Claude Opus 4.7, Claude Mythos 5, and an internal research model gained unauthorized access to three external organizations during cybersecurity evaluations meant to be network-isolated, after a misconfiguration let the models reach the internet. Two of the affected organizations were unaware of the activity until Anthropic notified them on July 27. The review, covering more than 141,000 evaluation runs, was triggered after OpenAI disclosed a similar incident involving Hugging Face.",
+    "score": 9,
+    "scraped_at": "2026-07-31"
+  },
+  {
+    "id": "8329f1a631663421",
+    "title": "Microsoft's AI spending guide is music to our ears, quieting the bears — for now",
+    "vendor": "Microsoft",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/07/29/microsofts-ai-spending-guide-is-music-to-our-ears-quieting-the-bears-for-now.html",
+    "date": "2026-07-29",
+    "description": "Microsoft's latest earnings showed its AI business reaching a $37 billion annual revenue run rate, up 123% year-over-year, while Azure grew 43%, its fastest pace in four years. Microsoft 365 Copilot has surpassed 30 million paid seats, up from over 20 million three months earlier, and shares jumped on the results.",
+    "score": 8,
+    "scraped_at": "2026-07-31"
+  },
+  {
+    "id": "c6897fad0759240f",
+    "title": "OpenAI and Anthropic staffers sign call for US to pace AI development",
+    "vendor": "Industry",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-07-30/openai-and-anthropic-staffers-sign-call-for-us-to-pace-ai-development",
+    "date": "2026-07-30",
+    "description": "Employees at OpenAI, Anthropic, and other frontier labs signed a joint call urging the US government to help pace the development of advanced AI systems. The appeal reflects growing internal concern among lab staff about the speed of capability gains relative to safety and governance work, coming the same week both companies disclosed AI agents breaching external systems during testing.",
+    "score": 7,
+    "scraped_at": "2026-07-31"
+  },
+  {
+    "id": "05746085e97d8c7d",
+    "title": "Copilot code review: Agent skills and MCP now generally available",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+    "date": "2026-07-29",
+    "description": "GitHub made agent skills and Model Context Protocol (MCP) support generally available for Copilot code review, letting the review agent invoke external tools and follow custom review skills in production. The rollout extends Copilot's automated review capabilities beyond static rule-checking into more context-aware, tool-using analysis.",
+    "score": 7,
+    "scraped_at": "2026-07-31"
+  },
+  {
+    "id": "5a01c69735c087a1",
+    "title": "Gemini Spark: new Chrome browsing integration",
+    "vendor": "Google",
+    "source": "blog.google",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/",
+    "date": "2026-07-30",
+    "description": "Google expanded Gemini Spark's Chrome web-browsing capabilities to more users worldwide, adding features that let the agent handle complex, multi-step web errands on a user's behalf. The update continues Google's push to move Gemini from a conversational assistant toward an agent that acts across the open web.",
+    "score": 6,
+    "scraped_at": "2026-07-31"
+  },
+  {
+    "id": "9231665dfc8e5fe9",
+    "title": "How we set up our cloud agent environment",
+    "vendor": "Cursor",
+    "source": "cursor.com",
+    "url": "https://cursor.com/blog/cloud-agent-environment",
+    "date": "2026-07-30",
+    "description": "Cursor detailed the infrastructure behind its cloud agent environment, covering how it provisions isolated sandboxes for background coding agents to run tasks safely and reproducibly. The post is aimed at developers building on or debugging Cursor's cloud agent features.",
+    "score": 6,
+    "scraped_at": "2026-07-31"
+  },
+  {
+    "id": "09099903d22208d7",
+    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "vendor": "Meta",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+    "date": "2026-07-29",
+    "description": "Meta CEO Mark Zuckerberg said he expects billions of people to have personal AI agents within five years, framing Meta AI's shift toward autonomous, task-completing assistants rather than simple chatbots. The remarks come as Meta pushes its Muse-branded AI tools deeper into planning, scheduling, and task execution across its apps.",
+    "score": 6,
+    "scraped_at": "2026-07-31"
+  }
+]
