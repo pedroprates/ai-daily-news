@@ -1,0 +1,46 @@
+[
+  {
+    "id": "9337088aa5bc28bb",
+    "title": "Ten advances in mathematics",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/ten-advances-in-mathematics/",
+    "date": "2026-08-01",
+    "description": "OpenAI announced that an internal version of its upcoming Astra model solved ten previously open problems in mathematics and theoretical computer science, including the existence of non-sofic groups and new sphere-packing bounds. The results were published as machine-checkable Lean proofs on GitHub for roughly $2,000 in compute, and Fields Medalist Timothy Gowers said he would recommend one of the proofs for a top journal without hesitation.",
+    "score": 10,
+    "scraped_at": "2026-08-03"
+  },
+  {
+    "id": "94a3fe9f005972ab",
+    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+    "date": "2026-07-29",
+    "description": "AI-content detection startup Pangram raised $9 million as demand grows for tools that flag AI-generated text and images online. The company launched Pangram 4, its next-generation text detection model, alongside a new AI image detection model.",
+    "score": 5,
+    "scraped_at": "2026-08-03"
+  },
+  {
+    "id": "b4015f123268ca15",
+    "title": "LinkedIn adds a button to report AI-generated 'slop'",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "date": "2026-07-30",
+    "description": "LinkedIn introduced a feature letting users flag posts that look like low-quality AI-generated content, as the platform contends with a rise in \"AI slop.\" The company is also replacing its own AI writing assistant feature with a proofreading tool.",
+    "score": 4,
+    "scraped_at": "2026-08-03"
+  },
+  {
+    "id": "bb7456a90da21f2f",
+    "title": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+    "date": "2026-07-31",
+    "description": "GitHub deprecated Gemini 2.5 Pro and Gemini 3 Flash across all GitHub Copilot experiences as of July 31, 2026, suggesting Gemini 3 Flash users migrate to newer models. The change follows GitHub's ongoing rotation of supported third-party models inside Copilot.",
+    "score": 3,
+    "scraped_at": "2026-08-03"
+  }
+]
