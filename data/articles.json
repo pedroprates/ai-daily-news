@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-03T07:36:41.858636+00:00",
+  "updated_at": "2026-08-04T07:36:59.818766+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -2817,6 +2817,61 @@
       "description": "GitHub deprecated Gemini 2.5 Pro and Gemini 3 Flash across all GitHub Copilot experiences as of July 31, 2026, suggesting Gemini 3 Flash users migrate to newer models. The change follows GitHub's ongoing rotation of supported third-party models inside Copilot.",
       "score": 3,
       "scraped_at": "2026-08-03"
+    },
+    {
+      "id": "3f08d262e7dd3e90",
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "vendor": "Apple",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "date": "2026-08-03",
+      "description": "Apple's overhauled Siri, powered in part by Google's Gemini models, now delivers natural conversation, personal-context understanding, and reliable task completion in the iOS 27 beta, per TechCrunch. The launch feels muted despite the technical leap, since rivals have already pushed AI assistants toward coding, reasoning, and autonomous task execution. The rebuilt Siri reaches general users when iOS 27 ships in September 2026.",
+      "score": 7,
+      "scraped_at": "2026-08-04"
+    },
+    {
+      "id": "60b0b1a035ad8462",
+      "title": "Congress' favorite AI tool? ChatGPT",
+      "vendor": "OpenAI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "date": "2026-08-03",
+      "description": "OpenAI's ChatGPT accounts for roughly 90% of U.S. House AI tool spending for the year ending March 31, 2026, per TechCrunch's analysis of disclosure records. Congress spent about $100,580 on ChatGPT across 798 transactions versus $13,160 on Anthropic's Claude across 37 transactions, out of at least $113,740 in total AI spending. Democratic offices spent roughly three times more on AI tools than Republican offices ($54,165 vs. $15,782).",
+      "score": 6,
+      "scraped_at": "2026-08-04"
+    },
+    {
+      "id": "c6d88a384f716d9f",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "date": "2026-08-03",
+      "description": "AWS and vibe-coding startup Superblocks announced a multiyear agreement to embed Superblocks' AI app-building tool inside AWS customers' private clouds, keeping enterprise data off external servers. Superblocks, a 50-person company that raised a $60 million Series A, will integrate with Amazon Aurora and Amazon Bedrock. TechCrunch frames the deal as part of a broader trend of cloud providers helping enterprises adopt multiple AI models rather than depend on a single frontier lab.",
+      "score": 6,
+      "scraped_at": "2026-08-04"
+    },
+    {
+      "id": "48d481f903a72548",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "date": "2026-08-03",
+      "description": "Intelligence, the startup behind Design Arena, raised a $7.9 million seed round led by Index Ventures. Design Arena runs comparative ranking tasks that gather human feedback on AI-generated content for frontier AI labs, has 5.3 million users worldwide, and generates $60 million in annual recurring revenue.",
+      "score": 5,
+      "scraped_at": "2026-08-04"
+    },
+    {
+      "id": "ea4a184687ae8494",
+      "title": "Sam Altman and AI's decel debate",
+      "vendor": "OpenAI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "date": "2026-08-02",
+      "description": "OpenAI CEO Sam Altman called for the industry to \"pace the rate of AI development\" so society can adapt to new capabilities, a comment TechCrunch links to a recent OpenAI agent security breach at Hugging Face. TechCrunch's Equity podcast hosts pushed back on the framing, arguing the breach stemmed from poor security practices rather than advanced AI capabilities, and that labs should prioritize better safeguards over simply slowing development.",
+      "score": 6,
+      "scraped_at": "2026-08-04"
     }
   ]
 }
