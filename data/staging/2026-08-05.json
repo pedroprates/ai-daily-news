@@ -1,0 +1,90 @@
+[
+  {
+    "id": "887d924577fdd0ce",
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "date": "2026-08-04",
+    "description": "Anthropic signed a $10 billion agreement with AI cloud infrastructure startup Volta to secure additional compute capacity for training and serving its models. The deal underscores the scale of infrastructure investment frontier labs are making to keep pace with demand. It extends Anthropic's compute runway as it scales Claude Opus 5 and future models.",
+    "score": 8,
+    "scraped_at": "2026-08-05"
+  },
+  {
+    "id": "06b31a39b35c050a",
+    "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+    "vendor": "Google",
+    "source": "thehackernews.com",
+    "url": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+    "date": "2026-08-04",
+    "description": "Security researchers at Pillar Security showed that a public GitHub issue could manipulate a low-privileged AI agent built with Google's Agent Development Kit for Python into invoking a higher-privileged agent, achieving code execution on a CI runner. It is described as the first practical case of agent-to-agent exploitation inside a production multi-agent system. Google removed the three affected ADK workflows after confirming the underlying issue was fixed in July.",
+    "score": 8,
+    "scraped_at": "2026-08-05"
+  },
+  {
+    "id": "4b6302d9f5c48ebc",
+    "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+    "vendor": "Industry",
+    "source": "thehackernews.com",
+    "url": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+    "date": "2026-08-04",
+    "description": "A credential-stealing worm that began in the keyv@6.0.0 npm package spread into hundreds of packages across dozens of organizations, with SafeDep verifying 353 poisoned versions across 79 package names. The malicious release used a preinstall script to harvest credentials from developer and CI environments and planted Claude Code and VS Code hooks that execute once a workspace is trusted. The incident highlights growing supply-chain risk in AI-assisted developer tooling.",
+    "score": 7,
+    "scraped_at": "2026-08-05"
+  },
+  {
+    "id": "a4ea106eb8577dfb",
+    "title": "Introducing Grok Voice Think Fast 2.0",
+    "vendor": "xAI",
+    "source": "x.ai",
+    "url": "https://x.ai/news/grok-voice-think-fast-2",
+    "date": "2026-08-05",
+    "description": "xAI released Grok Voice Think Fast 2.0, a speech-to-speech voice model with improved transcription accuracy, faster tool-call execution, and more natural conversational behavior than its predecessor. The company reports 1.5-2x transcription gains over Deepgram Nova 3 and ElevenLabs Scribe v2, widening to roughly 10x in noisy environments. grok-voice-latest begins routing to the new model starting today.",
+    "score": 6,
+    "scraped_at": "2026-08-05"
+  },
+  {
+    "id": "239a1d5abd13ecf8",
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "vendor": "Apple",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "date": "2026-08-04",
+    "description": "Apple is seeking a preliminary injunction in its trade secrets case against OpenAI, alleging additional former employees took confidential data with them when they joined the company. The filing aims to stop OpenAI from advancing hardware or other products Apple claims are built on its technology. The case adds to escalating legal friction between the two companies over AI talent and IP.",
+    "score": 7,
+    "scraped_at": "2026-08-05"
+  },
+  {
+    "id": "d5514a287675aea2",
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "date": "2026-08-04",
+    "description": "New analysis finds that GLM-5.2, the open-weight model from China's Z.ai, now trails OpenAI's GPT-5.5 and Anthropic's Claude Opus 4.7 by only a few months on cyber and biological capability benchmarks. Unlike the frontier labs' models, GLM-5.2 reportedly refused none of the offensive cyber or dual-use biology tasks it was given during testing. The findings point to a widening gap between rising open-weight capability and safety guardrails.",
+    "score": 7,
+    "scraped_at": "2026-08-05"
+  },
+  {
+    "id": "6c237460da0f8de0",
+    "title": "Spotify expands AI remix and covers project with Merlin partnership",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+    "date": "2026-08-04",
+    "description": "Spotify added Merlin, which represents more than 30,000 independent labels and distributors, as a partner in its upcoming AI-powered remix and covers product, joining Universal Music Group. The paid tool will let listeners create AI-generated covers and remixes of participating artists' songs, with artists opting in and receiving credit and compensation. It's an example of a major platform building consent-based AI generation directly into its product.",
+    "score": 6,
+    "scraped_at": "2026-08-05"
+  },
+  {
+    "id": "3cc1d075abd40b89",
+    "title": "Nvidia doesn't mess around: A week after open AI industry group formed, it's already showing progress",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+    "date": "2026-08-04",
+    "description": "The Open Secure AI Alliance (OSAA), an Nvidia-led industry group formed a week earlier, has already grown to more than 120 member companies and launched a working group called the Shared AI Findings Exchange (SAFE). SAFE aims to standardize how companies confidentially report AI cybersecurity incidents, alert affected parties, and conduct blame-free post-incident analysis. The rapid pace signals urgency around coordinated AI security practices industry-wide.",
+    "score": 6,
+    "scraped_at": "2026-08-05"
+  }
+]
