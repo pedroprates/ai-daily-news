@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-06T07:35:34.844785+00:00",
+  "updated_at": "2026-08-07T07:34:44.219291+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -3015,6 +3015,28 @@
       "description": "Anthropic named Mariano-Florentino 'Tino' Cuéllar, a former California Supreme Court justice and Carnegie Endowment president, as its new Chief Global Affairs Officer. In the role, Cuéllar will lead Anthropic's engagement with governments and regulators as the company expands internationally. The hire reflects growing investment by frontier AI labs in dedicated policy leadership as AI regulation intensifies worldwide.",
       "score": 5,
       "scraped_at": "2026-08-06"
+    },
+    {
+      "id": "aaafddabd3008b9a",
+      "title": "Meta debuts Muse Code AI coding agent to take on Anthropic and OpenAI",
+      "vendor": "Meta",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+      "date": "2026-08-05",
+      "description": "Meta CEO Mark Zuckerberg announced a beta version of Muse Code, the company's first AI coding agent capable of writing software and validating its own results. The agent runs alongside Meta's latest model, Muse Spark 1.2, putting Meta in direct competition with OpenAI and Anthropic in the agentic coding market.",
+      "score": 8,
+      "scraped_at": "2026-08-07"
+    },
+    {
+      "id": "cdd8d819f4855db7",
+      "title": "Improving Fable 5's biology safeguards",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "date": "2026-08-07",
+      "description": "Anthropic updated the safety classifier for Claude Fable 5, cutting biology-related false-positive fallbacks by roughly 85% while still blocking dangerous dual-use requests like virology and molecular design. The change means fewer interruptions for legitimate uses such as lab result interpretation and educational biology questions.",
+      "score": 7,
+      "scraped_at": "2026-08-07"
     }
   ]
 }
