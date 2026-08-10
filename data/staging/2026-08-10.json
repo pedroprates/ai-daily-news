@@ -1,0 +1,57 @@
+[
+  {
+    "id": "0538e16fdfd749c4",
+    "title": "Anthropic is hiring an AI chip design team",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+    "date": "2026-08-05",
+    "description": "Anthropic is building an in-house AI chip design team to co-design custom hardware alongside its models, aiming to improve inference speed and efficiency while reducing reliance on third-party silicon providers. The move mirrors similar hardware pushes at other frontier labs seeking more control over their compute stack.",
+    "score": 7,
+    "scraped_at": "2026-08-10"
+  },
+  {
+    "id": "00c7afd0c331218e",
+    "title": "Copilot code review effort levels are generally available",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
+    "date": "2026-08-07",
+    "description": "GitHub made \"effort levels\" for Copilot code review generally available, letting developers tune how thoroughly the AI reviewer analyzes pull requests, trading review depth for speed. The feature has moved out of preview for all Copilot code review users on GitHub.",
+    "score": 6,
+    "scraped_at": "2026-08-10"
+  },
+  {
+    "id": "ad7ab72fea29f2c7",
+    "title": "Copilot impact dashboard adds a return on investment section",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
+    "date": "2026-08-07",
+    "description": "GitHub added a return-on-investment section to its Copilot impact dashboard, giving engineering leaders visibility into time saved and productivity gains from AI-assisted coding across their organization. The update is aimed at helping enterprises justify and track Copilot spend.",
+    "score": 6,
+    "scraped_at": "2026-08-10"
+  },
+  {
+    "id": "412eeeaddaef78db",
+    "title": "Kimi K3 is now available in GitHub Copilot",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+    "date": "2026-08-06",
+    "description": "GitHub added Moonshot AI's Kimi K3 model as a selectable option inside GitHub Copilot, expanding the roster of third-party models available alongside Anthropic, OpenAI, and Google offerings. The rollout continues GitHub's push to let developers pick the best model for a given coding task.",
+    "score": 6,
+    "scraped_at": "2026-08-10"
+  },
+  {
+    "id": "89f06f364f7ddb98",
+    "title": "Copilot usage metrics API adds agent app activity",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+    "date": "2026-08-07",
+    "description": "GitHub expanded its Copilot usage metrics API to include activity data from agent apps, giving admins programmatic visibility into how autonomous coding agents are being used across their organization. The addition builds on GitHub's broader push toward usage transparency for enterprise Copilot deployments.",
+    "score": 5,
+    "scraped_at": "2026-08-10"
+  }
+]
