@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1d9bb896d76302f3",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+    "date": "2026-08-11",
+    "description": "OpenAI expanded its Daybreak cybersecurity program with two new access tiers, Daybreak Blue and Daybreak Red, giving vetted defenders access to frontier models for vulnerability research, secure code review, and incident response. The expansion includes GPT-5.6-Cyber, a purpose-trained model for authorized exploit validation and security testing that OpenAI says completes 95% of advanced cybersecurity tasks, up from 1.5% for its general-purpose GPT-5.6 Sol model.",
+    "score": 8,
+    "scraped_at": "2026-08-12"
+  },
+  {
+    "id": "61f8622f16d38d84",
+    "title": "Introducing Grok Bot",
+    "vendor": "xAI",
+    "source": "x.ai",
+    "url": "https://x.ai/news/introducing-grok-bot",
+    "date": "2026-08-11",
+    "description": "xAI launched the public beta of Grok Bot, an always-on AI agent that signs into a user's existing tools and apps to complete multi-step work end-to-end, checking in only when approval is needed. The beta is available to SuperGrok Heavy and Cursor Ultra/Teams Premium subscribers on desktop and iOS, and bots can learn a workflow by observing a user once and then run it independently going forward.",
+    "score": 8,
+    "scraped_at": "2026-08-12"
+  },
+  {
+    "id": "9ad5324bcf563d7e",
+    "title": "Google DeepMind: Koray Kavukcuoglu takes over in frontier AI push",
+    "vendor": "Google",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
+    "date": "2026-08-12",
+    "description": "Koray Kavukcuoglu has taken over day-to-day leadership of Google DeepMind as Senior Vice President, while co-founder Demis Hassabis moves to Chair of DeepMind and Chief Scientist of Alphabet. Hassabis said the move frees him to focus on long-term AGI strategy and Isomorphic Labs, while Kavukcuoglu is expected to sharpen DeepMind's focus on frontier model performance and developer tooling.",
+    "score": 7,
+    "scraped_at": "2026-08-12"
+  },
+  {
+    "id": "8812aa8fa8506788",
+    "title": "iOS 27 public beta 3 is here with Siri AI, iPhone speed upgrades, and more",
+    "vendor": "Apple",
+    "source": "9to5mac.com",
+    "url": "https://9to5mac.com/2026/08/11/ios-27-public-beta-3/",
+    "date": "2026-08-11",
+    "description": "Apple released the third public beta of iOS 27, continuing the rollout of Siri AI, the more conversational and context-aware assistant unveiled at WWDC 2026, alongside general performance improvements. The beta is available to public testers ahead of iOS 27's broader release later this year.",
+    "score": 5,
+    "scraped_at": "2026-08-12"
+  },
+  {
+    "id": "60d771136ae73f8f",
+    "title": "Personalized AI startup River AI raises $1.1B from consortium backed by Nvidia, AMD",
+    "vendor": "Industry",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/08/11/personalized-ai-startup-river-ai-raises-1-1b-consortium-backed-nvidia-amd/",
+    "date": "2026-08-11",
+    "description": "River AI raised $1.1 billion in new funding from a consortium backed by Nvidia and AMD, valuing the personalized-AI startup at a level that underscores continued investor appetite for infrastructure and model customization plays. The company's River API lets customers customize a model in 15 to 20 minutes, positioning it as a faster alternative to traditional fine-tuning workflows.",
+    "score": 6,
+    "scraped_at": "2026-08-12"
+  },
+  {
+    "id": "634c59f537dee0e0",
+    "title": "Finding big money for AI and a smaller world for security at Black Hat USA 2026",
+    "vendor": "Industry",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/08/09/finding-big-money-ai-smaller-world-security-black-hat-usa-2026/",
+    "date": "2026-08-09",
+    "description": "Coverage from Black Hat USA 2026 shows AI-enabled security tooling has become the dominant investment theme at the conference, with vendors racing to fold agentic AI into vulnerability detection, incident response, and threat hunting products. The report notes security teams are increasingly evaluating AI-native tools alongside traditional platforms as attackers adopt AI tooling of their own.",
+    "score": 5,
+    "scraped_at": "2026-08-12"
+  }
+]
