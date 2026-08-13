@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-12T07:38:52.478501+00:00",
+  "updated_at": "2026-08-13T07:38:13.212301+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -3213,6 +3213,83 @@
       "description": "Coverage from Black Hat USA 2026 shows AI-enabled security tooling has become the dominant investment theme at the conference, with vendors racing to fold agentic AI into vulnerability detection, incident response, and threat hunting products. The report notes security teams are increasingly evaluating AI-native tools alongside traditional platforms as attackers adopt AI tooling of their own.",
       "score": 5,
       "scraped_at": "2026-08-12"
+    },
+    {
+      "id": "66321e57ae7a5067",
+      "title": "Introducing Grok 4.6",
+      "vendor": "xAI",
+      "source": "x.ai",
+      "url": "https://x.ai/news/grok-4-6",
+      "date": "2026-08-12",
+      "description": "xAI released Grok 4.6, its latest frontier model built on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work. The model matches GPT-5.6 Sol on the Artificial Analysis Intelligence Index and is available via the xAI API, Cursor, and Grok Build starting at $2 per million input tokens, with double usage promotional pricing for the first week.",
+      "score": 9,
+      "scraped_at": "2026-08-13"
+    },
+    {
+      "id": "4a4d32394f6f5090",
+      "title": "OpenAI Delays Next Major AI Model 'Astra' Over Critical Hacking Concerns",
+      "vendor": "OpenAI",
+      "source": "macrumors.com",
+      "url": "https://www.macrumors.com/2026/08/07/openai-astra-model-hacking-concerns/",
+      "date": "2026-08-07",
+      "description": "OpenAI paused rollout of its next major model, Astra, after internal evaluations suggested it may have crossed a 'Critical' cybersecurity risk threshold, including the ability to identify and develop functional zero-day exploits against hardened real-world systems without human help. The company said it needs additional safeguards before proceeding.",
+      "score": 8,
+      "scraped_at": "2026-08-13"
+    },
+    {
+      "id": "e91aeb9fcaa128f6",
+      "title": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
+      "vendor": "Apple",
+      "source": "macrumors.com",
+      "url": "https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/",
+      "date": "2026-08-12",
+      "description": "Apple is negotiating multiyear licensing deals with news publishers to give the revamped Siri AI access to current news and information. Under the proposed terms, publishers would be paid when their content is surfaced by Siri, mirroring similar content deals struck by other AI assistants.",
+      "score": 6,
+      "scraped_at": "2026-08-13"
+    },
+    {
+      "id": "8d24fb731207f342",
+      "title": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+      "vendor": "Microsoft",
+      "source": "github.blog",
+      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+      "date": "2026-08-12",
+      "description": "GitHub shipped Agent Plugins 1.0, letting developers extend Copilot's agent mode with custom plugins across VS Code, the Copilot CLI, and the Copilot app. The release standardizes how third-party tools and workflows hook into Copilot's agentic coding features across surfaces.",
+      "score": 6,
+      "scraped_at": "2026-08-13"
+    },
+    {
+      "id": "8aa087716b07c11f",
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "vendor": "Meta",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "date": "2026-08-05",
+      "description": "Meta launched Muse Code, a terminal-based coding agent designed to help developers plan changes, write code, and validate results across large, complex software codebases. The tool positions Meta as a new entrant in the increasingly crowded agentic coding assistant market alongside GitHub Copilot and Cursor.",
+      "score": 6,
+      "scraped_at": "2026-08-13"
+    },
+    {
+      "id": "a246c7408447d5a5",
+      "title": "Skan AI raises $63M to give AI agents a map of enterprise work",
+      "vendor": "Industry",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/08/12/skan-ai-raises-63m-give-ai-agents-map-enterprise-work/",
+      "date": "2026-08-12",
+      "description": "Enterprise process-intelligence startup Skan AI raised $63 million to build detailed maps of how work actually happens inside large organizations, giving AI agents the operational context needed to automate real workflows. The funding reflects growing investor interest in tools that bridge the gap between piloting AI agents and deploying them reliably in production.",
+      "score": 6,
+      "scraped_at": "2026-08-13"
+    },
+    {
+      "id": "f752c2ddbaa1af13",
+      "title": "AI deployment goes vertical: Supermicro partners weigh in",
+      "vendor": "Industry",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/08/12/ai-deployment-supermicros-partners-vertical-supermicroopenstoragesummit/",
+      "date": "2026-08-12",
+      "description": "At an open storage summit, Supermicro and its partners discussed how AI deployments are increasingly moving toward vertical, industry-specific infrastructure rather than general-purpose stacks, citing unique data, governance, and operational requirements in healthcare, financial services, manufacturing, and telecom. The panel highlighted domain expertise as an emerging competitive differentiator in enterprise AI rollouts.",
+      "score": 5,
+      "scraped_at": "2026-08-13"
     }
   ]
 }
