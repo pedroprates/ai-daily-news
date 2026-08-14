@@ -1,0 +1,35 @@
+[
+  {
+    "id": "19face5b8e898c91",
+    "title": "More than 1 billion people are using the Gemini app every month",
+    "vendor": "Google",
+    "source": "blog.google",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/",
+    "date": "2026-08-11",
+    "description": "Google announced the Gemini app has crossed 1 billion monthly active users, which Sundar Pichai called the company's fastest-growing product ever. The milestone puts Gemini roughly on pace with ChatGPT, with the company citing over 150 million images generated daily and more than 100 million active users on iOS.",
+    "score": 9,
+    "scraped_at": "2026-08-14"
+  },
+  {
+    "id": "a0fa1b12099fac8f",
+    "title": "ChatGPT brings unlimited text chats to free users",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "date": "2026-08-06",
+    "description": "OpenAI removed limits on text-based chats for all ChatGPT users, shortly after the product crossed 1 billion weekly users. The new GPT-5.6 Luna model becomes the default for Free and Go tiers, replacing GPT-5.5, and both tiers gain a new \"Think\" button to select higher reasoning power for complex questions.",
+    "score": 7,
+    "scraped_at": "2026-08-14"
+  },
+  {
+    "id": "0958cfec9de6b55a",
+    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+    "vendor": "Microsoft",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+    "date": "2026-08-13",
+    "description": "Microsoft is merging its consumer and enterprise Copilot apps into a single product, rolling out worldwide through mid-September. Consumers lose access to Group Chats, AI-generated podcasts, Copilot Labs experiments, and Deep Research by August 18, and the app drops its Mico animated character as Microsoft rebrands Microsoft 365 Copilot as Microsoft Copilot.",
+    "score": 7,
+    "scraped_at": "2026-08-14"
+  }
+]
