@@ -1,0 +1,68 @@
+[
+  {
+    "id": "7cb38fddc594f085",
+    "title": "Cursor is now a part of SpaceX",
+    "vendor": "Cursor",
+    "source": "cursor.com",
+    "url": "https://cursor.com/blog/joining-spacex",
+    "date": "2026-08-14",
+    "description": "SpaceX has acquired Cursor, the AI-powered code editor, bringing its team and technology under Elon Musk's aerospace company. The deal follows Cursor's recent release of Grok 4.6 support and its push into faster-starting cloud coding agents.",
+    "score": 9,
+    "scraped_at": "2026-08-17"
+  },
+  {
+    "id": "31bad0791a5e5c62",
+    "title": "Anthropic CEO says AI backlash is 'fundamentally a crisis of trust'",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "date": "2026-08-16",
+    "description": "Anthropic CEO Dario Amodei responded to criticism that his warnings about AI risk have fueled public backlash against the industry, saying his messaging has been roughly balanced between risks and benefits. He argued the sector's credibility problem will only be resolved by delivering tangible benefits, such as curing diseases, rather than by promises alone.",
+    "score": 6,
+    "scraped_at": "2026-08-17"
+  },
+  {
+    "id": "0afb458e7b0878f0",
+    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "date": "2026-08-12",
+    "description": "Thrive Holdings, an OpenAI-backed venture that embeds AI agents into acquired small and mid-sized businesses, raised $2 billion to expand its enterprise deployment efforts. The company says its agents now serve more than 70 businesses, including a tax-prep agent that has processed over 7,000 returns at 98% accuracy while cutting prep time by more than 30%.",
+    "score": 7,
+    "scraped_at": "2026-08-17"
+  },
+  {
+    "id": "da40c54dd81a5aad",
+    "title": "Everything announced at Made by Google '26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+    "vendor": "Google",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+    "date": "2026-08-12",
+    "description": "Google unveiled the Pixel 11 lineup, Pixel Watch 5, and a new item tracker called Pixel Tag at its Made by Google 2026 event. The devices ship with new Gemini-powered features, including 'Rambler,' a voice-input tool designed to better handle natural, run-on speech.",
+    "score": 5,
+    "scraped_at": "2026-08-17"
+  },
+  {
+    "id": "c9eb27f95a84f8c2",
+    "title": "Anthropic sees AI risks rising, no plan to release stronger 'Model 2'",
+    "vendor": "Anthropic",
+    "source": "axios.com",
+    "url": "https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk",
+    "date": "2026-08-14",
+    "description": "Anthropic has no current plans to release a more powerful successor model, referred to as 'Model 2,' according to Axios. The company says it sees the risks associated with frontier AI capabilities continuing to rise.",
+    "score": 6,
+    "scraped_at": "2026-08-17"
+  },
+  {
+    "id": "2a68d8196b36b7f0",
+    "title": "Grok 4.6 in GitHub Copilot",
+    "vendor": "xAI",
+    "source": "x.ai",
+    "url": "https://x.ai/news/grok-4-6-github-copilot",
+    "date": "2026-08-14",
+    "description": "xAI's Grok 4.6 coding model is now available in GitHub Copilot, giving developers access to it directly from the Copilot model picker. Grok 4.6 is built for long-running coding agents and complex, interactive engineering work.",
+    "score": 5,
+    "scraped_at": "2026-08-17"
+  }
+]
