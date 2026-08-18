@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-17T07:38:10.948772+00:00",
+  "updated_at": "2026-08-18T07:34:29.076323+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -3389,6 +3389,72 @@
       "description": "xAI's Grok 4.6 coding model is now available in GitHub Copilot, giving developers access to it directly from the Copilot model picker. Grok 4.6 is built for long-running coding agents and complex, interactive engineering work.",
       "score": 5,
       "scraped_at": "2026-08-17"
+    },
+    {
+      "id": "e7e318e87e3c6918",
+      "title": "Anthropic's annualized revenue surges to $65B",
+      "vendor": "Anthropic",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "date": "2026-08-17",
+      "description": "Anthropic's annualized revenue has surged to $65 billion, TechCrunch reports, reflecting rapid growth in Claude's enterprise and API adoption. The jump highlights how quickly frontier AI labs are scaling commercial revenue alongside model capability gains.",
+      "score": 8,
+      "scraped_at": "2026-08-18"
+    },
+    {
+      "id": "9dc5caf38ae16c32",
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "date": "2026-08-17",
+      "description": "Nvidia is investing $1.5 billion in the SoftBank-backed data center developer building infrastructure tied to an OpenAI project, according to TechCrunch. The deal adds to a wave of chipmaker-backed capital flowing into AI data center buildout to support frontier model training and inference.",
+      "score": 7,
+      "scraped_at": "2026-08-18"
+    },
+    {
+      "id": "f7751a62e0c6a2e9",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "date": "2026-08-17",
+      "description": "AI chip startup Groq has raised $350 million to fund its pivot from selling inference chips toward a 'neocloud' compute-hosting business, TechCrunch reports. The shift reflects growing competition among AI infrastructure providers to capture recurring cloud revenue rather than one-time hardware sales.",
+      "score": 6,
+      "scraped_at": "2026-08-18"
+    },
+    {
+      "id": "248c74532a4432bf",
+      "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "date": "2026-08-17",
+      "description": "Amazon, once known primarily as an online bookseller, is destroying rare physical texts as part of its process for training AI models, TechCrunch reports. The practice has drawn criticism over the loss of irreplaceable materials in service of AI data pipelines.",
+      "score": 5,
+      "scraped_at": "2026-08-18"
+    },
+    {
+      "id": "539a4e5f39bd505f",
+      "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "vendor": "Microsoft",
+      "source": "github.blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+      "date": "2026-08-17",
+      "description": "GitHub introduced canvases for Copilot, a visual interface designed to make agentic coding workflows more visible, steerable, and cost-efficient than chat alone. The feature targets the difficulty of tracking long-running agent work that otherwise gets lost scrolling through a chat log.",
+      "score": 5,
+      "scraped_at": "2026-08-18"
+    },
+    {
+      "id": "526cd2e1f6feaca6",
+      "title": "AI automation startup Relay shuts down, staff joins Google's Chrome team",
+      "vendor": "Google",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "date": "2026-08-17",
+      "description": "AI automation startup Relay has shut down, with its staff moving to Google's Chrome team, TechCrunch reports. The move is the latest in a string of acquihires as large platforms absorb AI automation talent rather than compete with standalone startups.",
+      "score": 4,
+      "scraped_at": "2026-08-18"
     }
   ]
 }
