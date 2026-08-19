@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-18T07:34:29.076323+00:00",
+  "updated_at": "2026-08-19T07:34:15.074922+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -3455,6 +3455,72 @@
       "description": "AI automation startup Relay has shut down, with its staff moving to Google's Chrome team, TechCrunch reports. The move is the latest in a string of acquihires as large platforms absorb AI automation talent rather than compete with standalone startups.",
       "score": 4,
       "scraped_at": "2026-08-18"
+    },
+    {
+      "id": "70797cb5407f01c6",
+      "title": "Apple's Anti-AI Position Is Becoming Stock Market Baggage",
+      "vendor": "Apple",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/apple-s-anti-ai-position-suddenly-becomes-stock-market-baggage",
+      "date": "2026-08-18",
+      "description": "Apple's cautious, largely AI-skeptical strategy helped its stock outperform earlier in the year as investors soured on AI spending, but the position is now weighing on the shares. Apple stock has fallen roughly 10% since a July 28 record high following disappointing earnings, as investors reassess whether staying on the sidelines of the AI race is sustainable.",
+      "score": 7,
+      "scraped_at": "2026-08-19"
+    },
+    {
+      "id": "034f1426612cb218",
+      "title": "Microsoft starts merging its Copilot consumer and business apps in advance of 'Super App' rollout",
+      "vendor": "Microsoft",
+      "source": "geekwire.com",
+      "url": "https://www.geekwire.com/2026/microsoft-starts-merging-its-copilot-consumer-and-business-apps-in-advance-of-super-app-rollout/",
+      "date": "2026-08-13",
+      "description": "Microsoft has begun consolidating its separate consumer and Microsoft 365 Copilot apps into a single application, with personal and work accounts coexisting while remaining data-isolated. The move retires features like Copilot Podcasts, Group Chat and Deep Research for free users, and lays groundwork for CEO Satya Nadella's planned Copilot 'Super App,' as Microsoft 365 Copilot surpasses 30 million paid seats.",
+      "score": 7,
+      "scraped_at": "2026-08-19"
+    },
+    {
+      "id": "6f1bf72c97e7993e",
+      "title": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "vendor": "OpenAI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "date": "2026-08-13",
+      "description": "OpenAI launched an 'Ultrafast' mode for GPT-5.6 Sol that runs up to 14 times faster than standard processing, delivering as many as 750 output tokens per second. The feature targets latency-sensitive use cases where response speed matters more than maximum reasoning depth.",
+      "score": 7,
+      "scraped_at": "2026-08-19"
+    },
+    {
+      "id": "e67d454c38f0985c",
+      "title": "Google's Gemini 3.7 Flash arrives before Gemini 3.5 Pro",
+      "vendor": "Google",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/08/13/google-gemini-37-flash",
+      "date": "2026-08-13",
+      "description": "Google released Gemini 3.7 Flash, offering improved coding and knowledge-work performance and better instruction-following for developers, notably arriving ahead of the anticipated Gemini 3.5 Pro. The release continues Google's rapid cadence of smaller, faster model updates aimed at developer workflows.",
+      "score": 7,
+      "scraped_at": "2026-08-19"
+    },
+    {
+      "id": "0f3aae81898feb94",
+      "title": "Now you can connect even more of your favorite apps and services to Gemini",
+      "vendor": "Google",
+      "source": "blog.google",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
+      "date": "2026-08-12",
+      "description": "Google expanded the list of third-party apps and services that can connect to the Gemini app, adding productivity tools like Granola, Otter.ai and Wix alongside local and entertainment services such as OpenTable, Ticketmaster and GetYourGuide. The expansion is part of Google's push to build Gemini into a full-stack AI business layer across consumer and enterprise products.",
+      "score": 6,
+      "scraped_at": "2026-08-19"
+    },
+    {
+      "id": "0799e3c8355ae4db",
+      "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
+      "vendor": "Meta",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
+      "date": "2026-08-10",
+      "description": "Meta released Muse Glimmer, an open-weight model designed to run AI agents locally on consumer hardware, alongside plans to release Muse Spark 1.2 weights. The move underscores Meta's bet on open-source AI as a competitive differentiator against closed frontier labs like OpenAI and Anthropic, following CEO Mark Zuckerberg's manifesto arguing for distributing superintelligence widely rather than centralizing it.",
+      "score": 8,
+      "scraped_at": "2026-08-19"
     }
   ]
 }
