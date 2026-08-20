@@ -1,0 +1,46 @@
+[
+  {
+    "id": "e68246067eeddf6e",
+    "title": "How Claude's text watermark works",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/claude-text-watermark",
+    "date": "2026-08-14",
+    "description": "Anthropic detailed a new invisible watermark built into Claude's text output that subtly influences word choice among equally good options, creating a pattern undetectable to readers but identifiable by anyone holding the decoding key. The rollout is driven by the EU AI Act's content-labeling requirements, and Anthropic is using Google DeepMind's SynthID-Text method after signing the EU's Code of Practice on Transparency of AI-Generated Content.",
+    "score": 7,
+    "scraped_at": "2026-08-20"
+  },
+  {
+    "id": "9279f0782444de5a",
+    "title": "OpenAI's Revenue Run Rate Tops $40 Billion Ahead of IPO",
+    "vendor": "OpenAI",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-13/openai-s-revenue-run-rate-tops-40-billion-ahead-of-ipo",
+    "date": "2026-08-13",
+    "description": "OpenAI is on track for an annualized revenue run rate above $40 billion, roughly double where it stood at the end of 2025, according to figures reported ahead of a planned public listing. CFO Sarah Friar told employees OpenAI expects to be a public company in 2027, or sooner if growth keeps inflecting upward.",
+    "score": 8,
+    "scraped_at": "2026-08-20"
+  },
+  {
+    "id": "3e6d22f2b773ec27",
+    "title": "Git at any scale: how Cursor built Origin",
+    "vendor": "Cursor",
+    "source": "cursor.com",
+    "url": "https://cursor.com/blog/git-at-any-scale",
+    "date": "2026-08-18",
+    "description": "Cursor detailed the architecture behind Origin, its new enterprise Git hosting platform built on a storage system called Continuity that uses a write-ahead log on S3-compatible object storage. The company says the design gives fully consistent horizontal scalability, positioning it as an alternative to incumbent architectures like GitHub's Spokes as Cursor pushes further into code hosting.",
+    "score": 7,
+    "scraped_at": "2026-08-20"
+  },
+  {
+    "id": "539a4e5f39bd505f",
+    "title": "GitHub Copilot app for Beginners: Managing your work",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
+    "date": "2026-08-19",
+    "description": "GitHub published a beginner's guide to the 'My work' pane in the Copilot app, which helps developers track multiple in-flight Copilot agent sessions at once, showing what's done, in progress, and queued next. The post is part of an ongoing GitHub series aimed at onboarding developers to agentic Copilot workflows.",
+    "score": 4,
+    "scraped_at": "2026-08-20"
+  }
+]
