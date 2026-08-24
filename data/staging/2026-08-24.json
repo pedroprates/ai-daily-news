@@ -1,0 +1,35 @@
+[
+  {
+    "id": "0799e3c8355ae4db",
+    "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
+    "vendor": "Meta",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
+    "date": "2026-08-10",
+    "description": "Meta released Muse Glimmer, a new family of open-weight AI models designed to run on laptops, as part of CEO Mark Zuckerberg's push for U.S. leadership in open-source AI. The release positions Meta's open models directly against closed offerings from OpenAI and Anthropic.",
+    "score": 7,
+    "scraped_at": "2026-08-24"
+  },
+  {
+    "id": "0865b2f79420fc57",
+    "title": "Meta Has Quietly Become One of Microsoft's Largest AI Customers",
+    "vendor": "Meta",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/meta-has-quietly-become-one-of-microsoft-s-largest-ai-customers",
+    "date": "2026-08-20",
+    "description": "Despite its own massive AI infrastructure buildout, Meta Platforms is spending hundreds of millions of dollars a year to access AI models and compute through Microsoft's Azure cloud, according to Bloomberg. The arrangement shows how even the largest AI labs still lean on rivals' cloud capacity to meet demand.",
+    "score": 6,
+    "scraped_at": "2026-08-24"
+  },
+  {
+    "id": "e72a76fb799dd023",
+    "title": "Apple's Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak",
+    "vendor": "Apple",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-19/apple-s-camera-equipped-ai-airpods-remain-on-track-for-2027-despite-video-leak",
+    "date": "2026-08-19",
+    "description": "Apple's plan to launch camera-equipped AirPods with AI capabilities remains on schedule for a 2027 release, Bloomberg reported, even after a leaked video surfaced showing an early hardware version. The wearable is expected to use Apple's on-device AI to enable real-time visual context features.",
+    "score": 6,
+    "scraped_at": "2026-08-24"
+  }
+]
