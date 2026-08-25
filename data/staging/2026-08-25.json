@@ -1,0 +1,57 @@
+[
+  {
+    "id": "a8a77e4504265570",
+    "title": "OpenAI is building an AI agent for everything. Will everyone use them?",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "date": "2026-08-24",
+    "description": "OpenAI launched ChatGPT Work, a $20-per-month subscription that extends its AI agents beyond software engineers to general office workers, automating tasks like report generation and data analysis. The company reports 98% internal adoption among its own staff but says non-coding workflows are harder to evaluate and need simpler permission and configuration setups than its technical tools. OpenAI says improving interface usability is now a priority for reaching a broader base of enterprise workers.",
+    "score": 8,
+    "scraped_at": "2026-08-25"
+  },
+  {
+    "id": "6b18681068b67b05",
+    "title": "The new GitHub Copilot experience in Slack",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack/",
+    "date": "2026-08-21",
+    "description": "GitHub rolled out a new Copilot experience inside Slack, bringing the agentic capabilities of the GitHub Copilot CLI and app directly into Slack workspaces in public preview. The integration lets teams trigger Copilot's coding agent and review its work without leaving Slack conversations. It extends Copilot's reach from the IDE into everyday team collaboration tools.",
+    "score": 6,
+    "scraped_at": "2026-08-25"
+  },
+  {
+    "id": "70797cb5407f01c6",
+    "title": "Apple's Anti-AI Position Is Becoming Stock Market Baggage",
+    "vendor": "Apple",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-18/apple-s-anti-ai-position-suddenly-becomes-stock-market-baggage",
+    "date": "2026-08-18",
+    "description": "Apple's cautious, comparatively AI-light strategy, once seen by investors as a hedge against a cooling AI trade, is becoming a liability as the stock's rally reverses. Apple shares are down roughly 10% since a July 28 record high following disappointing earnings, with investors increasingly questioning the company's slower pace on generative AI features. The report contrasts Apple's position with faster-moving rivals racing to ship AI products.",
+    "score": 7,
+    "scraped_at": "2026-08-25"
+  },
+  {
+    "id": "ce24224c892f1229",
+    "title": "Grok 4.6 is now available in GitHub Copilot",
+    "vendor": "xAI",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot/",
+    "date": "2026-08-14",
+    "description": "xAI's Grok 4.6 reasoning model is now rolling out inside GitHub Copilot, giving developers access to the model for agentic coding and complex multi-step workflows. The addition follows Grok 4.6's broader launch on August 12 and expands the roster of frontier models available directly inside Copilot alongside options from OpenAI, Anthropic, and Google. It reflects GitHub's continued multi-model strategy for Copilot rather than favoring a single AI lab.",
+    "score": 5,
+    "scraped_at": "2026-08-25"
+  },
+  {
+    "id": "e97540a634524887",
+    "title": "MAI-Code-1.1-Flash available in GitHub Copilot",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot/",
+    "date": "2026-08-11",
+    "description": "Microsoft's MAI-Code-1.1-Flash, a small-tier coding model built in-house, began rolling out inside GitHub Copilot with native vision support for image understanding. The model brings improvements to coding quality, instruction following, tool use, and overall performance versus its predecessor. It gives Copilot users a faster, lower-cost model option developed directly by Microsoft rather than sourced from an external lab.",
+    "score": 6,
+    "scraped_at": "2026-08-25"
+  }
+]
