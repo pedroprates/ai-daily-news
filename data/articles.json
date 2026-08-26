@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-25T07:37:12.656388+00:00",
+  "updated_at": "2026-08-26T07:35:47.286481+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -3664,6 +3664,61 @@
       "description": "Microsoft's MAI-Code-1.1-Flash, a small-tier coding model built in-house, began rolling out inside GitHub Copilot with native vision support for image understanding. The model brings improvements to coding quality, instruction following, tool use, and overall performance versus its predecessor. It gives Copilot users a faster, lower-cost model option developed directly by Microsoft rather than sourced from an external lab.",
       "score": 6,
       "scraped_at": "2026-08-25"
+    },
+    {
+      "id": "1e032b3767d6bbcd",
+      "title": "Funding better evaluations of AI's impact on wellbeing",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "date": "2026-08-25",
+      "description": "Anthropic launched a $5 million grant program funding independent research into how AI impacts user wellbeing, providing recipients with direct funding, model access, and technical support. The program targets open-source evaluations of how conversational AI should behave when users seek emotional support, requiring funded work to involve clinical experts and reflect real multi-turn conversations.",
+      "score": 6,
+      "scraped_at": "2026-08-26"
+    },
+    {
+      "id": "0c6b106ff3944d57",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "vendor": "Apple",
+      "source": "apple.com",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "date": "2026-08-25",
+      "description": "Apple unveiled the M6 chip, its first built on a 2-nanometer process, debuting in the new Mac mini with a dual 16-core Neural Engine delivering up to 2x the prior generation's peak AI compute. The M5 Ultra, Apple's first quad-die chip, powers the new Mac Studio with up to an 80-core GPU and 512GB unified memory, delivering up to 4.5x the peak GPU AI compute of the M3 Ultra for running large models locally.",
+      "score": 7,
+      "scraped_at": "2026-08-26"
+    },
+    {
+      "id": "d1942c284f95144f",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "vendor": "Cursor",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "date": "2026-08-18",
+      "description": "Cursor launched Origin, a Git-hosting platform built into its AI coding editor that offers pull-request review, code search, and two-way sync back to GitHub. The launch marks Cursor's shift from a tool that sits on top of GitHub to a direct competitor, built in part on technology from its December 2025 acquisition of code-review startup Graphite.",
+      "score": 8,
+      "scraped_at": "2026-08-26"
+    },
+    {
+      "id": "2b950d5a745e6c95",
+      "title": "xAI ships Grok 4.6 with 500K-token context window",
+      "vendor": "xAI",
+      "source": "docs.x.ai",
+      "url": "https://docs.x.ai/developers/release-notes",
+      "date": "2026-08-12",
+      "description": "xAI officially launched Grok 4.6, its flagship model for coding, agentic tasks, and knowledge work, with a 500,000-token context window and configurable reasoning levels for long-running agents. The model was subsequently added to Google's Enterprise Agent Platform Model Garden, expanding its availability for enterprise agentic and visual-work use cases.",
+      "score": 8,
+      "scraped_at": "2026-08-26"
+    },
+    {
+      "id": "a0e0e8449de03c13",
+      "title": "From assistance to execution: how enterprises put AI to work",
+      "vendor": "Industry",
+      "source": "openai.com",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work/",
+      "date": "2026-08-12",
+      "description": "OpenAI published data showing enterprise AI usage is shifting from assistance to execution of full workflows, with the top 10% of firms by AI usage generating 8.3x as many output tokens per active user as typical firms. The report highlights a widening gap between frontier adopters and the rest of the market as companies move AI agents into production.",
+      "score": 7,
+      "scraped_at": "2026-08-26"
     }
   ]
 }
