@@ -1,0 +1,68 @@
+[
+  {
+    "id": "bfd1495c76918d53",
+    "title": "OpenAI's Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "date": "2026-08-25",
+    "description": "OpenAI released early benchmark results for Jalapeño, its first custom inference chip built with Broadcom. On the SemiAnalysis InferenceX benchmark, Jalapeño-based systems delivered 1.5x-1.9x more throughput and 1.7x-3.6x lower latency than current state-of-the-art GPU systems across models like GPT-OSS-120B and DeepSeek R1, while using significantly less power per rack.",
+    "score": 8,
+    "scraped_at": "2026-08-27"
+  },
+  {
+    "id": "47ab2b839d86805e",
+    "title": "Anthropic's $30 trillion market size estimate is outlandish. That may be the point.",
+    "vendor": "Anthropic",
+    "source": "fortune.com",
+    "url": "https://fortune.com/2026/08/26/anthropic-wants-investors-to-believe-its-market-is-worth-30-trillion-nearly-40-of-the-entire-us-stock-market/",
+    "date": "2026-08-26",
+    "description": "Ahead of a planned October IPO targeting a roughly $2 trillion valuation, Anthropic is pitching investors on a total addressable market of $30 trillion, nearly equal to annual U.S. GDP. Analysts note the company's current revenue run rate is far below what such a valuation would require at typical tech multiples, raising scrutiny over the underlying math.",
+    "score": 7,
+    "scraped_at": "2026-08-27"
+  },
+  {
+    "id": "c5fcdc890274653f",
+    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+    "date": "2026-08-26",
+    "description": "Z.ai, maker of the GLM model family, confirmed it created Ox Alpha, an open-weight model that had topped several benchmark leaderboards under a mysterious identity. The company said it plans to release the model's weights publicly, continuing the trend of Chinese labs releasing competitive open models.",
+    "score": 6,
+    "scraped_at": "2026-08-27"
+  },
+  {
+    "id": "00360fbc5ef2dec1",
+    "title": "Amazon service Jeff Bezos once called 'artificial artificial intelligence' is shutting down",
+    "vendor": "Industry",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+    "date": "2026-08-25",
+    "description": "Amazon is shutting down Mechanical Turk, its 21-year-old crowdsourced human-labeling marketplace, effective September 30. The company pointed to the platform's decline as AI models have reduced reliance on human data annotation and newer entrants like Scale AI, Mercor, and Prolific have taken over the data-labeling market.",
+    "score": 6,
+    "scraped_at": "2026-08-27"
+  },
+  {
+    "id": "2c0afc159ab72fa5",
+    "title": "Siri AI will have a waitlist when iOS 27 launches",
+    "vendor": "Apple",
+    "source": "macrumors.com",
+    "url": "https://www.macrumors.com/2026/08/24/siri-ai-ios-27-waitlist/",
+    "date": "2026-08-24",
+    "description": "Apple is building waitlist infrastructure into iOS 27 for its rebuilt, generative AI-powered Siri, meaning not all users will get immediate access at launch this fall. The system will show dynamic wait-time messages as users are gradually let in, similar to staged rollouts Apple has used for other high-demand features.",
+    "score": 6,
+    "scraped_at": "2026-08-27"
+  },
+  {
+    "id": "ed84eefb9462710c",
+    "title": "IBM's new Granite 4.2 models add reasoning and stay dense",
+    "vendor": "Industry",
+    "source": "thenewstack.io",
+    "url": "https://thenewstack.io/ibm-granite-reasoning-models/",
+    "date": "2026-08-26",
+    "description": "IBM released Granite 4.2, an Apache 2.0-licensed family of open-weight models in 3B, 8B, and 30B sizes, pre-trained on 15 trillion tokens with a 512,000-token context window. The larger 8B and 30B models went through additional agentic reinforcement learning to call tools, edit and run code, and search the web, and can toggle between thinking and low-effort reasoning modes.",
+    "score": 6,
+    "scraped_at": "2026-08-27"
+  }
+]
