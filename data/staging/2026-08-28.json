@@ -1,0 +1,46 @@
+[
+  {
+    "id": "4fc8c1a37b886671",
+    "title": "Previewing the Model Hardware Standard",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://anthropic.com/news/model-hardware-standard-research-preview",
+    "date": "2026-08-27",
+    "description": "Anthropic opened a research preview of the Model Hardware Standard (MHS), a shared specification that lets AI agents like Claude safely operate physical devices such as robots and lab equipment. The preview is initially available to scientific research labs and advanced manufacturers so they can test the integration and build in safeguards before wider release.",
+    "score": 9,
+    "scraped_at": "2026-08-28"
+  },
+  {
+    "id": "0c6b106ff3944d57",
+    "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+    "vendor": "Apple",
+    "source": "apple.com",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+    "date": "2026-08-25",
+    "description": "Apple unveiled the M6 chip in a new Mac mini and the M5 Ultra in a new Mac Studio, delivering a significant jump in CPU, GPU, and on-device AI compute performance. The new silicon lets developers run and fine-tune large AI models locally on the Mac.",
+    "score": 7,
+    "scraped_at": "2026-08-28"
+  },
+  {
+    "id": "52729de706686742",
+    "title": "What's new in Microsoft Security: August 2026",
+    "vendor": "Microsoft",
+    "source": "microsoft.com",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/",
+    "date": "2026-08-27",
+    "description": "Microsoft rolled out new Defender capabilities that assess posture risk for AI agents based on configuration, access, runtime activity, and endpoint context, helping security teams identify and prioritize risky agents. The update is part of a broader push to give organizations visibility into AI agent activity as agents get embedded into more business processes.",
+    "score": 7,
+    "scraped_at": "2026-08-28"
+  },
+  {
+    "id": "48f9521226b49ebc",
+    "title": "Nvidia closes in on Hugging Face acquisition",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+    "date": "2026-08-26",
+    "description": "Nvidia has agreed to acquire open-source AI model hub Hugging Face for roughly $12.9 billion, according to reports, a sharp jump from Hugging Face's $4.5 billion valuation in 2023. The deal would be Nvidia's largest-ever acquisition and helps it expand beyond chips into cloud and developer tooling as it defends its AI infrastructure dominance.",
+    "score": 9,
+    "scraped_at": "2026-08-28"
+  }
+]
