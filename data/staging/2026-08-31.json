@@ -1,0 +1,90 @@
+[
+  {
+    "id": "d750556c657fba21",
+    "title": "Sony Music, Warner sue Anthropic, alleging a 'brazen campaign' of intellectual property theft",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "date": "2026-08-29",
+    "description": "Sony Music and Warner Music sued Anthropic, accusing the company of training its Claude models on copyrighted song lyrics and recordings without authorization. The suit adds Anthropic to a growing list of AI companies facing copyright litigation from major record labels over training data.",
+    "score": 8,
+    "scraped_at": "2026-08-31"
+  },
+  {
+    "id": "d8544dddaa7c28ef",
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "date": "2026-08-27",
+    "description": "OpenAI, Anthropic, Google, and more than 100 other companies and organizations signed a joint call urging governments and industry to invest in safeguards against rogue or uncontrollable AI systems. The coordinated statement marks one of the broadest cross-lab efforts yet on AI safety infrastructure.",
+    "score": 8,
+    "scraped_at": "2026-08-31"
+  },
+  {
+    "id": "80d0eae02fda2662",
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "date": "2026-08-30",
+    "description": "Caterpillar is applying decades of experience automating mining equipment to its enterprise AI rollout, favoring incremental, safety-first deployment over rapid experimentation. The approach illustrates how industrial companies are adapting AI adoption playbooks built for software to physical, safety-critical operations.",
+    "score": 7,
+    "scraped_at": "2026-08-31"
+  },
+  {
+    "id": "8a45cb93a1efe517",
+    "title": "OpenAI to start showing ads on ChatGPT's free and Go tiers in India",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+    "date": "2026-08-27",
+    "description": "OpenAI will begin showing advertisements to users on ChatGPT's free and low-cost Go subscription tiers in India, its largest market by user count. The move signals OpenAI's push toward ad-supported monetization in price-sensitive markets rather than relying solely on subscriptions.",
+    "score": 6,
+    "scraped_at": "2026-08-31"
+  },
+  {
+    "id": "44945c70744e4749",
+    "title": "Google's AI Mode can now track flight prices, help book hotels, and more",
+    "vendor": "Google",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "date": "2026-08-27",
+    "description": "Google added travel-planning capabilities to AI Mode in Search, letting users track flight prices and get help booking hotels directly through conversational queries. The update extends AI Mode further into transactional, agentic tasks beyond information retrieval.",
+    "score": 6,
+    "scraped_at": "2026-08-31"
+  },
+  {
+    "id": "a85aa69b831be69c",
+    "title": "Nvidia's AI advantage is moving beyond the GPU",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "date": "2026-08-29",
+    "description": "Nvidia is extending its AI market lead beyond GPU silicon into networking, software, and full-stack systems, aiming to deepen customer lock-in as chip competition intensifies. The analysis examines how rivals are responding as Nvidia's moat broadens past hardware alone.",
+    "score": 6,
+    "scraped_at": "2026-08-31"
+  },
+  {
+    "id": "a1c125ab1c9f5282",
+    "title": "Musk's faster path to more gas turbines comes with pollution problem",
+    "vendor": "xAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+    "date": "2026-08-30",
+    "description": "Elon Musk's push to rapidly power AI data centers, including xAI's Colossus supercomputer, with gas turbines is drawing scrutiny over air pollution and permitting shortcuts. The report details growing tension between the speed of AI infrastructure buildout and environmental compliance.",
+    "score": 6,
+    "scraped_at": "2026-08-31"
+  },
+  {
+    "id": "4a0589cf32d672ba",
+    "title": "Upcoming changes to GitHub Copilot policies and billing",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
+    "date": "2026-08-28",
+    "description": "GitHub announced upcoming changes to Copilot's usage policies and billing structure, affecting how enterprise and individual plans are metered. The update follows GitHub's earlier shift toward usage-based billing for Copilot Pro and Pro+ tiers.",
+    "score": 6,
+    "scraped_at": "2026-08-31"
+  }
+]
