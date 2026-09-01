@@ -1,0 +1,79 @@
+[
+  {
+    "id": "08ed8101fc35123a",
+    "title": "Tim Cook's parting message: Apple is in the hands of a product builder",
+    "vendor": "Apple",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
+    "date": "2026-08-31",
+    "description": "Tim Cook handed the Apple CEO role to John Ternus, effective September 1, 2026, praising him as a product-first leader. The succession puts a hardware-and-engineering veteran in charge of Apple's AI strategy at a moment when Apple Intelligence and its broader roadmap are under intense scrutiny.",
+    "score": 7,
+    "scraped_at": "2026-09-01"
+  },
+  {
+    "id": "b0ee4c6fde08a42b",
+    "title": "Apple shares 'shocking evidence' against former employee accused of stealing company data for OpenAI",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "date": "2026-08-31",
+    "description": "Apple disclosed new evidence in its lawsuit against a former employee accused of taking confidential company data before joining OpenAI. The filing intensifies an ongoing legal dispute over trade-secret theft between two major AI players.",
+    "score": 6,
+    "scraped_at": "2026-09-01"
+  },
+  {
+    "id": "77e651c0246f9df1",
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "date": "2026-08-31",
+    "description": "The U.S. Department of Defense has deployed government-specific versions of OpenAI's ChatGPT and xAI's Grok for internal use. The move marks a significant step in federal government adoption of frontier AI models for sensitive and defense-related workflows.",
+    "score": 8,
+    "scraped_at": "2026-09-01"
+  },
+  {
+    "id": "493a177a82af08d6",
+    "title": "Nvidia's $3.5B MediaTek bet reveals its plan for tackling Big Tech's AI chip buildout",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+    "date": "2026-08-31",
+    "description": "Nvidia is investing $3.5 billion in MediaTek as part of a broader strategy to secure custom silicon supply for AI infrastructure buildouts. The deal illustrates how chipmakers are repositioning to meet the compute demands of frontier AI labs and hyperscalers.",
+    "score": 7,
+    "scraped_at": "2026-09-01"
+  },
+  {
+    "id": "ba23b444bdf635c9",
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "vendor": "Meta",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "date": "2026-08-31",
+    "description": "Meta's Instagram introduced new restrictions on AI-generated profiles that fail to disclose their synthetic nature. The policy aims to curb deceptive AI personas on the platform as AI-generated content becomes harder to distinguish from real accounts.",
+    "score": 5,
+    "scraped_at": "2026-09-01"
+  },
+  {
+    "id": "badf236d9d67021f",
+    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+    "date": "2026-08-31",
+    "description": "Clipto, a three-year-old startup that uses AI to make terabytes of video footage searchable, reached a $250 million valuation in its latest funding round. The company's growth reflects rising enterprise demand for AI-powered media search and indexing tools.",
+    "score": 5,
+    "scraped_at": "2026-09-01"
+  },
+  {
+    "id": "8ed1599eb95bc766",
+    "title": "Improving our alignment and security efforts",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+    "date": "2026-08-31",
+    "description": "Anthropic detailed new internal initiatives to strengthen model alignment and security practices across its research and deployment pipeline. The announcement reflects continued frontier-lab investment in safety infrastructure as models grow more capable and widely deployed.",
+    "score": 7,
+    "scraped_at": "2026-09-01"
+  }
+]
