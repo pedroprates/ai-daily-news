@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-01T07:35:04.991684+00:00",
+  "updated_at": "2026-09-02T07:37:00.592254+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -3983,6 +3983,72 @@
       "description": "Anthropic detailed new internal initiatives to strengthen model alignment and security practices across its research and deployment pipeline. The announcement reflects continued frontier-lab investment in safety infrastructure as models grow more capable and widely deployed.",
       "score": 7,
       "scraped_at": "2026-09-01"
+    },
+    {
+      "id": "a3461c8cef17985d",
+      "title": "Anthropic's new Fable release is cheaper, less restrictive",
+      "vendor": "Anthropic",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "date": "2026-09-01",
+      "description": "Anthropic released Claude Fable 5.1 and Claude Mythos 5.1, twinned versions of its most advanced model with different levels of safeguards. Fable 5.1 is generally available and costs an estimated 25% less than its predecessor for typical workloads, while Mythos 5.1 is limited to registered partners in cybersecurity and life sciences research.",
+      "score": 9,
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "id": "c53867e1e8c8a5e6",
+      "title": "OpenAI's Astra model is on the way — and very good at breaking into computer systems",
+      "vendor": "OpenAI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "date": "2026-09-01",
+      "description": "OpenAI said its upcoming Astra model crossed a 'critical cybersecurity threshold,' scoring perfectly on ExploitBench and independently identifying unknown security flaws in real-world systems. The company is limiting access to Astra's most advanced cyber capabilities and adding universal monitoring as it works with government agencies to test the model further.",
+      "score": 9,
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "id": "f8d9e3667adc9240",
+      "title": "The Assistant experience on mobile is upgrading to Gemini",
+      "vendor": "Google",
+      "source": "blog.google",
+      "url": "https://blog.google/products/gemini/google-assistant-gemini-mobile/",
+      "date": "2026-08-31",
+      "description": "Google confirmed that Google Assistant on phones, tablets, Wear OS watches, and Android Auto is being replaced by Gemini, with the mandatory transition beginning September 4. Once a device switches over, 'Hey Google' and the power-button shortcut will launch Gemini instead of Assistant, and the change cannot be reverted.",
+      "score": 8,
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "id": "4f8149f0b02d7acd",
+      "title": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
+      "vendor": "Apple",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
+      "date": "2026-09-01",
+      "description": "John Ternus's first day as Apple CEO arrived alongside soaring memory prices and continued scrutiny of Apple's AI roadmap, with the company's September 9 event seen as his first major test. The report frames Apple Intelligence and Siri's overhaul as central to how Ternus defines Apple's competitive position against rivals racing ahead on AI.",
+      "score": 6,
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "id": "a68f4a2bcd37136b",
+      "title": "Grok Bot is now included with more plans",
+      "vendor": "xAI",
+      "source": "x.ai",
+      "url": "https://x.ai/news/grok-bot-more-plans",
+      "date": "2026-08-26",
+      "description": "SpaceXAI expanded access to Grok Bot, its always-on AI agent product, to every SuperGrok and Cursor subscription tier, dropping the entry price to $20 a month. The agents get their own dedicated computer and can work across Google Workspace, Slack, Microsoft 365, Salesforce, Notion, GitHub, and Jira on a user's behalf.",
+      "score": 6,
+      "scraped_at": "2026-09-02"
+    },
+    {
+      "id": "76403fea879ffdaa",
+      "title": "Upcoming changes to GitHub Copilot policies and billing",
+      "vendor": "Microsoft",
+      "source": "github.blog",
+      "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing/",
+      "date": "2026-08-28",
+      "description": "GitHub detailed upcoming Copilot changes, including reopened sign-ups for Business and Enterprise customers paying by card, deprecation of several older models, and a move to per-seat prepaid billing starting October 1. The changes precede a planned unification of Copilot Chat across github.com, mobile, and cloud agents later in September.",
+      "score": 5,
+      "scraped_at": "2026-09-02"
     }
   ]
 }
