@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-02T07:37:00.592254+00:00",
+  "updated_at": "2026-09-03T07:33:59.586340+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -4049,6 +4049,72 @@
       "description": "GitHub detailed upcoming Copilot changes, including reopened sign-ups for Business and Enterprise customers paying by card, deprecation of several older models, and a move to per-seat prepaid billing starting October 1. The changes precede a planned unification of Copilot Chat across github.com, mobile, and cloud agents later in September.",
       "score": 5,
       "scraped_at": "2026-09-02"
+    },
+    {
+      "id": "4a77cb2e9e2fca24",
+      "title": "Building commerce agents with Claude",
+      "vendor": "Anthropic",
+      "source": "claude.com",
+      "url": "https://claude.com/blog/claude-for-commerce-agents",
+      "date": "2026-09-02",
+      "description": "Anthropic launched a commerce agent blueprint featuring reference shopping and merchant agents, guardrails, and a Claude Code plugin. The blueprint targets retail, travel, telecom, and ticketing companies looking to build AI-powered shopping experiences.",
+      "score": 8,
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "id": "a0dbac6e6fb152b5",
+      "title": "Meta Releases AI Model Muse Spark 1.3, Edges Closer to OpenAI, Anthropic",
+      "vendor": "Meta",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-02/meta-releases-more-powerful-ai-model-edging-closer-to-rivals",
+      "date": "2026-09-02",
+      "description": "Meta released Muse Spark 1.3, its most capable AI model to date, with the company's chief AI officer saying its capabilities are narrowing the gap with OpenAI and Anthropic. The release promises improved efficiency alongside stronger performance.",
+      "score": 8,
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "id": "08d1759b5ab11725",
+      "title": "Meta's $18 billion settlement could clear the way for new AI product launches",
+      "vendor": "Meta",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/02/meta-18-billion-settlement-ai-products.html",
+      "date": "2026-09-02",
+      "description": "Meta's $18 billion social media settlement removes a legal overhang that Morgan Stanley analysts say could free the company to pursue a wave of new AI product launches. The settlement resolves litigation that had constrained Meta's product roadmap.",
+      "score": 6,
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "id": "4719513fcaf1dbcd",
+      "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+      "vendor": "Google",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+      "date": "2026-09-02",
+      "description": "Google shares had entered September on a four-month losing streak, the longest since 2015, but the company opened the month with renewed investor optimism around its AI product momentum. The report ties recent Gemini updates to the shift in sentiment.",
+      "score": 5,
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "id": "0c005365d7fe452a",
+      "title": "Responsible AI in 2026: How we are adapting for what's ahead",
+      "vendor": "Microsoft",
+      "source": "blogs.microsoft.com",
+      "url": "https://blogs.microsoft.com/on-the-issues/2026/09/01/responsible-ai-in-2026-how-we-are-adapting-for-whats-ahead/",
+      "date": "2026-09-01",
+      "description": "Microsoft outlined how its responsible AI practices are evolving in 2026 as AI systems take on more autonomous, agentic tasks. The post details updated governance and safety processes the company is applying across its AI product line.",
+      "score": 6,
+      "scraped_at": "2026-09-03"
+    },
+    {
+      "id": "c93de511d175e774",
+      "title": "From AI readiness to impact: Why a strong data foundation determines success in healthcare",
+      "vendor": "Microsoft",
+      "source": "microsoft.com",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/09/01/from-ai-readiness-to-impact-why-a-strong-data-foundation-determines-success-in-healthcare/",
+      "date": "2026-09-01",
+      "description": "Microsoft detailed how healthcare organizations are moving from AI pilots to production impact by first investing in unified data foundations. The post draws on customer deployments showing that data readiness, not model choice, is the primary blocker to healthcare AI adoption.",
+      "score": 7,
+      "scraped_at": "2026-09-03"
     }
   ]
 }
