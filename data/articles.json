@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-03T07:33:59.586340+00:00",
+  "updated_at": "2026-09-04T07:35:17.426400+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -4115,6 +4115,72 @@
       "description": "Microsoft detailed how healthcare organizations are moving from AI pilots to production impact by first investing in unified data foundations. The post draws on customer deployments showing that data readiness, not model choice, is the primary blocker to healthcare AI adoption.",
       "score": 7,
       "scraped_at": "2026-09-03"
+    },
+    {
+      "id": "c00309156ee59f82",
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "vendor": "OpenAI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "date": "2026-09-03",
+      "description": "OpenAI released Astra on September 3, 2026, a model built for computer and browser automation, cybersecurity tasks, and software engineering, which the company calls its best model yet for coding. It first shipped to Daybreak cybersecurity program customers, with wider Pro, Plus, Enterprise, and API access rolling out over the following week. Astra uses a technique called 'opaque recurrence' that obscures chain-of-thought monitoring, drawing concern from researchers about reduced oversight of the model's reasoning.",
+      "score": 9,
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "id": "482b3fc6d69e13a8",
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "date": "2026-09-03",
+      "description": "Nvidia confirmed it will acquire Hugging Face, the open-source AI model hosting platform, for $12.9 billion. The deal extends Nvidia's reach beyond GPU hardware into the broader AI software and model-development ecosystem. Hugging Face has become a central repository for open-weight models and machine learning tooling used widely across the industry.",
+      "score": 9,
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "id": "e7232d52f37fd859",
+      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "date": "2026-09-01",
+      "description": "Anthropic introduced Claude Fable 5.1 and Claude Mythos 5.1 on September 1, 2026, positioning them as its most advanced models for coding, knowledge work, and scientific research. Fable 5.1 is broadly available and reported to be cheaper and less restrictive than its predecessor, while Mythos 5.1 carries stronger safeguards and is limited to a restricted group of verified organizations for sensitive domains such as cybersecurity and biological research.",
+      "score": 8,
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "id": "61be402eb5f2f6df",
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "vendor": "OpenAI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "date": "2026-09-02",
+      "description": "The U.S. Department of Justice filed a statement of interest supporting OpenAI and Microsoft's position that training AI models on copyrighted text can qualify as fair use, in the ongoing New York Times lawsuit against the companies. The filing signals the government's stance on a legal question that shapes AI training practices across the industry.",
+      "score": 7,
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "id": "ca0a2fc927923c81",
+      "title": "OpenAI's new reasoning technique alarms AI safety experts",
+      "vendor": "OpenAI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "date": "2026-09-02",
+      "description": "AI safety researchers raised concerns this week about a new reasoning technique in OpenAI's latest models that obscures chain-of-thought monitoring, an oversight mechanism used to audit how models arrive at their outputs. The technique trades interpretability for greater capability, intensifying an ongoing debate in the safety community about frontier labs shipping increasingly opaque reasoning systems into production.",
+      "score": 7,
+      "scraped_at": "2026-09-04"
+    },
+    {
+      "id": "3058df3b96e49870",
+      "title": "Google's latest AI weather model gives you no excuse to forget your umbrella",
+      "vendor": "Google",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "date": "2026-09-03",
+      "description": "Google released a new AI-based weather forecasting model as part of its ongoing effort to apply machine learning to meteorology. The release continues Google's push to improve short-term forecast accuracy using AI, following earlier weather models from its research teams.",
+      "score": 6,
+      "scraped_at": "2026-09-04"
     }
   ]
 }
