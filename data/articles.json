@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-07T07:37:11.684947+00:00",
+  "updated_at": "2026-09-08T07:36:03.992261+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -4258,6 +4258,28 @@
       "description": "Nscale, the AI compute provider behind a $45 billion infrastructure deal with Anthropic, is in talks to raise $3.5 billion ahead of a planned IPO, including $1.5 billion in convertible notes and up to $2 billion in additional financing from Nvidia. The round underscores the scale of capital flowing into AI data center buildout to support frontier model training and inference.",
       "score": 6,
       "scraped_at": "2026-09-07"
+    },
+    {
+      "id": "27c00e5ba2be4b8e",
+      "title": "OpenAI chief scientist argues for AI research slowdown",
+      "vendor": "OpenAI",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/09/07/openai-chief-scientist-argues-for-ai-research-slowdown/",
+      "date": "2026-09-07",
+      "description": "OpenAI's chief scientist publicly argued for slowing the pace of frontier AI research and development, contending that the industry's rapid iteration cycle is outrunning careful safety evaluation. The comments add to an ongoing internal and industry-wide debate about balancing competitive pressure with responsible deployment of increasingly capable models.",
+      "score": 6,
+      "scraped_at": "2026-09-08"
+    },
+    {
+      "id": "cc2b7c34b4073b5d",
+      "title": "Why Apple being late on AI may be an advantage",
+      "vendor": "Apple",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/why-apple-being-late-on-ai-may-be-an-advantage",
+      "date": "2026-09-04",
+      "description": "Bloomberg examined how Apple's slower rollout of generative AI features, relative to rivals like OpenAI and Google, could work in the company's favor by letting it learn from competitors' missteps before shipping a more polished Apple Intelligence experience. The analysis comes as Apple prepares to detail deeper Apple Intelligence and Siri upgrades at its upcoming September hardware event.",
+      "score": 5,
+      "scraped_at": "2026-09-08"
     }
   ]
 }
