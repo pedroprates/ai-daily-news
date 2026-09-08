@@ -1,0 +1,35 @@
+[
+  {
+    "id": "27c00e5ba2be4b8e",
+    "title": "OpenAI chief scientist argues for AI research slowdown",
+    "vendor": "OpenAI",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/09/07/openai-chief-scientist-argues-for-ai-research-slowdown/",
+    "date": "2026-09-07",
+    "description": "OpenAI's chief scientist publicly argued for slowing the pace of frontier AI research and development, contending that the industry's rapid iteration cycle is outrunning careful safety evaluation. The comments add to an ongoing internal and industry-wide debate about balancing competitive pressure with responsible deployment of increasingly capable models.",
+    "score": 6,
+    "scraped_at": "2026-09-08"
+  },
+  {
+    "id": "cc2b7c34b4073b5d",
+    "title": "Why Apple being late on AI may be an advantage",
+    "vendor": "Apple",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-04/why-apple-being-late-on-ai-may-be-an-advantage",
+    "date": "2026-09-04",
+    "description": "Bloomberg examined how Apple's slower rollout of generative AI features, relative to rivals like OpenAI and Google, could work in the company's favor by letting it learn from competitors' missteps before shipping a more polished Apple Intelligence experience. The analysis comes as Apple prepares to detail deeper Apple Intelligence and Siri upgrades at its upcoming September hardware event.",
+    "score": 5,
+    "scraped_at": "2026-09-08"
+  },
+  {
+    "id": "4719513fcaf1dbcd",
+    "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+    "vendor": "Google",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+    "date": "2026-09-02",
+    "description": "CNBC reported that Google entered September with renewed AI-driven momentum, citing new Gemini models built for high-volume agent workloads and Gemini Robotics ER 2 for physical, real-world tasks. Google also disclosed that nearly three-quarters of Google Cloud customers are now using its AI products, with those customers spending roughly 50% more than their original commitments.",
+    "score": 6,
+    "scraped_at": "2026-09-08"
+  }
+]
