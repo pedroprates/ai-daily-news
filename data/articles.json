@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-10T07:34:01.931298+00:00",
+  "updated_at": "2026-09-11T07:33:57.553658+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -4379,6 +4379,28 @@
       "description": "A new report found that AI spending per employee at top companies slumped in August, raising questions about whether the dip reflects normal summer seasonality or an early warning sign for enterprise AI budgets. The data adds to a broader debate about the pace and durability of corporate AI adoption heading into the fall.",
       "score": 6,
       "scraped_at": "2026-09-10"
+    },
+    {
+      "id": "d957d6c999575906",
+      "title": "Countering misuse of AI: September 2026",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "date": "2026-09-11",
+      "description": "Anthropic published its latest threat intelligence report, detailing cyber operations, influence campaigns, surveillance, and fraud attempts that misused Claude between December 2025 and August 2026 across seven harm categories. The report also disclosed unauthorized-access incidents, including a breach via a third-party vendor portal affecting the Mythos model line, and said METR has been brought in to independently audit the cases.",
+      "score": 8,
+      "scraped_at": "2026-09-11"
+    },
+    {
+      "id": "e2c20527c88e67f5",
+      "title": "OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal",
+      "vendor": "OpenAI",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/openai-gives-us-agencies-50-off-models-ending-1-per-year-deal",
+      "date": "2026-09-10",
+      "description": "OpenAI signed a 27-month OneGov agreement with the US General Services Administration offering federal agencies a 50% discount on token-based ChatGPT usage starting October 1, replacing its earlier $1-per-year pricing deal. OpenAI expects the new terms to expand ChatGPT access eligibility to roughly 23 million government users.",
+      "score": 7,
+      "scraped_at": "2026-09-11"
     }
   ]
 }
