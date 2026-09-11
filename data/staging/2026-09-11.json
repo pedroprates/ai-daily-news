@@ -1,0 +1,35 @@
+[
+  {
+    "id": "d957d6c999575906",
+    "title": "Countering misuse of AI: September 2026",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "date": "2026-09-11",
+    "description": "Anthropic published its latest threat intelligence report, detailing cyber operations, influence campaigns, surveillance, and fraud attempts that misused Claude between December 2025 and August 2026 across seven harm categories. The report also disclosed unauthorized-access incidents, including a breach via a third-party vendor portal affecting the Mythos model line, and said METR has been brought in to independently audit the cases.",
+    "score": 8,
+    "scraped_at": "2026-09-11"
+  },
+  {
+    "id": "e2c20527c88e67f5",
+    "title": "OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal",
+    "vendor": "OpenAI",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-10/openai-gives-us-agencies-50-off-models-ending-1-per-year-deal",
+    "date": "2026-09-10",
+    "description": "OpenAI signed a 27-month OneGov agreement with the US General Services Administration offering federal agencies a 50% discount on token-based ChatGPT usage starting October 1, replacing its earlier $1-per-year pricing deal. OpenAI expects the new terms to expand ChatGPT access eligibility to roughly 23 million government users.",
+    "score": 7,
+    "scraped_at": "2026-09-11"
+  },
+  {
+    "id": "1e5b8618d900b42a",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "vendor": "Google",
+    "source": "blog.google",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "date": "2026-09-02",
+    "description": "Google released Gemini 3.8 Flash, which it calls its best reasoning and coding model in the Flash line yet, with notable gains in software engineering and multi-step agentic tasks over 3.7 Flash. Alongside it, Google launched Gemini 3.8 Flash Cyber, a specialized variant aimed at trusted government and enterprise customers that can detect and patch software vulnerabilities at frontier-level performance while running faster and more affordably than larger models.",
+    "score": 8,
+    "scraped_at": "2026-09-11"
+  }
+]
