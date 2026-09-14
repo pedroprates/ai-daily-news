@@ -1,0 +1,79 @@
+[
+  {
+    "id": "d957d6c999575906",
+    "title": "Detecting and countering misuse of AI: September 2026",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "date": "2026-09-10",
+    "description": "Anthropic published its latest threat intelligence report detailing malicious use of Claude models across cyber operations, influence campaigns, surveillance, scams, and weapons development between December 2025 and August 2026. The report found most misuse involved Claude's smaller models rather than its frontier Fable/Mythos-class models, and disclosed a case where a Yemen-based weapons group used Claude Code for missile guidance assistance.",
+    "score": 8,
+    "scraped_at": "2026-09-14"
+  },
+  {
+    "id": "8a71a2808988c5c7",
+    "title": "Introducing the Agents API",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/introducing-the-agents-api/",
+    "date": "2026-09-11",
+    "description": "OpenAI released the Agents API in public beta, letting developers build and run cloud-based agents backed by the Codex harness while OpenAI manages orchestration, long-running sessions, and context compaction. Developers supply tools and choose an execution environment, with no additional platform fees beyond standard token and tool usage.",
+    "score": 8,
+    "scraped_at": "2026-09-14"
+  },
+  {
+    "id": "1e5b8618d900b42a",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "vendor": "Google",
+    "source": "blog.google",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "date": "2026-09-02",
+    "description": "Google released Gemini 3.8 Flash, an updated fast, low-cost model tuned for long-horizon software engineering, autonomous agents, and multi-step enterprise reasoning, alongside a specialized Gemini 3.8 Flash Cyber variant for trusted government and enterprise security customers. The model outperforms larger frontier models on the DeepSWE long-horizon engineering benchmark and keeps the same introductory pricing as its predecessor.",
+    "score": 6,
+    "scraped_at": "2026-09-14"
+  },
+  {
+    "id": "eef9c9e362bd416f",
+    "title": "Grok Bot for Enterprise",
+    "vendor": "xAI",
+    "source": "x.ai",
+    "url": "https://x.ai/news/grok-bot-for-enterprise",
+    "date": "2026-09-08",
+    "description": "xAI expanded Grok Bot, its persistent AI agent platform, to enterprise customers with new access, network, and audit controls for governing bots at scale. Each Grok Bot runs autonomous, long-running tasks in an isolated cloud environment, and xAI says thousands of organizations, including Legora, Supermicro, and ServiceTitan, have adopted it since launch, with the heaviest usage outside engineering teams.",
+    "score": 7,
+    "scraped_at": "2026-09-14"
+  },
+  {
+    "id": "4719513fcaf1dbcd",
+    "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+    "vendor": "Google",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+    "date": "2026-09-02",
+    "description": "Google shares rebounded in early September on renewed AI momentum, following the stock's longest monthly losing streak in more than a decade. Google Cloud CEO Thomas Kurian reported that nearly three-quarters of Google Cloud customers now use its AI products and are spending roughly 50% more than their original commitments.",
+    "score": 6,
+    "scraped_at": "2026-09-14"
+  },
+  {
+    "id": "08d1759b5ab11725",
+    "title": "Meta settlement could clear the way for new AI product launches, Morgan Stanley says",
+    "vendor": "Meta",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/09/02/meta-18-billion-settlement-ai-products.html",
+    "date": "2026-09-02",
+    "description": "Morgan Stanley analysts said Meta's roughly $18 billion legal settlement removes a key overhang and could free the company to accelerate new AI product launches. The note framed the settlement as reducing legal uncertainty that had been weighing on Meta's AI roadmap and investor sentiment.",
+    "score": 5,
+    "scraped_at": "2026-09-14"
+  },
+  {
+    "id": "82c75f7fe9e11b8f",
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "vendor": "Meta",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "date": "2026-09-03",
+    "description": "Meta is paying select users for permission to observe how they interact with its latest AI model in real-world usage, aiming to gather behavioral data to improve the product. The program reflects a broader industry push to collect authentic usage signals beyond standard telemetry and benchmark evaluations.",
+    "score": 4,
+    "scraped_at": "2026-09-14"
+  }
+]
