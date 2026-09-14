@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-11T07:33:57.553658+00:00",
+  "updated_at": "2026-09-14T07:35:13.160398+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -4401,6 +4401,28 @@
       "description": "OpenAI signed a 27-month OneGov agreement with the US General Services Administration offering federal agencies a 50% discount on token-based ChatGPT usage starting October 1, replacing its earlier $1-per-year pricing deal. OpenAI expects the new terms to expand ChatGPT access eligibility to roughly 23 million government users.",
       "score": 7,
       "scraped_at": "2026-09-11"
+    },
+    {
+      "id": "8a71a2808988c5c7",
+      "title": "Introducing the Agents API",
+      "vendor": "OpenAI",
+      "source": "openai.com",
+      "url": "https://openai.com/index/introducing-the-agents-api/",
+      "date": "2026-09-11",
+      "description": "OpenAI released the Agents API in public beta, letting developers build and run cloud-based agents backed by the Codex harness while OpenAI manages orchestration, long-running sessions, and context compaction. Developers supply tools and choose an execution environment, with no additional platform fees beyond standard token and tool usage.",
+      "score": 8,
+      "scraped_at": "2026-09-14"
+    },
+    {
+      "id": "eef9c9e362bd416f",
+      "title": "Grok Bot for Enterprise",
+      "vendor": "xAI",
+      "source": "x.ai",
+      "url": "https://x.ai/news/grok-bot-for-enterprise",
+      "date": "2026-09-08",
+      "description": "xAI expanded Grok Bot, its persistent AI agent platform, to enterprise customers with new access, network, and audit controls for governing bots at scale. Each Grok Bot runs autonomous, long-running tasks in an isolated cloud environment, and xAI says thousands of organizations, including Legora, Supermicro, and ServiceTitan, have adopted it since launch, with the heaviest usage outside engineering teams.",
+      "score": 7,
+      "scraped_at": "2026-09-14"
     }
   ]
 }
