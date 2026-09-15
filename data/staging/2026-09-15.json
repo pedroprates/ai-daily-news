@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ca8127be73ee1774",
+    "title": "GitHub Copilot weekly releases — September 7",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+    "date": "2026-09-10",
+    "description": "GitHub's weekly Copilot roundup added Jira integration to the Copilot app and introduced adaptive model orchestration via Project HydraFusion in Copilot CLI. The release also brought new agent automation to Copilot in Visual Studio Code and expanded enterprise controls for Copilot in JetBrains IDEs.",
+    "score": 6,
+    "scraped_at": "2026-09-15"
+  },
+  {
+    "id": "ef18d943849cad0e",
+    "title": "Configure cost and quality in Copilot auto model selection",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
+    "date": "2026-09-14",
+    "description": "GitHub added settings that let organizations tune how Copilot's automatic model selection balances cost against output quality, rather than relying solely on GitHub's default routing. The change gives admins more direct control over spend as Copilot usage scales across teams.",
+    "score": 6,
+    "scraped_at": "2026-09-15"
+  },
+  {
+    "id": "e51cda40dc5087ba",
+    "title": "AI Scan for pull request APIs in public preview",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+    "date": "2026-09-10",
+    "description": "GitHub launched a public preview of AI Scan, a feature that applies AI-driven analysis to pull request APIs to surface issues before merge. It extends GitHub's code review tooling with automated scanning aimed at catching problems earlier in the review cycle.",
+    "score": 6,
+    "scraped_at": "2026-09-15"
+  },
+  {
+    "id": "f5b7434d849eacf1",
+    "title": "Auto-resolution and analysis updates in Copilot code review",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+    "date": "2026-09-11",
+    "description": "GitHub updated Copilot code review with auto-resolution capabilities that let the agent close out certain flagged issues automatically, alongside improved analysis quality. The update is aimed at reducing manual triage overhead for reviewers using Copilot-assisted code review.",
+    "score": 5,
+    "scraped_at": "2026-09-15"
+  },
+  {
+    "id": "28ba300194033bae",
+    "title": "Add VS Code Agents to Copilot usage metrics",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+    "date": "2026-09-11",
+    "description": "GitHub expanded its Copilot usage metrics and admin dashboards to include activity from VS Code Agents, giving organizations visibility into agent-driven work alongside standard Copilot usage. The addition rounds out reporting for teams tracking AI-assisted development at scale.",
+    "score": 3,
+    "scraped_at": "2026-09-15"
+  },
+  {
+    "id": "71ab167788f6ed97",
+    "title": "MAI-Code-1-Flash deprecated",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+    "date": "2026-09-10",
+    "description": "GitHub deprecated the MAI-Code-1-Flash model across all Copilot experiences, removing it from the set of selectable models. Users of the model are directed to migrate to currently supported alternatives in Copilot's model picker.",
+    "score": 3,
+    "scraped_at": "2026-09-15"
+  }
+]
