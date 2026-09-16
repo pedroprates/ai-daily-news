@@ -1,0 +1,24 @@
+[
+  {
+    "id": "b09bf6f2d73ad55c",
+    "title": "Introducing Projects",
+    "vendor": "Cursor",
+    "source": "cursor.com",
+    "url": "https://cursor.com/blog/projects",
+    "date": "2026-09-10",
+    "description": "Cursor launched Projects, a beta workspace feature for taking on larger bodies of work such as a feature, a migration, or a full app, maintaining context over months of work. A coordinator agent plans and delegates tasks to subagents that implement the work, then brings the finished result back for review rather than writing code itself.",
+    "score": 7,
+    "scraped_at": "2026-09-16"
+  },
+  {
+    "id": "507e5c6c667cb625",
+    "title": "GitHub Copilot weekly releases — September 7",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7/",
+    "date": "2026-09-10",
+    "description": "GitHub shipped its weekly Copilot updates, adding Jira integration to the Copilot app so issues can be pulled into a shared canvas for investigation and pull-request prep. The release also introduced Project HydraFusion, an experimental adaptive model-routing system in Copilot CLI, plus new agent automation in VS Code and expanded enterprise controls for Copilot in JetBrains.",
+    "score": 5,
+    "scraped_at": "2026-09-16"
+  }
+]
