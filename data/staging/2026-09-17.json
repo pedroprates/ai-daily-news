@@ -1,0 +1,24 @@
+[
+  {
+    "id": "03c9ff5f9474cc83",
+    "title": "Anthropic Integrates Claude Cowork Into Main Chat Interface",
+    "vendor": "Anthropic",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/09/16/anthropic-brings-cowork-directly-inside-claudes-chat-interface/",
+    "date": "2026-09-16",
+    "description": "Anthropic merged its standalone Claude Cowork agentic tool directly into the main Claude chat interface, part of a broader push to consolidate its fragmented product lineup into a single app. The update also introduces two beta products, Claude Docs and Claude Slides, for collaborative document and presentation editing, and folds the previously standalone Claude Design into the chat experience. The rollout starts immediately for Pro and Max subscribers, with Team and free-tier availability expected within weeks.",
+    "score": 8,
+    "scraped_at": "2026-09-17"
+  },
+  {
+    "id": "217c286355a9b0ae",
+    "title": "Meta Touts the Cost-Saving Benefits of Latest In-House AI Chips",
+    "vendor": "Meta",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-15/meta-touts-the-cost-saving-benefits-of-latest-in-house-ai-chips",
+    "date": "2026-09-15",
+    "description": "Meta highlighted the cost savings delivered by its newest generation of in-house AI accelerator chips, framing them as central to reducing the company's reliance on third-party GPU vendors for training and inference workloads. The disclosure comes as Meta continues to scale up its custom silicon program alongside its broader AI infrastructure buildout.",
+    "score": 6,
+    "scraped_at": "2026-09-17"
+  }
+]
