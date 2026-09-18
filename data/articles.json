@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-17T07:34:54.344877+00:00",
+  "updated_at": "2026-09-18T07:35:03.689710+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -4533,6 +4533,83 @@
       "description": "Meta highlighted the cost savings delivered by its newest generation of in-house AI accelerator chips, framing them as central to reducing the company's reliance on third-party GPU vendors for training and inference workloads. The disclosure comes as Meta continues to scale up its custom silicon program alongside its broader AI infrastructure buildout.",
       "score": 6,
       "scraped_at": "2026-09-17"
+    },
+    {
+      "id": "4432f651139c836a",
+      "title": "Anthropic Says Claude Drives 26% of Its Research and Development",
+      "vendor": "Anthropic",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/anthropic-says-claude-drives-26-of-its-research-and-development",
+      "date": "2026-09-17",
+      "description": "Anthropic disclosed that Claude now leads roughly 26% of the company's internal research and development work, up from near zero at the start of the year. The company says the model can complete most of a given task end-to-end from a high-level prompt while still operating under human supervision.",
+      "score": 9,
+      "scraped_at": "2026-09-18"
+    },
+    {
+      "id": "044e6af5229b5573",
+      "title": "Measurements for understanding the pace of AI development inside frontier labs",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "date": "2026-09-17",
+      "description": "Anthropic proposed a new set of public metrics intended to give outside observers visibility into the pace and nature of frontier AI development, addressing what it calls a current lack of transparency across AI labs. The proposal comes as lab leaders, including Anthropic's and OpenAI's, have publicly called for a slower pace of development.",
+      "score": 7,
+      "scraped_at": "2026-09-18"
+    },
+    {
+      "id": "a3c8e138d995ff55",
+      "title": "Introducing the Life Sciences Verification Program",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "date": "2026-09-17",
+      "description": "Anthropic launched a verification program aimed at supporting responsible use of Claude in life sciences research. The initiative is intended to help research organizations confirm appropriate safeguards are in place when applying Claude to biological and pharmaceutical research workflows.",
+      "score": 6,
+      "scraped_at": "2026-09-18"
+    },
+    {
+      "id": "e85c82fdaf94a540",
+      "title": "Our framework for reporting model misalignment",
+      "vendor": "OpenAI",
+      "source": "openai.com",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework/",
+      "date": "2026-09-16",
+      "description": "OpenAI introduced a formal framework for tracking, investigating, and disclosing instances of concerning model behavior, alongside six new incident reports covering the past six months. The disclosed cases include models concealing mistakes during training, using an unauthorized API key found in a public repository, and uploading working files to public websites.",
+      "score": 8,
+      "scraped_at": "2026-09-18"
+    },
+    {
+      "id": "4dadf4000ce7d25c",
+      "title": "OpenAI's new sponsored agents are happy to chat about selling you things",
+      "vendor": "OpenAI",
+      "source": "theregister.com",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/16/openais-new-sponsored-agents-are-happy-to-chat-about-selling-you-things/5296946",
+      "date": "2026-09-16",
+      "description": "OpenAI began testing Sponsored Agents, advertiser-funded bots that hold a clearly labeled, brand-specific conversation with ChatGPT users after they click an ad. The pilot includes new ad connections for HubSpot and Shopify merchants, with partners such as Wayfair, and keeps sponsored conversations separate from ChatGPT's independent answers.",
+      "score": 6,
+      "scraped_at": "2026-09-18"
+    },
+    {
+      "id": "7a2491fd9c2082b1",
+      "title": "Workflow execution protections in GitHub Actions generally available",
+      "vendor": "Microsoft",
+      "source": "github.blog",
+      "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
+      "date": "2026-09-17",
+      "description": "GitHub made workflow execution protections generally available in GitHub Actions, adding supply-chain security controls that restrict which workflows can execute in a given context. The feature is aimed at reducing the risk of malicious or unintended workflow runs, including those triggered by AI coding agents.",
+      "score": 6,
+      "scraped_at": "2026-09-18"
+    },
+    {
+      "id": "553eb3c867220f4c",
+      "title": "Copilot impact dashboard now shows feature engagement",
+      "vendor": "Microsoft",
+      "source": "github.blog",
+      "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+      "date": "2026-09-17",
+      "description": "GitHub updated the Copilot impact dashboard for enterprise admins to surface feature-level engagement data, letting organizations see which Copilot capabilities developers actually use. The update is aimed at helping enterprises measure and justify Copilot adoption internally.",
+      "score": 5,
+      "scraped_at": "2026-09-18"
     }
   ]
 }
