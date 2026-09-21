@@ -1,0 +1,68 @@
+[
+  {
+    "id": "5ec4e61a2a5169eb",
+    "title": "Partnering with Accenture on embedded evaluation",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+    "date": "2026-09-18",
+    "description": "Anthropic is partnering with Accenture's Faculty division on an \"embedded evaluation\" approach, giving independent evaluators access comparable to an employee's to assess model development and verify safety commitments. Both organizations are investing at least $1 billion over five years to build out this evaluation capacity, part of Anthropic's broader commitment to embed independent reviewers within the company.",
+    "score": 7,
+    "scraped_at": "2026-09-21"
+  },
+  {
+    "id": "cb56e164a4da143b",
+    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+    "date": "2026-09-15",
+    "description": "OpenAI's global policy chief Chris Lehane confirmed that OpenAI, Anthropic, and Google DeepMind have been coordinating on AI safety matters for several weeks, following Anthropic CEO Dario Amodei's essay calling for the industry to slow frontier development and avoid catastrophic risks. The essay was endorsed by leaders including Sam Altman and Demis Hassabis, and the three companies are reportedly working toward shared industry standards, including embedding independent safety evaluators.",
+    "score": 8,
+    "scraped_at": "2026-09-21"
+  },
+  {
+    "id": "78a528244d9bd873",
+    "title": "Is the AI industry really ready to slow down?",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "date": "2026-09-20",
+    "description": "Anthropic CEO Dario Amodei published a plan to \"pace the frontier,\" calling for independent third-party evaluators to monitor AI safety practices and for international coordination on safety standards among major AI companies. Nvidia CEO Jensen Huang publicly pushed back, echoing President Trump's characterization of AI safety concerns as a \"hoax\" and vowing not to let an AI slowdown happen.",
+    "score": 7,
+    "scraped_at": "2026-09-21"
+  },
+  {
+    "id": "92e9a70cb2f37d01",
+    "title": "World model companies are keeping a lot of secrets",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "date": "2026-09-20",
+    "description": "World model startups, led by players like Yann LeCun's AMI Labs and Fei-Fei Li's World Labs, have attracted significant funding and buzz while staying tight-lipped about commercialization plans. World models aim to automate spatial intelligence, with potential applications spanning robotics, interactive video, and self-driving systems.",
+    "score": 5,
+    "scraped_at": "2026-09-21"
+  },
+  {
+    "id": "8709dbdf91cb1e0c",
+    "title": "Trump says he's planning to create an 'AI Force' and hire a new AI czar",
+    "vendor": "Industry",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/09/20/trump-says-hes-planning-to-create-an-ai-force-and-hire-a-new-ai-czar/",
+    "date": "2026-09-20",
+    "description": "U.S. President Donald Trump said he plans to establish an \"AI Force,\" comparing it to the Space Force created during his first term, and to appoint a new AI czar to oversee federal AI policy. Trump dismissed concerns about AI risks as a \"hoax\" and said he intends to support continued growth of the technology.",
+    "score": 6,
+    "scraped_at": "2026-09-21"
+  },
+  {
+    "id": "90422616cebb86f4",
+    "title": "Copilot code review: An improved review experience",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
+    "date": "2026-09-18",
+    "description": "GitHub updated Copilot code review with clearer progress tracking, splitting findings into \"Open,\" \"Resolved since last review,\" and \"Previously missed\" sections. Copilot can now automatically resolve its own comments once they're addressed between reviews, and it generates commit messages when developers batch-accept suggestions.",
+    "score": 5,
+    "scraped_at": "2026-09-21"
+  }
+]
