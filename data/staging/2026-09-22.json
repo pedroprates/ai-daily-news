@@ -1,0 +1,46 @@
+[
+  {
+    "id": "014d1b0eff77c228",
+    "title": "Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude",
+    "vendor": "Meta",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
+    "date": "2026-09-21",
+    "description": "Meta's Muse AI agent has climbed to the top of Apple's App Store free app charts since its recent launch, with Meta adding Muse Connectors for third-party integrations (Notion and Granola are live) and a Stripe partnership for in-app payments. The agent's rapid growth puts it in direct competition with ChatGPT, Grok, and Claude for daily consumer AI agent usage. Amazon has since blocked Muse from shopping on Amazon.com, saying Meta did not notify it that Muse would interact with the site and that the agent fails to identify itself while browsing.",
+    "score": 7,
+    "scraped_at": "2026-09-22"
+  },
+  {
+    "id": "a2f28231eb3cc02e",
+    "title": "Meta's AI News Boosts Chipmakers",
+    "vendor": "Industry",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-09-21/meta-s-ai-news-boosts-chipmakers-evening-briefing-americas",
+    "date": "2026-09-21",
+    "description": "Semiconductor stocks rallied after Meta's new AI agent Muse sparked fresh investor enthusiasm about demand for the chips needed to power consumer AI agents. The move reflects growing conviction that agentic AI products are driving another wave of AI infrastructure spending across the chip industry.",
+    "score": 6,
+    "scraped_at": "2026-09-22"
+  },
+  {
+    "id": "9c38b0e540fa6708",
+    "title": "Grok 4.7 is now available in GitHub Copilot",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+    "date": "2026-09-21",
+    "description": "GitHub has made xAI's Grok 4.7 generally available as a selectable model within GitHub Copilot across chat, inline edits, and agent modes. The addition follows xAI's September 21 release of Grok 4.7, a 2.1-trillion-parameter model xAI says is stronger at long-horizon coding tasks, self-checking its own work, and cybersecurity workflows. Developers can now pick Grok 4.7 alongside Copilot's existing model lineup.",
+    "score": 6,
+    "scraped_at": "2026-09-22"
+  },
+  {
+    "id": "ceed77e4cc58a721",
+    "title": "iOS 27 adds an all-new app to your iPhone's home screen",
+    "vendor": "Apple",
+    "source": "9to5mac.com",
+    "url": "https://9to5mac.com/2026/09/21/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/",
+    "date": "2026-09-21",
+    "description": "Apple's iOS 27 developer beta introduces a standalone Siri app pre-installed on the iPhone home screen for the first time, separating the AI assistant from Settings into its own dedicated app. The rebuilt Siri handles follow-up questions, reads on-screen content, and can carry out multi-step actions inside other apps as part of Apple's broader Apple Intelligence rollout.",
+    "score": 6,
+    "scraped_at": "2026-09-22"
+  }
+]
