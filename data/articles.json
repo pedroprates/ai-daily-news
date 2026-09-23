@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-22T07:47:12.180358+00:00",
+  "updated_at": "2026-09-23T07:45:44.975542+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -4720,6 +4720,61 @@
       "description": "Apple's iOS 27 developer beta introduces a standalone Siri app pre-installed on the iPhone home screen for the first time, separating the AI assistant from Settings into its own dedicated app. The rebuilt Siri handles follow-up questions, reads on-screen content, and can carry out multi-step actions inside other apps as part of Apple's broader Apple Intelligence rollout.",
       "score": 6,
       "scraped_at": "2026-09-22"
+    },
+    {
+      "id": "0dd3bed5c7dd1c27",
+      "title": "Introducing Claude Opus 5.5",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "date": "2026-09-22",
+      "description": "Anthropic released Claude Opus 5.5, the first model in its new 5.5 family, matching Claude Fable 5.1-level performance on most work while costing 40% less to run than Opus 5. The model leads in agentic coding, computer use, and knowledge work, and was tested pre-release by external evaluators including Frontier Design and METR. It is available now via the Claude API and across AWS, Google Cloud, and Microsoft Azure at $4 per million input tokens and $20 per million output tokens.",
+      "score": 9,
+      "scraped_at": "2026-09-23"
+    },
+    {
+      "id": "25f12aed5a135051",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "vendor": "OpenAI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "date": "2026-09-22",
+      "description": "OpenAI released updated GPT-6 Sol and Luna models, with Sol handling complex tasks like coding and Luna focused on clerical work, both priced at half the cost of the prior 5.6 series. The new models are rolling out through ChatGPT Work, Codex, and the API, with Luna also reaching free and desktop users. OpenAI says the pair achieve \"Astra-level reliability\" at a lower cost, with improved factual accuracy and fewer coding errors than their predecessors.",
+      "score": 8,
+      "scraped_at": "2026-09-23"
+    },
+    {
+      "id": "9b5f327201feff42",
+      "title": "Meta admits Muse's likeness to OpenClaw isn't a coincidence",
+      "vendor": "Meta",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "date": "2026-09-22",
+      "description": "Meta acknowledged that its AI assistant Muse was \"heavily inspired\" by OpenClaw, an open-source AI agent project that went viral before its creator joined OpenAI, after users noticed shared filenames and near-identical content between the two products. Meta maintains that Muse was still \"built from scratch,\" framing the resemblance as intentional homage rather than coincidence. The admission adds fresh scrutiny to Muse just as the consumer AI agent has been climbing app store charts.",
+      "score": 6,
+      "scraped_at": "2026-09-23"
+    },
+    {
+      "id": "235d6f2bbf750d6c",
+      "title": "Claude Opus 5.5 is now available in GitHub Copilot",
+      "vendor": "Microsoft",
+      "source": "github.blog",
+      "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+      "date": "2026-09-22",
+      "description": "GitHub added Claude Opus 5.5 as a selectable model in GitHub Copilot across chat, inline edits, and agent modes, hours after Anthropic released the model. Developers can now pick Opus 5.5 alongside Copilot's existing lineup of OpenAI, xAI, and Anthropic models for coding tasks. The addition continues GitHub's pattern of same-day model integrations following frontier lab releases.",
+      "score": 5,
+      "scraped_at": "2026-09-23"
+    },
+    {
+      "id": "caaf4b1f8cd66a72",
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "date": "2026-09-22",
+      "description": "Space mining startup AstroForge built an in-house, transformer-based autonomous control system called \"Solo\" to manage spacecraft operations, including anomaly detection and resolution, without relying on Earth-based flight controllers. The system will first run in shadow mode aboard the DeepSpace-2 mission before flying operationally on the Autonomy-1 mission in 2027, launching alongside Stoke Space's first rocket. The project is an early example of AI agents taking on safety-critical, real-time control roles outside typical enterprise software use cases.",
+      "score": 7,
+      "scraped_at": "2026-09-23"
     }
   ]
 }
