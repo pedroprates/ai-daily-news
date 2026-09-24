@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2e55831155014269",
+    "title": "The Situation Report",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/features/ebola-response",
+    "date": "2026-09-22",
+    "description": "Anthropic published a case study on global health organizations using Claude to support pandemic response efforts, including an Ebola outbreak. The feature details how responders used the model to accelerate situational analysis and coordination work that traditionally requires large teams of specialists. It is presented as an example of AI being applied to safety-critical, real-world humanitarian response.",
+    "score": 7,
+    "scraped_at": "2026-09-24"
+  },
+  {
+    "id": "b0fc9401e9c6f590",
+    "title": "OpenAI's Sam Altman to Promote AI Standards During UN Speech",
+    "vendor": "OpenAI",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-23/openai-s-sam-altman-to-promote-ai-standards-during-un-speech",
+    "date": "2026-09-23",
+    "description": "OpenAI CEO Sam Altman addressed a United Nations Security Council session on artificial intelligence, pitching the creation of global AI standards and positioning himself as a centrist voice on whether to slow the technology's development. Anthropic CEO Dario Amodei joined the same session by video feed, underscoring growing engagement between frontier labs and international policymakers on AI governance.",
+    "score": 7,
+    "scraped_at": "2026-09-24"
+  }
+]
