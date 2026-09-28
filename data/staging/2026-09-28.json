@@ -1,0 +1,68 @@
+[
+  {
+    "id": "f524e9886f009cfd",
+    "title": "Introducing the new Copilot with Home, Code and Autopilot",
+    "vendor": "Microsoft",
+    "source": "blogs.microsoft.com",
+    "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+    "date": "2026-09-25",
+    "description": "Microsoft overhauled Copilot into three components: Home, which integrates Word, Excel and PowerPoint natively into the chat interface; Code, which lets non-technical employees build apps and automations with natural language via GitHub Copilot technology; and Autopilot, which runs persistent background agents. The company calls it the biggest update to Copilot to date.",
+    "score": 8,
+    "scraped_at": "2026-09-28"
+  },
+  {
+    "id": "f5e698741181316d",
+    "title": "Rockwell Automation pairs AI with decades of shop floor know-how so workers can solve glitches faster",
+    "vendor": "Industry",
+    "source": "news.microsoft.com",
+    "url": "https://news.microsoft.com/source/features/digital-transformation/rockwell-automation-pairs-ai-with-decades-of-shop-floor-know-how-so-workers-can-solve-glitches-faster/",
+    "date": "2026-09-24",
+    "description": "Rockwell Automation deployed AI trained on decades of institutional shop-floor knowledge to help factory workers diagnose and fix equipment issues faster. The case study details how the manufacturer paired its domain expertise with AI tooling to reduce downtime and speed up troubleshooting on the production line.",
+    "score": 7,
+    "scraped_at": "2026-09-28"
+  },
+  {
+    "id": "b7f5386936f0c35c",
+    "title": "Bots for the last mile: Rollouts, Security Review",
+    "vendor": "Cursor",
+    "source": "cursor.com",
+    "url": "https://cursor.com/blog/rollouts-and-security-reviewer",
+    "date": "2026-09-23",
+    "description": "Cursor launched two new bots for Teams and Enterprise plans: Rollouts, which watches deployments as they go out and reports per-environment health, and Security Review, which flags exploitable bugs on every pull request. Both extend Cursor's agent tooling beyond code generation into deployment and security monitoring.",
+    "score": 6,
+    "scraped_at": "2026-09-28"
+  },
+  {
+    "id": "14383ac75ba71973",
+    "title": "Improved token efficiency for longer agent runs",
+    "vendor": "Cursor",
+    "source": "cursor.com",
+    "url": "https://cursor.com/blog/improved-token-efficiency",
+    "date": "2026-09-23",
+    "description": "Cursor detailed changes to its agent harness that cut token costs by 7% without sacrificing output quality, including trimmed system prompts, dynamically loaded tools, better cache reuse, and compressed file reads. The improvements target longer-running agent sessions where token overhead compounds.",
+    "score": 5,
+    "scraped_at": "2026-09-28"
+  },
+  {
+    "id": "3e5c288472f5aa9b",
+    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "vendor": "Google",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "date": "2026-09-26",
+    "description": "Google is piloting a direct checkout flow for select Indian shoppers, showing a \"Buy\" button on Flipkart product listings inside Gemini and Google's AI Mode that leads straight to a Flipkart checkout. The test is limited to a small set of users and product categories including smartphones and electronics, signaling a push from AI shopping search toward completed transactions.",
+    "score": 6,
+    "scraped_at": "2026-09-28"
+  },
+  {
+    "id": "39b901174b543376",
+    "title": "Introducing Grok 4.7",
+    "vendor": "xAI",
+    "source": "x.ai",
+    "url": "https://x.ai/news/grok-4-7",
+    "date": "2026-09-21",
+    "description": "xAI released Grok 4.7, its most capable model yet for coding and agentic knowledge work, featuring a 500k-token context window with text and image inputs. xAI says the model works longer on difficult tasks, checks its own work more carefully, and ships with its best-calibrated safeguards to date.",
+    "score": 7,
+    "scraped_at": "2026-09-28"
+  }
+]
