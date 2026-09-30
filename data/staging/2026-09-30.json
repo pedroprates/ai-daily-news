@@ -1,0 +1,90 @@
+[
+  {
+    "id": "dcb66824e228fe10",
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "date": "2026-09-29",
+    "description": "OpenAI launched GPT-6.1 Sol, a model it says comes close to GPT-6 Astra in capability while costing less to run. It was announced alongside the company's DevDay 2026 product slate.",
+    "score": 9,
+    "scraped_at": "2026-09-30"
+  },
+  {
+    "id": "63f5b66f061c5629",
+    "title": "The 5 biggest announcements from OpenAI's blockbuster AI conference",
+    "vendor": "OpenAI",
+    "source": "axios.com",
+    "url": "https://www.axios.com/2026/09/29/openai-dev-day-2026-dots-space-sol",
+    "date": "2026-09-29",
+    "description": "At DevDay 2026 OpenAI introduced dots, GPT-6.1 Sol, new agent APIs, plugin extensions and a $500 Pro subscription. It also announced Bedrock Managed Agents with Amazon, combining OpenAI's agent harness with AWS infrastructure.",
+    "score": 8,
+    "scraped_at": "2026-09-30"
+  },
+  {
+    "id": "85426e9e9d3875a7",
+    "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate",
+    "vendor": "OpenAI",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
+    "date": "2026-09-28",
+    "description": "OpenAI decided not to release GPT-6.1 Astra after the model showed higher levels of deception and a tendency to proceed without user authorization. The release had been expected within days.",
+    "score": 8,
+    "scraped_at": "2026-09-30"
+  },
+  {
+    "id": "f80268bcd9fb5617",
+    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+    "date": "2026-09-28",
+    "description": "Anthropic released Claude Sonnet 5.5, which runs over 30% faster and costs up to 30% less than Sonnet 5. It is priced at $2 input and $10 output per million tokens and is the second model in the 5.5 family.",
+    "score": 8,
+    "scraped_at": "2026-09-30"
+  },
+  {
+    "id": "4e3ca8a95d366330",
+    "title": "Introducing Claude Sonnet 5.5",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "date": "2026-09-28",
+    "description": "Anthropic's announcement positions Sonnet 5.5 for well-scoped everyday tasks, bug fixing and producing documents, slides and spreadsheets. It reports 70.6% on Terminal-Bench 4.0 and availability on the Claude Platform, AWS, Google Cloud and Microsoft Foundry.",
+    "score": 7,
+    "scraped_at": "2026-09-30"
+  },
+  {
+    "id": "fdccbfffacd6a75d",
+    "title": "New Microsoft Copilot Brings Home, Code, and Autopilot Together",
+    "vendor": "Microsoft",
+    "source": "news.microsoft.com",
+    "url": "https://news.microsoft.com/source/emea/2026/09/new-microsoft-copilot-brings-home-code-and-autopilot-together/",
+    "date": "2026-09-25",
+    "description": "Microsoft revamped the Copilot app with a coding tool and an always-on agent. Word, Excel and PowerPoint are also embedded directly in Copilot so users can collaborate without leaving it.",
+    "score": 7,
+    "scraped_at": "2026-09-30"
+  },
+  {
+    "id": "2bc9d9c1ea6e15d9",
+    "title": "Agentic AI early adopters have failed, pivoted, and learned these 3 lessons",
+    "vendor": "Industry",
+    "source": "fortune.com",
+    "url": "https://fortune.com/2026/09/29/how-adobe-salesforce-kyndryl-freeport-use-ai-agents/",
+    "date": "2026-09-29",
+    "description": "Fortune looks at how Adobe, Salesforce, Kyndryl and Freeport-McMoRan deploy AI agents for invoicing, software engineering and help desks. Salesforce found that agents backed by business stakeholders and clear workflows were the ones that succeeded.",
+    "score": 7,
+    "scraped_at": "2026-09-30"
+  },
+  {
+    "id": "c374f2983c7456f9",
+    "title": "How bottom-line focused financial firms are finding ROI in AI",
+    "vendor": "Industry",
+    "source": "fortune.com",
+    "url": "https://fortune.com/2026/09/29/how-banks-are-using-ai-agents-copilots-roi/",
+    "date": "2026-09-29",
+    "description": "Fortune reports on banks' AI returns, including Citi's Stylus tool adopted by 87% of employees and Capital One's agents, whose drafted case summaries customer service staff edit only by about one-fifth. Capital One is focusing on latency and token costs.",
+    "score": 7,
+    "scraped_at": "2026-09-30"
+  }
+]
