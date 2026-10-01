@@ -1,0 +1,90 @@
+[
+  {
+    "id": "0de5978e2c8eb330",
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "vendor": "Google",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "date": "2026-09-30",
+    "description": "Google unveiled Gemini 4 Argon, which it positions as its most capable model to date. The release follows DeepMind's recent statements that Gemini 4 would arrive earlier than expected.",
+    "score": 9,
+    "scraped_at": "2026-10-01"
+  },
+  {
+    "id": "348f0c13d3c0b9bc",
+    "title": "OpenAI's Jev clone could help the frontier lab stop its swarming agents",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "date": "2026-09-30",
+    "description": "TechCrunch reports on a Jev clone OpenAI has developed that could help it manage and control its autonomous agent systems. The coverage frames it as a possible tool for keeping swarms of agents in check.",
+    "score": 6,
+    "scraped_at": "2026-10-01"
+  },
+  {
+    "id": "ecee7b20064e2761",
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "date": "2026-09-30",
+    "description": "ElevenLabs has doubled its valuation to $22 billion. The raise underscores continued investor appetite for AI voice companies.",
+    "score": 7,
+    "scraped_at": "2026-10-01"
+  },
+  {
+    "id": "7d7ef74b607ee91e",
+    "title": "Meta disputes claim that Muse read a user's private messages without permission",
+    "vendor": "Meta",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+    "date": "2026-09-30",
+    "description": "Meta denied allegations that its Muse AI agent accessed a user's private messages without authorization. The dispute raises questions about data access permissions for consumer AI agents.",
+    "score": 6,
+    "scraped_at": "2026-10-01"
+  },
+  {
+    "id": "92c627208580142e",
+    "title": "DoorDash launches an AI agent you can text to order food",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+    "date": "2026-09-30",
+    "description": "DoorDash introduced an AI agent that lets customers place food orders by text message. It is another example of consumer companies deploying agents in production workflows.",
+    "score": 5,
+    "scraped_at": "2026-10-01"
+  },
+  {
+    "id": "9d0cd3e06e9ac75d",
+    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+    "date": "2026-09-30",
+    "description": "Reddit is discontinuing RSS feeds and restricting public API access, citing unauthorized scraping by AI bots. The move limits third-party access to its content.",
+    "score": 6,
+    "scraped_at": "2026-10-01"
+  },
+  {
+    "id": "32de5b12bdde4fb9",
+    "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+    "date": "2026-09-30",
+    "description": "Restate raised $20 million to build durable execution infrastructure for AI agents. The funding reflects growing demand for reliable backends for long-running autonomous systems.",
+    "score": 5,
+    "scraped_at": "2026-10-01"
+  },
+  {
+    "id": "131c3b05243369a2",
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "date": "2026-09-30",
+    "description": "Valor, Atreides, and Sequoia invested in AI startup Flow Engineering at a $750 million valuation. The round adds to the steady flow of late-stage funding into AI companies.",
+    "score": 5,
+    "scraped_at": "2026-10-01"
+  }
+]
