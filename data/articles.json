@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-01T07:44:57.303234+00:00",
+  "updated_at": "2026-10-02T07:44:40.223966+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -5127,6 +5127,61 @@
       "description": "Valor, Atreides, and Sequoia invested in AI startup Flow Engineering at a $750 million valuation. The round adds to the steady flow of late-stage funding into AI companies.",
       "score": 5,
       "scraped_at": "2026-10-01"
+    },
+    {
+      "id": "c6a404b23739c6d6",
+      "title": "DevDay 2026 Recap",
+      "vendor": "OpenAI",
+      "source": "openai.com",
+      "url": "https://openai.com/index/devday-2026-recap/",
+      "date": "2026-09-30",
+      "description": "OpenAI summarized its DevDay 2026 announcements across ChatGPT, Codex and its models. Highlights include agents for ongoing work, synced Work tasks across devices, and a beta Marketplace letting enterprises apply OpenAI commitments to partner software.",
+      "score": 8,
+      "scraped_at": "2026-10-02"
+    },
+    {
+      "id": "4695af4a940dce0e",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "vendor": "OpenAI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "date": "2026-09-29",
+      "description": "OpenAI announced Dots, an always-on personal agentic assistant powered by GPT-6 Astra. It keeps working on a user's behalf between conversations. It is rolling out in ChatGPT to Pro and Business Premium users in eligible markets.",
+      "score": 7,
+      "scraped_at": "2026-10-02"
+    },
+    {
+      "id": "c08402b8f22a4b15",
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "date": "2026-10-01",
+      "description": "Anthropic announced that Barclays is scaling Claude across the bank to upgrade operations and improve client experience. The deployment is a large-scale enterprise adoption example in financial services.",
+      "score": 8,
+      "scraped_at": "2026-10-02"
+    },
+    {
+      "id": "90c63e83f5df2ef2",
+      "title": "Armadin nabs $255.5M to detect vulnerabilities with AI agent swarms",
+      "vendor": "Industry",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/10/01/armadin-nabs-255-5m-to-detect-vulnerabilities-with-ai-agent-swarms/",
+      "date": "2026-10-01",
+      "description": "Cybersecurity startup Armadin raised $255.5 million in a Series B at a valuation above $2.5 billion, co-led by Andreessen Horowitz and Accel. Its platform uses swarms of AI agents to find weaknesses in company infrastructure.",
+      "score": 7,
+      "scraped_at": "2026-10-02"
+    },
+    {
+      "id": "8adb14657e36c736",
+      "title": "Salesforce to acquire AI customer research startup Listen Labs in reported $2B deal",
+      "vendor": "Industry",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/10/01/salesforce-to-acquire-ai-customer-research-startup-listen-labs-in-reported-2b-deal/",
+      "date": "2026-10-01",
+      "description": "Salesforce signed a definitive agreement to acquire Listen Labs, which builds AI agents that recruit, interview and analyze customers for research. The deal is reportedly worth about $2 billion.",
+      "score": 7,
+      "scraped_at": "2026-10-02"
     }
   ]
 }
