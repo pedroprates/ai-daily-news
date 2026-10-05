@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-02T07:44:40.223966+00:00",
+  "updated_at": "2026-10-05T07:45:26.961491+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -5182,6 +5182,83 @@
       "description": "Salesforce signed a definitive agreement to acquire Listen Labs, which builds AI agents that recruit, interview and analyze customers for research. The deal is reportedly worth about $2 billion.",
       "score": 7,
       "scraped_at": "2026-10-02"
+    },
+    {
+      "id": "6381db252deeabb6",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "vendor": "Google",
+      "source": "blog.google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "date": "2026-09-30",
+      "description": "Google introduced Gemini 4 Argon, its frontier model for coding, enterprise knowledge work and cyber defense, with a 1 million token context window. It is rolling out first to trusted cyber defenders through the Fairwind Program, with introductory pricing of $2 per million input tokens and $10 per million output tokens.",
+      "score": 9,
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "id": "bfc4355d370530a8",
+      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "date": "2026-10-02",
+      "description": "Anthropic committed $100 million to train 10,000 Frontier Deployed Engineers by the end of 2027 through a residency that combines in-person training, a graded practical and a 12-week real-world deployment. First cohorts include engineers from Accenture, Bain, Capgemini, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk.",
+      "score": 8,
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "id": "3ee52ce84596f99a",
+      "title": "Anthropic to invest $100 million to train AI engineer talent",
+      "vendor": "Anthropic",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
+      "date": "2026-10-02",
+      "description": "CNBC reports on Anthropic's $100 million Claude Frontier Academy, aimed at closing the enterprise AI talent gap. The program trains engineers to lead Claude deployments inside their own organizations.",
+      "score": 7,
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "id": "593a5e64b60b1296",
+      "title": "Apple says it's tightening macOS 'Full Disk Access' controls due to new risks from AI agents",
+      "vendor": "Apple",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "date": "2026-10-02",
+      "description": "Apple said it will add controls around macOS Full Disk Access, requiring very explicit user action to grant it, citing growing risks from autonomous AI agents. The move follows a claim that Meta's Muse app read a journalist's private messages. Apple did not give a timeline.",
+      "score": 7,
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "id": "29b43101adaf58b2",
+      "title": "Can Google's new model really catch up to OpenAI and Anthropic at the frontier?",
+      "vendor": "Google",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
+      "date": "2026-10-02",
+      "description": "CNBC examines whether Gemini 4 Argon puts Google back in the frontier race after trailing OpenAI and Anthropic for much of 2026. Analysts say its real test will come when businesses can deploy it widely in production.",
+      "score": 6,
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "id": "46efe28aebe39485",
+      "title": "Despite IPO jitters and AI safety worries, Anthropic sticks to a 2026 offering",
+      "vendor": "Anthropic",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/10/02/despite-ipo-jitters-and-ai-safety-worries-anthropic-sticks-to-a-2026-offering/",
+      "date": "2026-10-02",
+      "description": "SiliconANGLE reports that Anthropic is still planning a public offering in 2026 despite market jitters and AI safety concerns. The story covers how the company is weighing the listing against a volatile backdrop.",
+      "score": 7,
+      "scraped_at": "2026-10-05"
+    },
+    {
+      "id": "2071234503efc76d",
+      "title": "CNBC AI Forum 2026 takeaways: AI costs, security and scale in focus",
+      "vendor": "Industry",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/01/cnbc-ai-forum-2026-live-updates.html",
+      "date": "2026-10-01",
+      "description": "Takeaways from the CNBC AI Forum center on how enterprises are moving from experimentation to deployment. Speakers highlighted AI costs, the security risks of autonomous agents and the challenge of scaling.",
+      "score": 5,
+      "scraped_at": "2026-10-05"
     }
   ]
 }
