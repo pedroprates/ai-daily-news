@@ -1,0 +1,35 @@
+[
+  {
+    "id": "bfc4355d370530a8",
+    "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/claude-frontier-academy",
+    "date": "2026-10-02",
+    "description": "Anthropic launched Claude Frontier Academy with a $100 million commitment to train 10,000 Frontier Deployed Engineers by the end of 2027. The first residency cohorts include engineers from Accenture, Bain, Capgemini, Deloitte, McKinsey, Morgan Stanley and others, running in San Francisco, New York and London. Participants lead a real Claude use case at their own organization during a 12-week residency.",
+    "score": 8,
+    "scraped_at": "2026-10-06"
+  },
+  {
+    "id": "54773f6b303d8933",
+    "title": "Claude for Government is now generally available",
+    "vendor": "Anthropic",
+    "source": "claude.com",
+    "url": "https://claude.com/blog/claude-for-government-is-now-generally-available",
+    "date": "2026-09-30",
+    "description": "Claude for Government is generally available to federal and state agencies in a FedRAMP High authorized environment. It offers usage-based billing with a hard spend cap, admin controls with per-group limits, and audit logs supporting agency ATO processes. Claude Code CLI and Claude for Microsoft 365 are rolling out in early access.",
+    "score": 7,
+    "scraped_at": "2026-10-06"
+  },
+  {
+    "id": "dcb66824e228fe10",
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "date": "2026-09-29",
+    "description": "OpenAI released GPT-6.1 Sol, which approaches its top GPT-6 Astra model on several evaluations at roughly one-fifth the token price. It improves agentic coding, computer use and professional work, and is available to paid ChatGPT tiers and Codex.",
+    "score": 9,
+    "scraped_at": "2026-10-06"
+  }
+]
