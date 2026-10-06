@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-05T07:45:26.961491+00:00",
+  "updated_at": "2026-10-06T07:44:22.028952+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -5259,6 +5259,17 @@
       "description": "Takeaways from the CNBC AI Forum center on how enterprises are moving from experimentation to deployment. Speakers highlighted AI costs, the security risks of autonomous agents and the challenge of scaling.",
       "score": 5,
       "scraped_at": "2026-10-05"
+    },
+    {
+      "id": "54773f6b303d8933",
+      "title": "Claude for Government is now generally available",
+      "vendor": "Anthropic",
+      "source": "claude.com",
+      "url": "https://claude.com/blog/claude-for-government-is-now-generally-available",
+      "date": "2026-09-30",
+      "description": "Claude for Government is generally available to federal and state agencies in a FedRAMP High authorized environment. It offers usage-based billing with a hard spend cap, admin controls with per-group limits, and audit logs supporting agency ATO processes. Claude Code CLI and Claude for Microsoft 365 are rolling out in early access.",
+      "score": 7,
+      "scraped_at": "2026-10-06"
     }
   ]
 }
