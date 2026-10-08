@@ -1,0 +1,90 @@
+[
+  {
+    "id": "8da85c2ebe9dfa48",
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "date": "2026-10-07",
+    "description": "OpenAI is launching an Intelligent UI for ChatGPT that adds interactive elements such as tappable buttons, charts and editable graphs, chosen by the chatbot as needed. It rolls out with GPT-6 to Pro, Plus, Business and Enterprise users first, with free and Go tiers following.",
+    "score": 8,
+    "scraped_at": "2026-10-08"
+  },
+  {
+    "id": "58880fb80ee217cc",
+    "title": "With GPT-6, ChatGPT's responses are much more visually appealing and interactive",
+    "vendor": "OpenAI",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/10/07/with-gpt-6-chatgpts-responses-are-much-more-visually-appealing-and-interactive",
+    "date": "2026-10-07",
+    "description": "SiliconANGLE covers the GPT-6 rollout and the accompanying Intelligent UI in ChatGPT. Responses can now include interactive visual components rather than plain text.",
+    "score": 6,
+    "scraped_at": "2026-10-08"
+  },
+  {
+    "id": "669ea0acf9033742",
+    "title": "Mistral unveils new AI model it says rivals best open systems from China",
+    "vendor": "Industry",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
+    "date": "2026-10-06",
+    "description": "Mistral released a roughly 1-trillion-parameter model it describes as the most capable open model developed outside China. It is launching in preview to developers, cybersecurity leaders and state authorities, with a wider release planned later this month.",
+    "score": 8,
+    "scraped_at": "2026-10-08"
+  },
+  {
+    "id": "a7128a85cbf69ae6",
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "date": "2026-10-05",
+    "description": "Reflection AI released Beam, its first open-weight model. The company says it matches Chinese open models on reasoning benchmarks at lower compute cost, though the claims have not been independently verified.",
+    "score": 7,
+    "scraped_at": "2026-10-08"
+  },
+  {
+    "id": "580a26722281ce89",
+    "title": "Atlassian lays groundwork for humans and AI agents to work side by side",
+    "vendor": "Industry",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/10/07/atlassian-lays-the-groundwork-for-humans-and-ai-agents-to-work-side-by-side",
+    "date": "2026-10-07",
+    "description": "At Team '26 Europe, Atlassian announced the Agentic Multiplayer Protocol for shared human and agent workspaces. It also introduced Rovo Work, a mode for multi-step tasks that people review and approve.",
+    "score": 7,
+    "scraped_at": "2026-10-08"
+  },
+  {
+    "id": "442332880e2764dd",
+    "title": "Google debuts SynthID Detector tool for flagging AI-generated content, but it's far from perfect",
+    "vendor": "Google",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/10/07/google-debuts-synthid-detector-tool-for-flagging-ai-generated-content-but-its-far-from-perfect",
+    "date": "2026-10-07",
+    "description": "Google opened its SynthID Detector, a web tool that identifies images, video and audio made with models from Google, OpenAI, Nvidia and Kakao. Sign-in is required, and it cannot localize edits or detect content from many other models.",
+    "score": 6,
+    "scraped_at": "2026-10-08"
+  },
+  {
+    "id": "97444bbb8a512f15",
+    "title": "OpenAI will start watermarking ChatGPT's text in the EU",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "date": "2026-10-05",
+    "description": "OpenAI will add invisible watermarks to ChatGPT and Codex text output in the EU to comply with the EU AI Act. OpenAI's own tests show the watermark can be removed by editing.",
+    "score": 6,
+    "scraped_at": "2026-10-08"
+  },
+  {
+    "id": "42a6a218f0ff469f",
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "date": "2026-10-05",
+    "description": "TikTok launched an AI shopping assistant along with one-click in-app checkout. The move ties AI recommendations directly to purchasing.",
+    "score": 5,
+    "scraped_at": "2026-10-08"
+  }
+]
