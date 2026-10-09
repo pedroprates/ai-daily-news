@@ -1,0 +1,68 @@
+[
+  {
+    "id": "5266dc75df2b4ac7",
+    "title": "Google Cloud casts Gemini as your enterprise AI hero",
+    "vendor": "Google",
+    "source": "theregister.com",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/08/there-can-be-only-one-google-cloud-casts-gemini-as-your-enterprise-ai-hero/5302086",
+    "date": "2026-10-08",
+    "description": "At its Gemini at Work 2026 event, Google Cloud positioned Gemini as an enterprise agent, with CEO Thomas Kurian saying Gemini had become an agent. Sundar Pichai also cited Gemini 4 Argon results against rival models on a coding benchmark.",
+    "score": 8,
+    "scraped_at": "2026-10-09"
+  },
+  {
+    "id": "f9ac1e263cb95c2e",
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits",
+    "date": "2026-10-06",
+    "description": "Anthropic is offering startups a free year of its Claude Team plan along with $1,000 in token credits. The program is aimed at drawing early-stage companies onto Claude as they build products.",
+    "score": 6,
+    "scraped_at": "2026-10-09"
+  },
+  {
+    "id": "99134731fc9bfd4f",
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "date": "2026-10-08",
+    "description": "Arena, the company behind the LMArena model leaderboard, raised a $200 million Series B at a $3.1 billion valuation. It also added an alignment category to its leaderboard that ranks models on issues such as unauthorized action.",
+    "score": 7,
+    "scraped_at": "2026-10-09"
+  },
+  {
+    "id": "76624b3123129fb5",
+    "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+    "vendor": "Microsoft",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
+    "date": "2026-10-07",
+    "description": "Microsoft opened preorders for the Surface Laptop Ultra, starting at $2,599. The machine includes an Nvidia AI chip designed to run models locally.",
+    "score": 5,
+    "scraped_at": "2026-10-09"
+  },
+  {
+    "id": "13ef8c30afcc3d3b",
+    "title": "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown",
+    "vendor": "Microsoft",
+    "source": "cnbc.com",
+    "url": "https://cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
+    "date": "2026-10-08",
+    "description": "The U.S. Labor Department said it would suspend Microsoft and Adobe from its Permanent Labor Certification program. Several IT services firms, including Cognizant, Infosys, Capgemini, Tata, Wipro and HCL, were also suspended.",
+    "score": 4,
+    "scraped_at": "2026-10-09"
+  },
+  {
+    "id": "6977d25baa54df60",
+    "title": "Uber and China's Pony.ai plan to launch robotaxis in London",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
+    "date": "2026-10-08",
+    "description": "Uber and Pony.ai said they will begin testing Pony.ai's Gen-7 robotaxis in London in the coming weeks. The plan extends the companies' autonomous driving partnership to the UK.",
+    "score": 5,
+    "scraped_at": "2026-10-09"
+  }
+]
