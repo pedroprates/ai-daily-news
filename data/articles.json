@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-09T07:45:09.362370+00:00",
+  "updated_at": "2026-10-12T07:45:08.831802+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -5490,6 +5490,61 @@
       "description": "Uber and Pony.ai said they will begin testing Pony.ai's Gen-7 robotaxis in London in the coming weeks. The plan extends the companies' autonomous driving partnership to the UK.",
       "score": 5,
       "scraped_at": "2026-10-09"
+    },
+    {
+      "id": "34de0981eaae0131",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "vendor": "Google",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "date": "2026-10-08",
+      "description": "Google announced a unified agent in Gemini that can take on multi-step work, rolling out to businesses first and consumers later. It selects a model by default, and users can pick third-party models, starting with Anthropic's Claude.",
+      "score": 8,
+      "scraped_at": "2026-10-12"
+    },
+    {
+      "id": "9f18af51db35faba",
+      "title": "OpenAI revenue falls short, models play hopscotch and Trump cracks down on tech green cards",
+      "vendor": "OpenAI",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/10/09/openai-revenue-falls-short-models-play-hopscotch-and-trump-cracks-down-on-tech-green-cards/",
+      "date": "2026-10-09",
+      "description": "SiliconANGLE's weekly roundup covers OpenAI's annualized revenue coming in below what it had signaled, which pressured AI-linked tech stocks. It also touches on recent model releases and new US restrictions affecting tech-sector green cards.",
+      "score": 7,
+      "scraped_at": "2026-10-12"
+    },
+    {
+      "id": "1e4975e7a3972fbb",
+      "title": "China's Manus raises over $500M in first funding round since split with Meta",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "date": "2026-10-08",
+      "description": "AI agent developer Manus raised more than $500M in its first round since separating from Meta, at a reported valuation of about $4B. It also launched Cue, an app giving personal agents their own email, phone number, wallet and computer.",
+      "score": 7,
+      "scraped_at": "2026-10-12"
+    },
+    {
+      "id": "f79fc1981148f96d",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "date": "2026-10-07",
+      "description": "Nous Research confirmed a $1.5B valuation after raising $90M and is moving into enterprise with Hermes for Businesses. The launch extends its open-model work into agents for business users.",
+      "score": 6,
+      "scraped_at": "2026-10-12"
+    },
+    {
+      "id": "2da938bd0c484285",
+      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+      "date": "2026-10-08",
+      "description": "Vesta raised $30M to deploy swarms of AI agents that automate mortgage origination for lenders. The round reflects growing adoption of agents in regulated financial workflows.",
+      "score": 6,
+      "scraped_at": "2026-10-12"
     }
   ]
 }
