@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-13T07:45:15.924367+00:00",
+  "updated_at": "2026-10-15T07:44:42.571799+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -5622,6 +5622,83 @@
       "description": "CNBC reports on Google's Gemini 4 arrival and investor focus shifting toward a breakout personal AI agent. Access to the newest model is initially restricted to select cybersecurity defenders and enterprise cloud customers.",
       "score": 6,
       "scraped_at": "2026-10-13"
+    },
+    {
+      "id": "35c422e411c04f95",
+      "title": "Anthropic's Q3 revenue is said to hit $16.8 billion ahead of IPO",
+      "vendor": "Anthropic",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
+      "date": "2026-10-15",
+      "description": "Anthropic reportedly told investors its third-quarter revenue reached about $16.8 billion, up roughly 45% from the prior quarter. People familiar with the matter say it also reached adjusted profitability for the first time. The company is preparing for a potential IPO, with reports pointing to a November listing.",
+      "score": 9,
+      "scraped_at": "2026-10-15"
+    },
+    {
+      "id": "1542fb3ec3edcd6d",
+      "title": "Ahead of IPO, Anthropic reveals its revenue grew 45% sequentially to $16.8B in Q3",
+      "vendor": "Anthropic",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/",
+      "date": "2026-10-14",
+      "description": "SiliconANGLE reports Anthropic disclosed 45% sequential revenue growth to $16.8 billion in Q3 as it prepares to go public. The figures follow a leaked confidential filing in September that showed rapid growth alongside a large 2025 operating loss.",
+      "score": 7,
+      "scraped_at": "2026-10-15"
+    },
+    {
+      "id": "71e2f8c65500650c",
+      "title": "Gemini 4 Argon reaches Gemini app Pro and Ultra subscribers alongside a new tasks mode",
+      "vendor": "Google",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/10/13/gemini-4-argon-reaches-gemini-app-pro-and-ultra-subscribers-alongside-a-new-tasks-mode/",
+      "date": "2026-10-13",
+      "description": "Google has rolled out Gemini 4 Argon to Gemini app Pro and Ultra subscribers, after an earlier release to vetted cybersecurity defenders. The rollout adds a new tasks mode. Google's chart from the model's unveiling showed it ahead of Anthropic's Claude Opus 5.5 on DeepSWE v1.1.",
+      "score": 8,
+      "scraped_at": "2026-10-15"
+    },
+    {
+      "id": "2af4baed7ee496c0",
+      "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+      "vendor": "Microsoft",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html",
+      "date": "2026-10-12",
+      "description": "Microsoft plans to run most of its AI inference workloads on its own Maia accelerators, starting with the third-generation chip. The move is intended to reduce reliance on Nvidia and lower costs.",
+      "score": 7,
+      "scraped_at": "2026-10-15"
+    },
+    {
+      "id": "278db98f10a2798d",
+      "title": "Security researchers spent 6 days doing their Chromework, built 1B user exploit",
+      "vendor": "Industry",
+      "source": "theregister.com",
+      "url": "https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134",
+      "date": "2026-10-14",
+      "description": "Security startup Xbow reportedly used OpenAI's GPT-5.6 Sol to chain three Chrome zero-days into a sandbox-escaping exploit on Windows. Four researchers spent six days and about $40,000 in tokens; Google patched the bugs and paid a $250,000 bounty. The account rests on Xbow's own description.",
+      "score": 8,
+      "scraped_at": "2026-10-15"
+    },
+    {
+      "id": "e08930f6f86fe828",
+      "title": "Shares of Oracle, neoclouds drop on CoreWeave debt concerns",
+      "vendor": "Industry",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/10/14/shares-of-oracle-neoclouds-drop-on-coreweave-debt-concerns",
+      "date": "2026-10-14",
+      "description": "Shares of Oracle and several AI cloud providers fell on concerns about CoreWeave's debt. The drop highlights investor sensitivity to the financing behind AI data center buildouts.",
+      "score": 6,
+      "scraped_at": "2026-10-15"
+    },
+    {
+      "id": "ab1e78e115cadca4",
+      "title": "Grok Voice 3.0 from SpaceXSI outscores OpenAI and Google on speech-to-speech index",
+      "vendor": "xAI",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/10/14/grok-voice-3-0-from-spacexsi-outscores-openai-and-google-on-speech-to-speech-index/",
+      "date": "2026-10-14",
+      "description": "Grok Voice 3.0 reportedly outscores OpenAI and Google models on a speech-to-speech benchmark index. The release is positioned as a step forward for xAI's voice capabilities.",
+      "score": 6,
+      "scraped_at": "2026-10-15"
     }
   ]
 }
