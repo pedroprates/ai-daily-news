@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T07:44:42.571799+00:00",
+  "updated_at": "2026-10-16T07:44:26.896291+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -5699,6 +5699,72 @@
       "description": "Grok Voice 3.0 reportedly outscores OpenAI and Google models on a speech-to-speech benchmark index. The release is positioned as a step forward for xAI's voice capabilities.",
       "score": 6,
       "scraped_at": "2026-10-15"
+    },
+    {
+      "id": "39e12661697fe654",
+      "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
+      "vendor": "Meta",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
+      "date": "2026-10-15",
+      "description": "Meta released Muse Spark Open, which it describes as the most capable U.S. open-weight model to date, an 816-billion-parameter mixture-of-experts model. Apple and Meta are partnering so developers can run it locally on two to four Mac Studio machines.",
+      "score": 9,
+      "scraped_at": "2026-10-16"
+    },
+    {
+      "id": "35ca9f8631638101",
+      "title": "Gemini 4 Argon is now rolling out to Google's Antigravity for AI Pro subscribers",
+      "vendor": "Google",
+      "source": "9to5google.com",
+      "url": "https://9to5google.com/2026/10/15/gemini-4-argon-is-now-rolling-out-to-googles-antigravity-for-ai-pro-subscribers/",
+      "date": "2026-10-15",
+      "description": "Google is rolling out Gemini 4 Argon support in Antigravity, its AI coding tool, for AI Pro subscribers. The release brings the new Gemini 4 model family to developer workflows.",
+      "score": 8,
+      "scraped_at": "2026-10-16"
+    },
+    {
+      "id": "20dfecfa26f1e2fc",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "vendor": "Anthropic",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "date": "2026-10-15",
+      "description": "Anthropic is giving six researchers from the evaluation nonprofit METR employee-level access to its systems. The arrangement is meant to allow deeper independent evaluation of frontier models.",
+      "score": 7,
+      "scraped_at": "2026-10-16"
+    },
+    {
+      "id": "396f42926186c595",
+      "title": "ServiceNow adds AI agent controls and employee automation tools",
+      "vendor": "Industry",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/10/15/servicenow-adds-ai-agent-controls-and-employee-automation-tools/",
+      "date": "2026-10-15",
+      "description": "ServiceNow launched AI Passport, a signed credential that defines what an AI agent is permitted to do, along with expanded EmployeeWorks automation tools. Some features arrive later this quarter.",
+      "score": 7,
+      "scraped_at": "2026-10-16"
+    },
+    {
+      "id": "5893aaa1676e0692",
+      "title": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
+      "vendor": "Industry",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "date": "2026-10-15",
+      "description": "Shares of major AI and semiconductor companies fell sharply amid concerns about AI funding. CNBC reports the 20 most valuable global AI and chip stocks have lost over $1 trillion in value so far this week.",
+      "score": 6,
+      "scraped_at": "2026-10-16"
+    },
+    {
+      "id": "14855150620c9c4b",
+      "title": "White House AI Task Force to Hold First Meeting on Thursday",
+      "vendor": "Industry",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/white-house-ai-task-force-to-hold-first-meeting-on-thursday",
+      "date": "2026-10-15",
+      "description": "Bloomberg reports a new White House AI task force is set to hold its first meeting on Thursday. The group is expected to shape U.S. policy on artificial intelligence.",
+      "score": 6,
+      "scraped_at": "2026-10-16"
     }
   ]
 }
