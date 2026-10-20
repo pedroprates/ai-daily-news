@@ -1,0 +1,35 @@
+[
+  {
+    "id": "3d5221f5b37a90de",
+    "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+    "vendor": "Anthropic",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+    "date": "2026-10-19",
+    "description": "CNBC reports Anthropic is the main remaining candidate for a major AI IPO in 2026. Prediction-market odds put a listing at about 75%, and the company is reportedly seeking a valuation near $2 trillion.",
+    "score": 8,
+    "scraped_at": "2026-10-20"
+  },
+  {
+    "id": "fcf73aabe3e37fa7",
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "date": "2026-10-17",
+    "description": "Replit's CEO says the company has made OpenAI its default model provider over Anthropic. One person familiar with the arrangement said the Anthropic partnership was still in place.",
+    "score": 7,
+    "scraped_at": "2026-10-20"
+  },
+  {
+    "id": "05eadc9016e853bb",
+    "title": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers",
+    "vendor": "Anthropic",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/10/17/ai-us-gdp-anthropics-clark.html",
+    "date": "2026-10-17",
+    "description": "Anthropic's Jack Clark told policymakers that AI is improving rapidly and could substantially raise U.S. GDP. The remarks add to ongoing policy discussion about AI's economic impact.",
+    "score": 6,
+    "scraped_at": "2026-10-20"
+  }
+]
