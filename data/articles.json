@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T07:41:30.827089+00:00",
+  "updated_at": "2026-10-21T07:41:55.466715+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -5798,6 +5798,39 @@
       "description": "Anthropic's Jack Clark told policymakers that AI is improving rapidly and could substantially raise U.S. GDP. The remarks add to ongoing policy discussion about AI's economic impact.",
       "score": 6,
       "scraped_at": "2026-10-20"
+    },
+    {
+      "id": "a0595c813318ccae",
+      "title": "Investing in the public benefit",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "date": "2026-10-18",
+      "description": "Anthropic is committing 5% of its shares to a new Anthropic Public Benefit Fund, subject to stockholder approval, with an additional 2% at the board's discretion for each 50% rise in company value above a baseline. Combined with founder pledges and an employee equity match, roughly 20% of shares would be dedicated to the public good. The fund's equity will not be used for lobbying or political giving.",
+      "score": 7,
+      "scraped_at": "2026-10-21"
+    },
+    {
+      "id": "e258fe41ba82a747",
+      "title": "Strengthening our defenses against distillation attacks",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/distillation-defenses",
+      "date": "2026-10-12",
+      "description": "Anthropic describes strengthened defenses against distillation, where fraudulent accounts are used to replicate a model's capabilities without authorization. The company says early evidence shows the measures cut harvested reasoning data by roughly 90 to 99%. It acknowledges trade-offs, including some developers needing to update integrations and occasional misclassification of benign requests.",
+      "score": 6,
+      "scraped_at": "2026-10-21"
+    },
+    {
+      "id": "241a0eb7150b75c2",
+      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "date": "2026-10-14",
+      "description": "Anthropic announced a new office in Singapore along with an MOU with the Government of Singapore. The post is listed in the company's newsroom on October 14, 2026.",
+      "score": 5,
+      "scraped_at": "2026-10-21"
     }
   ]
 }
