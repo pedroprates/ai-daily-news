@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T07:41:55.466715+00:00",
+  "updated_at": "2026-10-22T07:41:54.025485+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -5831,6 +5831,116 @@
       "description": "Anthropic announced a new office in Singapore along with an MOU with the Government of Singapore. The post is listed in the company's newsroom on October 14, 2026.",
       "score": 5,
       "scraped_at": "2026-10-21"
+    },
+    {
+      "id": "252684366be4bd9d",
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "vendor": "Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "date": "2026-10-21",
+      "description": "Anthropic announced that physicist Christopher Stubbs has joined its Long-Term Benefit Trust. The trust is part of the company's governance structure.",
+      "score": 5,
+      "scraped_at": "2026-10-22"
+    },
+    {
+      "id": "2d2caae98728dfe7",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "vendor": "Anthropic",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "date": "2026-10-20",
+      "description": "TechCrunch reports that Anthropic is proposing an AI safety bill under which a model could be blocked if it could cause the deaths of 50 or more people. The proposal adds to the ongoing policy debate over frontier model regulation.",
+      "score": 7,
+      "scraped_at": "2026-10-22"
+    },
+    {
+      "id": "244c48fc443eebd5",
+      "title": "Anthropic's cloud partnerships are getting messy",
+      "vendor": "Anthropic",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "date": "2026-10-20",
+      "description": "TechCrunch examines the growing complexity of Anthropic's relationships with its cloud providers. The piece looks at how overlapping partnerships are shaping compute access for the company.",
+      "score": 6,
+      "scraped_at": "2026-10-22"
+    },
+    {
+      "id": "af34a6699219bf32",
+      "title": "ChatGPT now lets you lock your chats",
+      "vendor": "OpenAI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "date": "2026-10-20",
+      "description": "OpenAI added a feature to ChatGPT that lets users lock their chats. The update is aimed at giving users more control over privacy of their conversations.",
+      "score": 5,
+      "scraped_at": "2026-10-22"
+    },
+    {
+      "id": "9f2c544ee9306da0",
+      "title": "PHP Armageddon: OpenAI, Google's Wiz find ancient holes, panicking the internet",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "date": "2026-10-21",
+      "description": "TechCrunch reports that AI-assisted security research from OpenAI and Google's Wiz has uncovered long-standing vulnerabilities in PHP. The findings have prompted concern across the web ecosystem.",
+      "score": 7,
+      "scraped_at": "2026-10-22"
+    },
+    {
+      "id": "40e4827a0c18ace8",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "vendor": "Meta",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "date": "2026-10-21",
+      "description": "Meta says its Muse AI app has passed 10 million users, with shopping among the most popular activities. The milestone comes shortly after the app's launch.",
+      "score": 6,
+      "scraped_at": "2026-10-22"
+    },
+    {
+      "id": "61ce75599c83f81b",
+      "title": "Google has joined Amazon in attacking Nvidia's stronghold with AI app developers",
+      "vendor": "Google",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "date": "2026-10-20",
+      "description": "TechCrunch reports that Google is following Amazon in targeting Nvidia's hold on AI developers. The move signals increasing competition in AI developer tooling and hardware ecosystems.",
+      "score": 6,
+      "scraped_at": "2026-10-22"
+    },
+    {
+      "id": "dd62bb078550a17e",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "date": "2026-10-21",
+      "description": "TechCrunch contrasts Amazon's blocking of AI shopping agents with Walmart's decision to welcome them. The divergence highlights differing retail strategies for agentic commerce.",
+      "score": 7,
+      "scraped_at": "2026-10-22"
+    },
+    {
+      "id": "9124fc501335a8a3",
+      "title": "US orders federal agencies to remove China's DeepSeek AI from their systems",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "date": "2026-10-20",
+      "description": "The US government has ordered federal agencies to remove DeepSeek's AI from their systems, according to TechCrunch. The directive is a notable escalation in policy toward Chinese AI models.",
+      "score": 7,
+      "scraped_at": "2026-10-22"
+    },
+    {
+      "id": "ed64890568349a4e",
+      "title": "Copilot model policy API for enterprise, orgs, and teams",
+      "vendor": "Microsoft",
+      "source": "github.blog",
+      "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+      "date": "2026-10-19",
+      "description": "GitHub introduced a Copilot model policy API for enterprises, organizations, and teams. It lets administrators manage which models are available programmatically.",
+      "score": 5,
+      "scraped_at": "2026-10-22"
     }
   ]
 }
