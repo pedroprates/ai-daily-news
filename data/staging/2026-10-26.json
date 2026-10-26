@@ -1,0 +1,46 @@
+[
+  {
+    "id": "bdc7b775ab8d2106",
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "date": "2026-10-22",
+    "description": "Anthropic is contributing its Agent Skills standard to the Agentic AI Foundation. More than 70 agent platforms have adopted the standard since December 2025. The move places the format under neutral, foundation-based governance.",
+    "score": 8,
+    "scraped_at": "2026-10-26"
+  },
+  {
+    "id": "a0595c813318ccae",
+    "title": "Investing in the public benefit",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/public-benefit-fund",
+    "date": "2026-10-18",
+    "description": "Anthropic will commit a portion of its shares to a new Public Benefit Fund. The fund's stake is set to grow as the company grows.",
+    "score": 6,
+    "scraped_at": "2026-10-26"
+  },
+  {
+    "id": "c3f9aa1e97f35f24",
+    "title": "An update on independent evaluators",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+    "date": "2026-10-15",
+    "description": "Anthropic says METR, a nonprofit AI evaluator, will receive employee-like access to assess its systems. Talks with other groups, such as Hugging Face, are in early stages.",
+    "score": 6,
+    "scraped_at": "2026-10-26"
+  },
+  {
+    "id": "e258fe41ba82a747",
+    "title": "Strengthening our defenses against distillation attacks",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/distillation-defenses",
+    "date": "2026-10-12",
+    "description": "Anthropic reports that its countermeasures have cut the rate of illicit distillation of its models by more than 90%. The post describes the defenses it has put in place against such attacks.",
+    "score": 6,
+    "scraped_at": "2026-10-26"
+  }
+]
