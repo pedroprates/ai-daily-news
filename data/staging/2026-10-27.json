@@ -1,0 +1,13 @@
+[
+  {
+    "id": "35e334c198740f74",
+    "title": "Introducing GPT-6.1 Terra",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "date": "2026-10-27",
+    "description": "OpenAI introduced GPT-6.1 Terra, a fast model aimed at computer use and coding tasks. It is available in ChatGPT Work and Codex and through the API. OpenAI says that at medium reasoning effort it scores 15 percentage points higher than GPT-5.6 Terra at about one-third the cost.",
+    "score": 8,
+    "scraped_at": "2026-10-27"
+  }
+]
