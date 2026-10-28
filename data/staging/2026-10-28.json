@@ -1,0 +1,68 @@
+[
+  {
+    "id": "eecf802e058e3335",
+    "title": "Anthropic files S-1 paperwork for blockbuster AI IPO",
+    "vendor": "Anthropic",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/",
+    "date": "2026-10-26",
+    "description": "Anthropic filed its S-1 with the SEC, reporting about $16.3 billion in first-half 2026 revenue against $1.2 billion a year earlier. Press coverage of the filing puts the net loss at $80.7 billion, largely from non-cash charges tied to convertible notes. The company plans to list on Nasdaq under the ticker ANT.",
+    "score": 10,
+    "scraped_at": "2026-10-28"
+  },
+  {
+    "id": "eaaaddc6f4ab37ea",
+    "title": "Anthropic's S-1, by the numbers: A thriving business—with a $498 billion asterisk",
+    "vendor": "Anthropic",
+    "source": "fortune.com",
+    "url": "https://fortune.com/2026/10/27/anthropic-s1-ipo-filing-financials-profits/",
+    "date": "2026-10-27",
+    "description": "Fortune breaks down the financials in Anthropic's IPO filing, including adjusted operating profit in the first half and first-ever positive operating cash flow. The filing also warns that revenue is not expected to keep growing at comparable rates.",
+    "score": 8,
+    "scraped_at": "2026-10-28"
+  },
+  {
+    "id": "3ead5953a71f262e",
+    "title": "Anthropic's IPO filing reveals where OpenAI could have the upper hand",
+    "vendor": "Anthropic",
+    "source": "fortune.com",
+    "url": "https://fortune.com/2026/10/28/anthropic-s-1-where-openai-might-have-advantage/",
+    "date": "2026-10-28",
+    "description": "Fortune analyzes what Anthropic's S-1 discloses about its competitive position relative to OpenAI. The piece looks at areas where OpenAI may hold an advantage as both labs compete for enterprise customers.",
+    "score": 6,
+    "scraped_at": "2026-10-28"
+  },
+  {
+    "id": "d49c3dd20e9465cb",
+    "title": "Meta launches plan for $95 billion stock offering to fund AI expansion",
+    "vendor": "Meta",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+    "date": "2026-10-26",
+    "description": "Meta plans to raise up to $95 billion in stock, starting with about $35 billion in underwritten offerings and followed by an at-the-market program. The money is meant to fund AI infrastructure and superintelligence efforts, including multi-gigawatt data center campuses. Meta's 2026 capex guidance stands at $135 billion to $145 billion.",
+    "score": 8,
+    "scraped_at": "2026-10-28"
+  },
+  {
+    "id": "66e503e7499e9e1b",
+    "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
+    "vendor": "Meta",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+    "date": "2026-10-27",
+    "description": "Nvidia and AMD said they will invest $3 billion and $1 billion respectively in Meta's share offering. The investments deepen the chipmakers' ties to Meta as it expands its AI infrastructure buildout.",
+    "score": 7,
+    "scraped_at": "2026-10-28"
+  },
+  {
+    "id": "b636afd106784676",
+    "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+    "vendor": "Microsoft",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+    "date": "2026-10-26",
+    "description": "Microsoft is offering voluntary exit packages to about 60,000 employees, roughly 27% of its workforce, in the US, Canada, India and the UK. The company ties the move to cost control during heavy AI infrastructure spending, and employees must decide in early December.",
+    "score": 7,
+    "scraped_at": "2026-10-28"
+  }
+]
