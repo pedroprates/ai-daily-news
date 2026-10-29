@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-28T07:42:00.913541+00:00",
+  "updated_at": "2026-10-29T07:43:03.163867+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -6117,6 +6117,50 @@
       "description": "Microsoft is offering voluntary exit packages to about 60,000 employees, roughly 27% of its workforce, in the US, Canada, India and the UK. The company ties the move to cost control during heavy AI infrastructure spending, and employees must decide in early December.",
       "score": 7,
       "scraped_at": "2026-10-28"
+    },
+    {
+      "id": "3b6696291dbcf94f",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "vendor": "Anthropic",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "date": "2026-10-28",
+      "description": "Anthropic launched reporting tools that show enterprise customers what their token spending is producing. The company says it will not use this usage data for model training by default.",
+      "score": 7,
+      "scraped_at": "2026-10-29"
+    },
+    {
+      "id": "020314ea17c3bf3d",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "vendor": "Microsoft",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "date": "2026-10-28",
+      "description": "Microsoft reported about $10 billion in revenue tied to its OpenAI arrangements in the quarter ended September 30. That is nearly 11% of its $92.3 billion total quarterly revenue.",
+      "score": 7,
+      "scraped_at": "2026-10-29"
+    },
+    {
+      "id": "9acb71c42b55cf07",
+      "title": "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company",
+      "vendor": "Anthropic",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
+      "date": "2026-10-28",
+      "description": "Anthropic's S-1 warns that some AI-related risks may be difficult or impossible to insure, noting the insurance market for AI-specific risks is nascent. CNBC argues AI coverage will become an issue for every company deploying the technology.",
+      "score": 6,
+      "scraped_at": "2026-10-29"
+    },
+    {
+      "id": "f0c513d9b8318ddb",
+      "title": "Nasdaq-100 futures dip as Alphabet shares sell off after earnings report: Live updates",
+      "vendor": "Google",
+      "source": "cnbc.com",
+      "url": "https://cnbc.com/2026/10/28/stock-market-today-live-updates.html",
+      "date": "2026-10-28",
+      "description": "Alphabet reported Google Cloud revenue doubling to $31 billion, while capital expenditures hit a record $51.4 billion and free cash flow turned negative at $9.1 billion. Shares sold off after the report.",
+      "score": 5,
+      "scraped_at": "2026-10-29"
     }
   ]
 }
