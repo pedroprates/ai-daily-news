@@ -1,0 +1,35 @@
+[
+  {
+    "id": "e459f79c91efdc7f",
+    "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
+    "vendor": "Industry",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
+    "date": "2026-10-29",
+    "description": "Microsoft trimmed its full-year capex forecast to $170 billion from $175 billion, while Alphabet held its guidance at $195–205 billion. The cautious updates suggest hyperscalers are slowing the pace of raised AI infrastructure spending.",
+    "score": 7,
+    "scraped_at": "2026-10-30"
+  },
+  {
+    "id": "020314ea17c3bf3d",
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "vendor": "Microsoft",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "date": "2026-10-28",
+    "description": "Microsoft reported $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ended September 30. The figure shows how significant the partnership remains even as OpenAI expands to other clouds.",
+    "score": 7,
+    "scraped_at": "2026-10-30"
+  },
+  {
+    "id": "60dc007605181d89",
+    "title": "Anthropic IPO might kick off tech reset if the AI stock underperforms",
+    "vendor": "Anthropic",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+    "date": "2026-10-26",
+    "description": "Anthropic's IPO filing positions it for what could be the largest initial stock offering in history. The analysis argues that weak post-listing performance could prompt a broader reset in AI-related tech valuations.",
+    "score": 8,
+    "scraped_at": "2026-10-30"
+  }
+]
