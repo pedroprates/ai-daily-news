@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-30T07:41:49.621467+00:00",
+  "updated_at": "2026-11-02T07:43:12.621266+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -6183,6 +6183,39 @@
       "description": "Anthropic's IPO filing positions it for what could be the largest initial stock offering in history. The analysis argues that weak post-listing performance could prompt a broader reset in AI-related tech valuations.",
       "score": 8,
       "scraped_at": "2026-10-30"
+    },
+    {
+      "id": "a8d30791114ea738",
+      "title": "Apple's HomeView Ships With Six-Month-Old Software",
+      "vendor": "Apple",
+      "source": "macrumors.com",
+      "url": "https://macrumors.com/2026/11/01/apple-homeview-six-month-old-software",
+      "date": "2026-11-01",
+      "description": "Apple's HomeView smart home hub has a 7-inch display and Siri AI, and can recognize faces to switch from a shared household screen to a personal profile. MacRumors reports that it ships with software that is about six months old.",
+      "score": 6,
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "id": "16d8b0a41a31002c",
+      "title": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
+      "vendor": "OpenAI",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html",
+      "date": "2026-10-21",
+      "description": "OpenAI will make its models available to developers through Google's cloud. This reportedly puts its models on all three major U.S. clouds, extending its distribution beyond Microsoft.",
+      "score": 7,
+      "scraped_at": "2026-11-02"
+    },
+    {
+      "id": "41498215616dd3bc",
+      "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
+      "vendor": "Anthropic",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html",
+      "date": "2026-10-15",
+      "description": "AWS and Anthropic are training specialized forward-deployed engineers to help enterprises put AI into production. Anthropic is putting $100 million into a program to train 10,000 such engineers by the end of 2027.",
+      "score": 7,
+      "scraped_at": "2026-11-02"
     }
   ]
 }
