@@ -1,0 +1,68 @@
+[
+  {
+    "id": "e732affa3e390d12",
+    "title": "OpenAI is finally merging ChatGPT's Chat and Work tabs",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "date": "2026-11-02",
+    "description": "OpenAI is merging the Chat and Work tabs in ChatGPT, starting with a test group of select users. ChatGPT and Codex will draw tokens from the same allowance pool.",
+    "score": 7,
+    "scraped_at": "2026-11-03"
+  },
+  {
+    "id": "aafb2d2c8fa21079",
+    "title": "Apple Watch's AI features for rewinding and recapping conversations begin beta testing",
+    "vendor": "Apple",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+    "date": "2026-11-02",
+    "description": "Apple's Audio Intelligence features, including Live Rewind and Siri Recaps, have entered beta testing for developers in iOS 27.3. They are conversation-related features for Apple Watch.",
+    "score": 6,
+    "scraped_at": "2026-11-03"
+  },
+  {
+    "id": "804d2e2f62a5210f",
+    "title": "Apple may try to increase revenue by doing...something with third-party AI apps",
+    "vendor": "Apple",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+    "date": "2026-11-02",
+    "description": "On its earnings call, Apple's CFO pointed to possible revenue from third-party apps and partnerships tied to AI. No details were given.",
+    "score": 6,
+    "scraped_at": "2026-11-03"
+  },
+  {
+    "id": "14da79bcc924cc0a",
+    "title": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
+    "vendor": "Industry",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+    "date": "2026-11-02",
+    "description": "Marvell agreed to acquire optical-components maker Lumentum in a roughly $115 billion fixed-ratio stock deal aimed at AI data center connectivity. Marvell shares fell about 13% and Lumentum's nearly 19% on the news.",
+    "score": 8,
+    "scraped_at": "2026-11-03"
+  },
+  {
+    "id": "1263ce4e09302da8",
+    "title": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+    "vendor": "Industry",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+    "date": "2026-11-02",
+    "description": "Oracle filed to raise $10 billion in common stock and $10 billion in senior notes to fund its AI buildout. Its shares fell about 8.8% on the day.",
+    "score": 7,
+    "scraped_at": "2026-11-03"
+  },
+  {
+    "id": "ad5d5621e393f57e",
+    "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+    "vendor": "Industry",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+    "date": "2026-11-02",
+    "description": "South Korea's record 2027 budget includes 4.7 trillion won to develop a sovereign AI model. It also funds a broader push into semiconductors, physical AI and AI data centers.",
+    "score": 6,
+    "scraped_at": "2026-11-03"
+  }
+]
