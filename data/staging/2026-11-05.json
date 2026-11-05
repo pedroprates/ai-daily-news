@@ -1,0 +1,68 @@
+[
+  {
+    "id": "2f7abd088fe66e28",
+    "title": "Meta acquires AI coding startup Conductor",
+    "vendor": "Meta",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+    "date": "2026-11-04",
+    "description": "Meta acquired Conductor, a startup whose app runs several coding agents at once. Terms were not disclosed. Conductor's cloud service goes read-only on Nov. 13 and shuts down on Nov. 20.",
+    "score": 7,
+    "scraped_at": "2026-11-05"
+  },
+  {
+    "id": "95f69b75b62b697e",
+    "title": "OpenAI to acquire developer tooling startup Pierre Computer",
+    "vendor": "OpenAI",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/04/openai-to-acquire-developer-tooling-startup-pierre-computer/",
+    "date": "2026-11-04",
+    "description": "OpenAI announced plans to acquire developer tooling startup Pierre Computer, with terms undisclosed. The effort will emphasize software that optimizes coding agents.",
+    "score": 7,
+    "scraped_at": "2026-11-05"
+  },
+  {
+    "id": "dca8692856b15009",
+    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "vendor": "Google",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+    "date": "2026-11-04",
+    "description": "Google drew criticism after announcing that schools using its K-12 software could not use Search unless they opted in to AI tools. Google later said Gemini, Gemini Notebook and Search would be off by default, with schools able to enable them individually.",
+    "score": 6,
+    "scraped_at": "2026-11-05"
+  },
+  {
+    "id": "bd044bc53c19f14d",
+    "title": "OpenAI is already trying to shape the 2028 election",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+    "date": "2026-11-04",
+    "description": "OpenAI's Chris Lehane argued that AI should define the 2028 presidential election and called for new policies addressing public concerns. The essay also encourages wider AI adoption and supports the infrastructure expansion the company needs.",
+    "score": 6,
+    "scraped_at": "2026-11-05"
+  },
+  {
+    "id": "0e5ee51821509c28",
+    "title": "Google fine-tunes its Agentic Data Cloud to support highly scalable autonomous AI workers",
+    "vendor": "Google",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/04/google-fine-tunes-its-agentic-data-cloud-to-support-highly-scalable-autonomous-ai-workers/",
+    "date": "2026-11-04",
+    "description": "Google revamped its Agentic Data Cloud platform for autonomous AI agents at scale. New features include the Data Agent Kit, which is generally available from today.",
+    "score": 6,
+    "scraped_at": "2026-11-05"
+  },
+  {
+    "id": "91c49ae4bb3940a4",
+    "title": "AI data center stocks and Musk's SpaceX decline as Texas governor result raises risks of a slowdown",
+    "vendor": "Industry",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+    "date": "2026-11-04",
+    "description": "Local measures to restrict data centers appeared to pass across about 10 states, and Texas elected a governor who campaigned for tougher limits. Neoclouds such as CoreWeave and Iren fell about 4% in morning trading, while Alphabet, Meta and Microsoft mostly rose.",
+    "score": 7,
+    "scraped_at": "2026-11-05"
+  }
+]
