@@ -1,0 +1,68 @@
+[
+  {
+    "id": "42370702883d2723",
+    "title": "OpenAI released a new cybersecurity model. Is that enough?",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+    "date": "2026-11-05",
+    "description": "OpenAI released a cybersecurity-focused model for vetted users in its cyber program. The company says the same model was used to scan the Linux kernel and prepare patches, surfacing 948 potential issues. TechCrunch examines whether the limited-access approach is sufficient.",
+    "score": 8,
+    "scraped_at": "2026-11-06"
+  },
+  {
+    "id": "ad1030df5ce46710",
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "vendor": "Apple",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "date": "2026-11-04",
+    "description": "Bloomberg reports Apple lowered the daily AI spending cap for engineering teams from $300 to $200 in October. Further cuts are reportedly planned.",
+    "score": 6,
+    "scraped_at": "2026-11-06"
+  },
+  {
+    "id": "9935b6c3a34ac967",
+    "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
+    "vendor": "Industry",
+    "source": "cnbc.com",
+    "url": "https://cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
+    "date": "2026-11-05",
+    "description": "AI-linked stocks sold off sharply on Nov. 5, with the Nasdaq falling into correction territory. Investors worried that data-center buildout could slow and face more regulation after the midterm results. OpenAI reaffirmed its pledge to pay the full cost of powering its data centers.",
+    "score": 7,
+    "scraped_at": "2026-11-06"
+  },
+  {
+    "id": "297f77279829b406",
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/",
+    "date": "2026-11-05",
+    "description": "OpenAI published a National Community Compact and a Compute Campus Policy Blueprint describing how it will work with communities hosting its data center campuses. The documents cover commitments around power costs and local engagement.",
+    "score": 6,
+    "scraped_at": "2026-11-06"
+  },
+  {
+    "id": "bca108e4c77bd86b",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "date": "2026-11-05",
+    "description": "OpenAI raised rewards in its Security Bug Bounty program. A critical vulnerability in a core product can now earn up to $30,000.",
+    "score": 5,
+    "scraped_at": "2026-11-06"
+  },
+  {
+    "id": "31aaaae73a614a69",
+    "title": "Google AI Educator Series expands to four new regions",
+    "vendor": "Google",
+    "source": "blog.google",
+    "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026",
+    "date": "2026-11-05",
+    "description": "Google is expanding its AI Educator Series to new regions including Spain, Brazil, Mexico, Australia and sub-Saharan Africa. The program trains teachers to use AI tools in the classroom.",
+    "score": 4,
+    "scraped_at": "2026-11-06"
+  }
+]
