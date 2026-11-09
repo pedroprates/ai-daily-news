@@ -1,0 +1,57 @@
+[
+  {
+    "id": "9a064d95901e645e",
+    "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/s1-sec",
+    "date": "2026-10-26",
+    "description": "Anthropic filed a Form S-1 registration statement with the SEC for a proposed initial public offering of its Class A common stock. The filing is a major step toward the company becoming publicly traded.",
+    "score": 9,
+    "scraped_at": "2026-11-09"
+  },
+  {
+    "id": "c45a0b6d7de18ac5",
+    "title": "The latest AI news we announced in October 2026",
+    "vendor": "Google",
+    "source": "blog.google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "date": "2026-11-02",
+    "description": "Google's October recap covers Gemini 4 Argon, a frontier reasoning model, and Gemini 4 Carbon, which is in limited pre-release testing with the U.S. government and cyber defenders. It also lists Genie 4, EmbeddingGemma 2, and the Project Suncatcher satellite returning an AI response generated in orbit.",
+    "score": 8,
+    "scraped_at": "2026-11-09"
+  },
+  {
+    "id": "550f4d88633d4245",
+    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+    "date": "2026-10-27",
+    "description": "Anthropic broadened its agreement with the U.S. General Services Administration. Government partners get a 40% discount on Claude products.",
+    "score": 6,
+    "scraped_at": "2026-11-09"
+  },
+  {
+    "id": "dcad83d827337ce8",
+    "title": "Early progress on accelerating drug development with Claude",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/research/early-progress-drug-development",
+    "date": "2026-10-27",
+    "description": "Anthropic scientists have begun deep research partnerships with six drug developers. The goal is to speed up the creation of new medicines using Claude.",
+    "score": 7,
+    "scraped_at": "2026-11-09"
+  },
+  {
+    "id": "e63c44ee253751eb",
+    "title": "AI for Science expands to foundations and research institutions",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+    "date": "2026-10-28",
+    "description": "Anthropic expanded its AI for Science program to include foundations and research bodies. It spotlights twenty partner organizations in the program.",
+    "score": 5,
+    "scraped_at": "2026-11-09"
+  }
+]
