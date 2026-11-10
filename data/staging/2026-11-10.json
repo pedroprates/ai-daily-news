@@ -1,0 +1,79 @@
+[
+  {
+    "id": "a3bc8ca770f44f2d",
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
+    "date": "2026-11-09",
+    "description": "Anthropic released new Claude Mythos and Fable models, with coverage noting concerns about recursive self-improvement. The release comes as the company prepares for its IPO.",
+    "score": 9,
+    "scraped_at": "2026-11-10"
+  },
+  {
+    "id": "3059b88bcc578257",
+    "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
+    "vendor": "Anthropic",
+    "source": "cnbc.com",
+    "url": "https://cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
+    "date": "2026-11-09",
+    "description": "Anthropic launched Claude Fable 5.2 and Claude Mythos 5.2 on Monday, its first frontier models since CEO Dario Amodei called for a slowdown. Fable 5.2 is priced below GPT-6 Astra, and the IPO could come as soon as next week.",
+    "score": 9,
+    "scraped_at": "2026-11-10"
+  },
+  {
+    "id": "9275f428422e270c",
+    "title": "Google advances agentic AI custom silicon, expanding TPU family with 8tx and 8i Max",
+    "vendor": "Google",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/09/google-advances-agentic-ai-custom-silicon-expanding-tpu-family-with-8tx-and-8i-max",
+    "date": "2026-11-09",
+    "description": "Google introduced two new chips in its eighth-generation TPU family, the TPU 8tx and TPU 8i Max, aimed at agentic AI workloads. The additions expand its custom silicon lineup for training and inference.",
+    "score": 7,
+    "scraped_at": "2026-11-10"
+  },
+  {
+    "id": "3d64e2791d9a0a4e",
+    "title": "Meta introduces Muse Ember to power cost-efficient AI agents",
+    "vendor": "Meta",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/09/meta-introduces-muse-ember-to-power-cost-efficient-ai-agents",
+    "date": "2026-11-09",
+    "description": "Meta released Muse Ember, a model designed for cost-efficient AI agents. Meta says it matches the score of Anthropic's Claude Haiku 5.5 at about a third of the price.",
+    "score": 7,
+    "scraped_at": "2026-11-10"
+  },
+  {
+    "id": "ef2b9c8fd99236a5",
+    "title": "OpenAI reportedly raises $11B in new funding at $1.25T valuation",
+    "vendor": "OpenAI",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/",
+    "date": "2026-11-06",
+    "description": "OpenAI has reportedly raised $11 billion in a round that could nearly double in size over coming weeks, valuing it at $1.25 trillion. The company is reported to plan a public listing in 2027.",
+    "score": 7,
+    "scraped_at": "2026-11-10"
+  },
+  {
+    "id": "ced44458da0171bf",
+    "title": "OpenAI launches GPT-6 Cyber, an Astra model built to keep vulnerability research in scope",
+    "vendor": "OpenAI",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/05/openai-launches-gpt-6-cyber-a-gpt-6-astra-model-built-to-keep-vulnerability-research-in-scope/",
+    "date": "2026-11-05",
+    "description": "OpenAI launched GPT-6 Cyber, a variant of GPT-6 Astra tuned for security work such as vulnerability research. It is reported to outperform Astra on most cybersecurity tasks.",
+    "score": 7,
+    "scraped_at": "2026-11-10"
+  },
+  {
+    "id": "4c65182864f77c17",
+    "title": "Google, Anthropic and others to support new AI crawling opt-out standard",
+    "vendor": "Industry",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/",
+    "date": "2026-10-30",
+    "description": "Google, Anthropic, OpenAI and Microsoft plan to support a new standard that lets site operators block all generative-AI training scrapers with a single robots.txt entry. The move could simplify content opt-outs across major AI vendors.",
+    "score": 6,
+    "scraped_at": "2026-11-10"
+  }
+]
