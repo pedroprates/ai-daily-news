@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-11T07:42:16.692722+00:00",
+  "updated_at": "2026-11-12T07:42:14.725689+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -6656,6 +6656,94 @@
       "description": "Stanford's One Hundred Year Study on AI (AI100) released its third report. The panel acknowledges the pace of AI progress means its findings will quickly date, and describes current AI governance as fragmented.",
       "score": 5,
       "scraped_at": "2026-11-11"
+    },
+    {
+      "id": "a2840211d2512175",
+      "title": "Gemini 4 Carbon is now available for developers.",
+      "vendor": "Google",
+      "source": "blog.google",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
+      "date": "2026-11-11",
+      "description": "Google opened Gemini 4 Carbon, its frontier model previously limited to cyber defenders in the Fairwind Program, to all paying developers and enterprises via the Gemini API in AI Studio. Introductory pricing matches Gemini 4 Argon at $2/$10 per million input/output tokens until November 30, after which it rises to $4/$20. Google positions Carbon for the hardest reasoning tasks while recommending Argon for most engineering work.",
+      "score": 9,
+      "scraped_at": "2026-11-12"
+    },
+    {
+      "id": "d7717d6f073e26be",
+      "title": "Google enters decision model market with Gemini Decisions API",
+      "vendor": "Google",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/11/11/google-enters-the-decision-model-market-with-gemini-decisions-api/",
+      "date": "2026-11-11",
+      "description": "Google launched the Gemini Decisions API, a service built on a narrower decision model rather than a general-purpose LLM. Google says it is nearly five times cheaper than its entry-level Gemini 3.5 Flash-Lite, targeting high-volume classification and routing workloads.",
+      "score": 6,
+      "scraped_at": "2026-11-12"
+    },
+    {
+      "id": "b5ed601da36f171a",
+      "title": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model",
+      "vendor": "Google",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model/",
+      "date": "2026-11-11",
+      "description": "Google DeepMind released a new robotics foundation model alongside AlphaGenome 2, which predicts how DNA sequences and their variants affect gene regulation across human cell types. The releases extend DeepMind's push into embodied AI and AI-for-science research.",
+      "score": 7,
+      "scraped_at": "2026-11-12"
+    },
+    {
+      "id": "8cdadf85de75d8af",
+      "title": "Anthropic sets a $1.4 trillion IPO target, but bankers may already be aiming higher",
+      "vendor": "Anthropic",
+      "source": "fortune.com",
+      "url": "https://fortune.com/2026/11/11/anthropic-sets-a-1-4-trillion-ipo-target-but-bankers-may-already-be-aiming-higher-cfo/",
+      "date": "2026-11-11",
+      "description": "Anthropic launched its IPO roadshow with 825 million shares priced at $70–$78, implying up to $1.4 trillion on a fully diluted basis, with pricing expected November 18 and Nasdaq trading under ANT on November 19. Reports say the book is already covered and bankers are weighing pricing above the filed range.",
+      "score": 8,
+      "scraped_at": "2026-11-12"
+    },
+    {
+      "id": "488cd970551be2af",
+      "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
+      "vendor": "Anthropic",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
+      "date": "2026-11-11",
+      "description": "Anthropic opened a retail allocation of its IPO to Australian investors, with the offer scheduled to close November 17. The company said it does not plan to seek a listing on the Australian Securities Exchange, and is targeting roughly 20% retail allocation overall.",
+      "score": 5,
+      "scraped_at": "2026-11-12"
+    },
+    {
+      "id": "5dcf9d04716efa12",
+      "title": "The AI industry's week from hell",
+      "vendor": "Industry",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms",
+      "date": "2026-11-11",
+      "description": "Axios examines a turbulent week for AI: Anthropic's IPO target landing well below earlier expectations, an investigation involving Nvidia's CEO, and midterm results bringing more AI-skeptical lawmakers to Congress. It notes Anthropic's $81 billion annualized revenue alongside nearly $901 billion in long-term compute commitments.",
+      "score": 6,
+      "scraped_at": "2026-11-12"
+    },
+    {
+      "id": "1da82640a1ea0479",
+      "title": "Trump backed Nvidia chip controls aimed at China 3 times as Lutnick stalled",
+      "vendor": "Industry",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls",
+      "date": "2026-11-11",
+      "description": "Axios reports President Trump repeatedly backed action against companies suspected of diverting Nvidia's advanced AI chips to China, while Commerce Secretary Howard Lutnick delayed implementation. The story adds to mounting scrutiny of AI chip export enforcement.",
+      "score": 7,
+      "scraped_at": "2026-11-12"
+    },
+    {
+      "id": "d5ce8d4f2e7d567c",
+      "title": "Databricks' new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "date": "2026-11-11",
+      "description": "Databricks unveiled an updated version of its Genie AI agent that can carry out multistep, longer-running analytical jobs over enterprise data. CEO Ali Ghodsi says he uses it internally to get candid answers about the business, offering an example of executive-level agent adoption.",
+      "score": 6,
+      "scraped_at": "2026-11-12"
     }
   ]
 }
