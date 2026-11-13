@@ -1,0 +1,90 @@
+[
+  {
+    "id": "b2e35daf8642042c",
+    "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+    "date": "2026-11-12",
+    "description": "Jensen Huang has exited as Nvidia CEO amid a widening personal scandal, with CFO Colette Kress named interim leader. The leadership change at the dominant AI chip supplier comes as lawmakers open inquiries and Huang agrees to testify before Congress.",
+    "score": 9,
+    "scraped_at": "2026-11-13"
+  },
+  {
+    "id": "c32c9bb4ff06b22c",
+    "title": "Five ways Jensen Huang's ouster from Nvidia could damage the AI industry",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+    "date": "2026-11-12",
+    "description": "TechCrunch analyzes how Huang's sudden departure could ripple across the AI sector, from chip supply and pricing to Nvidia's open-source commitments and investor confidence. The piece lands days before Anthropic's planned public listing.",
+    "score": 6,
+    "scraped_at": "2026-11-13"
+  },
+  {
+    "id": "1be4321b80db5aa2",
+    "title": "OpenAI launches security products, tells orgs they're doomed if they don't use them",
+    "vendor": "OpenAI",
+    "source": "theregister.com",
+    "url": "https://theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
+    "date": "2026-11-12",
+    "description": "OpenAI added two products to its Daybreak security platform: Daybreak Red Team, an early-access agentic penetration-testing tool for web apps, and Daybreak Defense Factory, which finds, validates and proposes vulnerability fixes for engineer approval. Greg Brockman argued organizations' security will hinge on using frontier models for defense.",
+    "score": 7,
+    "scraped_at": "2026-11-13"
+  },
+  {
+    "id": "566890ee89fca7e5",
+    "title": "Anthropic launches new suits of AI office productivity tools in run up to IPO",
+    "vendor": "Anthropic",
+    "source": "fortune.com",
+    "url": "https://fortune.com/2026/11/10/anthropic-launches-office-knowledge-worker-product-launch-ahead-of-ipo/",
+    "date": "2026-11-10",
+    "description": "Anthropic unveiled a set of knowledge-worker products including Claude Meetings and Claude Sheets, pushing Claude further into office productivity. The launch arrives alongside its Fable 5.2 and Mythos 5.2 models and ahead of its Nasdaq debut.",
+    "score": 8,
+    "scraped_at": "2026-11-13"
+  },
+  {
+    "id": "76f0f9d265ce6e4d",
+    "title": "Google's latest Search upgrade promises better answers to your most complicated questions",
+    "vendor": "Google",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+    "date": "2026-11-12",
+    "description": "Google rolled out a Search upgrade aimed at handling complex, multi-part queries with more thorough AI-generated answers. The update continues Google's shift of its core product toward Gemini-powered responses.",
+    "score": 6,
+    "scraped_at": "2026-11-13"
+  },
+  {
+    "id": "0544f18fda8e3232",
+    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+    "date": "2026-11-12",
+    "description": "United Airlines is barring autonomous AI agents from its booking systems, citing cybersecurity risks. The move is a notable enterprise pushback against agentic commerce as assistants increasingly transact on users' behalf.",
+    "score": 6,
+    "scraped_at": "2026-11-13"
+  },
+  {
+    "id": "3d14e9acb8c15562",
+    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers' chat transcripts",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+    "date": "2026-11-12",
+    "description": "A breach at inference provider Fireworks AI exposed chat transcripts belonging to Notion customers. The incident highlights supply-chain risk when SaaS companies route AI features through third-party model hosts.",
+    "score": 6,
+    "scraped_at": "2026-11-13"
+  },
+  {
+    "id": "edc9e887eff59d25",
+    "title": "Mount Thor raises $45 million to build Mac data centers for AI agents",
+    "vendor": "Apple",
+    "source": "9to5mac.com",
+    "url": "https://9to5mac.com/2026/11/12/mount-thor-raises-45-million-to-build-mac-data-centers-for-ai-agents/",
+    "date": "2026-11-12",
+    "description": "Startup Mount Thor raised $45 million across seed and Series A rounds to build data centers of Apple-silicon Macs rented out to AI agents. It reflects growing demand for macOS environments where agents can operate apps.",
+    "score": 5,
+    "scraped_at": "2026-11-13"
+  }
+]
