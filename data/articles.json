@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T07:46:12.712425+00:00",
+  "updated_at": "2026-11-16T07:43:46.515409+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -6832,6 +6832,105 @@
       "description": "Startup Mount Thor raised $45 million across seed and Series A rounds to build data centers of Apple-silicon Macs rented out to AI agents. It reflects growing demand for macOS environments where agents can operate apps.",
       "score": 5,
       "scraped_at": "2026-11-13"
+    },
+    {
+      "id": "31d37487b0b935a3",
+      "title": "Anthropic's IPO lands as the embattled AI trade looks for a much-needed bright spot",
+      "vendor": "Anthropic",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+      "date": "2026-11-15",
+      "description": "Anthropic is set to price its IPO on Nov. 18 and begin trading on Nasdaq under the ticker ANT on Nov. 19, offering 825 million shares at $70 to $78 each for a valuation of up to roughly $1.4 trillion. The listing arrives during a broad AI stock sell-off and days after Jensen Huang's exit as Nvidia CEO, making it a reference point for how public markets value frontier AI labs. Nvidia has agreed to buy about $10 billion of shares as part of a $26 billion private placement alongside the offering.",
+      "score": 9,
+      "scraped_at": "2026-11-16"
+    },
+    {
+      "id": "80edea19d5fdcf28",
+      "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows",
+      "vendor": "Google",
+      "source": "blog.google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "date": "2026-11-12",
+      "description": "Google introduced Gemini 4 Hydrogen, a fast, cost-efficient model aimed at agentic workflows and everyday coding, with four selectable thinking levels: low, medium, high and a new xhigh tier that trades latency and cost for quality. Google says the model is up to 2x less likely to bypass permission boundaries when it encounters blocked tasks. It is generally available in Gemini Enterprise and the Gemini Enterprise Agent Platform.",
+      "score": 9,
+      "scraped_at": "2026-11-16"
+    },
+    {
+      "id": "cbef9a7a25f712ac",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "vendor": "OpenAI",
+      "source": "openai.com",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model/",
+      "date": "2026-11-15",
+      "description": "OpenAI published a guest post describing how a physicist worked with GPT-6 Astra on a candidate lattice definition of the Standard Model, a long-standing open problem in theoretical physics. The write-up is part of OpenAI's effort to document frontier models contributing to original scientific work rather than reproducing known results.",
+      "score": 8,
+      "scraped_at": "2026-11-16"
+    },
+    {
+      "id": "2f6187234627743d",
+      "title": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+      "vendor": "Industry",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+      "date": "2026-11-16",
+      "description": "Pressure is mounting from across the technology industry for Nvidia to reinstate Jensen Huang, who stepped down as CEO amid an independent board investigation into reports that he was targeted by a Chinese intelligence-gathering effort. The campaign comes as Nvidia heads into quarterly earnings this week with interim leadership in place and its shares under pressure.",
+      "score": 8,
+      "scraped_at": "2026-11-16"
+    },
+    {
+      "id": "398113a91e64f36b",
+      "title": "AI is reshaping banking jobs – but its ability to drive profits remains unclear",
+      "vendor": "Industry",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/16/how-ai-is-changing-banking-jobs-hiring-and-revenue.html",
+      "date": "2026-11-16",
+      "description": "Banks are reorganizing hiring and junior-analyst work around AI tooling, but the link between those deployments and revenue or margin improvement is still hard to demonstrate. The report looks at how AI adoption inside financial institutions is changing headcount plans faster than it is changing the profit line.",
+      "score": 8,
+      "scraped_at": "2026-11-16"
+    },
+    {
+      "id": "a22318abd9f9f947",
+      "title": "Apple launches new app to study how people use AI for health",
+      "vendor": "Apple",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "date": "2026-11-15",
+      "description": "Apple released a new app to run a research study on how people use AI tools for health-related questions and decisions. The effort gives Apple first-party data on consumer health AI usage as it builds out its own health features.",
+      "score": 7,
+      "scraped_at": "2026-11-16"
+    },
+    {
+      "id": "9bfb2ab667837ec0",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "date": "2026-11-15",
+      "description": "TechCrunch examines whether Jensen Huang's departure from Nvidia represents a structural risk to the AI buildout or a leadership story the market can absorb. The analysis weighs Nvidia's position in the accelerator supply chain against the argument that demand, not any single executive, drives the cycle.",
+      "score": 7,
+      "scraped_at": "2026-11-16"
+    },
+    {
+      "id": "e86112d5f8734949",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "date": "2026-11-14",
+      "description": "Elon Musk and a group of other technology executives signed a petition urging Nvidia's board to bring Jensen Huang back as CEO. The public show of support highlights how closely much of the AI supply chain is tied to Nvidia's leadership.",
+      "score": 6,
+      "scraped_at": "2026-11-16"
+    },
+    {
+      "id": "1c3b11adc258eb74",
+      "title": "Meet the seven co-founders of Anthropic",
+      "vendor": "Anthropic",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html",
+      "date": "2026-11-14",
+      "description": "Ahead of Anthropic's listing, CNBC profiles the company's seven co-founders and the stakes each holds going into the IPO. The piece traces the group's path from OpenAI to founding Anthropic in 2021.",
+      "score": 6,
+      "scraped_at": "2026-11-16"
     }
   ]
 }
