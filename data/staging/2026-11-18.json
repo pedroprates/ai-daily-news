@@ -1,0 +1,101 @@
+[
+  {
+    "id": "0fb76b8d23388056",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "date": "2026-11-17",
+    "description": "OpenAI released GPT-6.2 Astra, its frontier model for complex professional work, and GPT-6.2 Sol, a cheaper everyday model, in ChatGPT Work, Codex and the API. OpenAI says Astra sets a new high on Agents' Last Exam at under a third of GPT-6 Astra's cost, with token prices cut 20% to $8/$40 per million. The system card rates both models at the Critical threshold for cybersecurity capabilities, so they ship with tighter cyber safeguards.",
+    "score": 9,
+    "scraped_at": "2026-11-18"
+  },
+  {
+    "id": "e807373fd5e6bfb1",
+    "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
+    "vendor": "Anthropic",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+    "date": "2026-11-17",
+    "description": "Sources told CNBC that Anthropic is likely to price its IPO above the marketed $70–$78 range, citing strong institutional demand. Pricing is expected on November 18, with trading on Nasdaq under the ticker ANT set to begin November 19. The offering of 825 million shares would be among the largest on record.",
+    "score": 8,
+    "scraped_at": "2026-11-18"
+  },
+  {
+    "id": "16372139cb98e910",
+    "title": "At Ignite 2026, Microsoft reinvents Copilot as the autonomous engine of enterprise work",
+    "vendor": "Microsoft",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/18/at-ignite-2026-microsoft-reinvents-copilot-as-the-autonomous-engine-of-enterprise-work/",
+    "date": "2026-11-18",
+    "description": "At Ignite 2026, Microsoft repositioned Microsoft 365 Copilot as an autonomous platform for enterprise work, introducing a new Home interface, an Autopilot agent in its Frontier early-access program and a WorkIQ reasoning layer. Microsoft also said it will measure each agent's return on investment by the work it completes.",
+    "score": 8,
+    "scraped_at": "2026-11-18"
+  },
+  {
+    "id": "fa195087e97bdbbf",
+    "title": "Microsoft rolls out new first-party models and updates to agentic AI continuous improvement",
+    "vendor": "Microsoft",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/17/microsoft-rolls-out-new-first-party-models-and-updates-to-agentic-ai-continuous-improvement/",
+    "date": "2026-11-17",
+    "description": "Microsoft made its Decision-1.1 model generally available and expanded its in-house MAI model family, including MAI-Code-2 for demanding agentic coding work. The release also brings updates to tooling for continuously improving deployed agents, part of Microsoft's push to reduce reliance on third-party models.",
+    "score": 7,
+    "scraped_at": "2026-11-18"
+  },
+  {
+    "id": "534361927951e2d9",
+    "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+    "vendor": "Google",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+    "date": "2026-11-17",
+    "description": "Google is widening availability of Gemini Tasks, an agentic feature that can place calls, book appointments and complete purchases on a user's behalf. The capability is now offered free to hundreds of millions of Gemini users, bringing consumer-facing agents to a much larger audience.",
+    "score": 7,
+    "scraped_at": "2026-11-18"
+  },
+  {
+    "id": "583b73dfef74e8be",
+    "title": "Nvidia (NVDA) Q3 2027 earnings report: Live updates",
+    "vendor": "Industry",
+    "source": "cnbc.com",
+    "url": "https://cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+    "date": "2026-11-17",
+    "description": "Nvidia reported quarterly revenue of $115.84 billion against expectations of $109.10 billion in its first earnings report since Jensen Huang's exit. The results came amid a broad sell-off in AI and chip stocks, and Nvidia warned customers that new rules on remote Chinese access to its chips could expose them to legal risk.",
+    "score": 7,
+    "scraped_at": "2026-11-18"
+  },
+  {
+    "id": "8339a30c8d70bc4c",
+    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang's exit",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+    "date": "2026-11-17",
+    "description": "Interim CEO Colette Kress said Nvidia remains committed to its open-source AI strategy following Jensen Huang's departure. The company indicated its pending acquisition of Hugging Face is still on track to close.",
+    "score": 6,
+    "scraped_at": "2026-11-18"
+  },
+  {
+    "id": "c55f92969fc4ef13",
+    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+    "date": "2026-11-17",
+    "description": "Filings show Amazon and Google will jointly hold close to 30% of Anthropic once it goes public, with Amazon expected to own about 14.7%. The stakes underline how deeply the hyperscalers that supply Anthropic's compute are tied to its financial outcome.",
+    "score": 6,
+    "scraped_at": "2026-11-18"
+  },
+  {
+    "id": "d15806557d1d3aa1",
+    "title": "GitHub Copilot weekly releases — November 9",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9/",
+    "date": "2026-11-16",
+    "description": "GitHub's weekly Copilot changelog adds Claude Fable 5.2 and Gemini 4 Carbon as model options for Business and Enterprise plans, with the Claude policy off by default until admins enable it. GitHub also announced the Local harness will be removed in February 2027, as the Copilot harness is already the default.",
+    "score": 5,
+    "scraped_at": "2026-11-18"
+  }
+]
