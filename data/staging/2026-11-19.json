@@ -1,0 +1,90 @@
+[
+  {
+    "id": "0b2301f58d002082",
+    "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+    "vendor": "Anthropic",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+    "date": "2026-11-18",
+    "description": "Anthropic priced its IPO at $83 per share, above the guided $70–$78 range, and upsized the offering to about 980 million shares, raising roughly $81 billion. The pricing values the company at about $1.5 trillion, making it the largest IPO on record. Shares are set to begin trading on Nasdaq under the ticker ANT on November 19.",
+    "score": 9,
+    "scraped_at": "2026-11-19"
+  },
+  {
+    "id": "45b7811cf7adc423",
+    "title": "Google's latest midtier model Gemini 4 Neon is three times faster than Carbon and wins on some metrics",
+    "vendor": "Google",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/18/googles-latest-midtier-model-gemini-4-neon-is-three-times-faster-than-carbon-and-wins-on-some-metrics/",
+    "date": "2026-11-18",
+    "description": "Google released Gemini 4 Neon, a midtier model it says completes most tasks about three times faster than Gemini 4 Carbon at roughly 60% lower cost. Google's own benchmarks show Neon beating Carbon on some tasks, while independent testing by Artificial Analysis placed it slightly behind leading frontier models on its Intelligence Index.",
+    "score": 8,
+    "scraped_at": "2026-11-19"
+  },
+  {
+    "id": "170626d554c3e484",
+    "title": "Ignite 2026: Building the frontier ecosystem",
+    "vendor": "Microsoft",
+    "source": "blogs.microsoft.com",
+    "url": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+    "date": "2026-11-17",
+    "description": "Microsoft's official Ignite 2026 post outlines its agent-centric strategy, positioning Agent 365 as a control plane for enterprise agents alongside Microsoft IQ, Foundry continuous-improvement tooling and partner integrations. The company frames the announcements as building an ecosystem for 'frontier firms' running humans and agents together.",
+    "score": 7,
+    "scraped_at": "2026-11-19"
+  },
+  {
+    "id": "ed7c883b084b5de5",
+    "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
+    "vendor": "Industry",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
+    "date": "2026-11-18",
+    "description": "A U.S. Commerce Department interim rule now requires data centers in Singapore, Malaysia, Thailand and Indonesia to obtain a license to buy advanced AI chips. Analysts say the rule could slow the region's data center buildout, which has relied heavily on demand from Chinese customers.",
+    "score": 7,
+    "scraped_at": "2026-11-19"
+  },
+  {
+    "id": "6ad7e9527d75ef73",
+    "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+    "vendor": "Industry",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+    "date": "2026-11-18",
+    "description": "JPMorgan and Hyundai Card completed a proof-of-concept in which AI agents executed simulated foreign exchange transactions without direct human intervention. The pilot is part of the bank's broader exploration of agent-to-agent payments infrastructure.",
+    "score": 7,
+    "scraped_at": "2026-11-19"
+  },
+  {
+    "id": "b08a917fd46e37fd",
+    "title": "Google upgrades Gemini’s agentic Task mode with new model, e-commerce features",
+    "vendor": "Google",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/18/google-upgrades-geminis-agentic-task-mode-with-new-model-e-commerce-features/",
+    "date": "2026-11-18",
+    "description": "Google moved Gemini's agentic Task mode onto its Gemini 4 Hydrogen model and added new e-commerce capabilities. The feature is now free for users in the U.S., Japan, Korea, Canada, Australia and India.",
+    "score": 6,
+    "scraped_at": "2026-11-19"
+  },
+  {
+    "id": "d83fee4011ac317b",
+    "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+    "date": "2026-11-18",
+    "description": "Speaking at the NYT DealBook Summit, OpenAI's Sam Altman and Greg Brockman said a gradual handover of decision-making to AI systems would be a serious mistake. Brockman also cautioned that chain-of-thought monitoring may become less effective as models grow more capable.",
+    "score": 5,
+    "scraped_at": "2026-11-19"
+  },
+  {
+    "id": "a044ddb257279133",
+    "title": "HPC meets AI agents as Google Cloud targets time to discovery",
+    "vendor": "Google",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/18/hpc-meets-ai-agents-google-cloud-targets-time-discovery-sc26/",
+    "date": "2026-11-18",
+    "description": "At SC26, Google Cloud detailed how it is combining high-performance computing infrastructure with AI agents to shorten scientific research cycles. The pitch targets research institutions and enterprises running simulation-heavy workloads.",
+    "score": 5,
+    "scraped_at": "2026-11-19"
+  }
+]
