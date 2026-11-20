@@ -1,0 +1,101 @@
+[
+  {
+    "id": "987345e2f30bf5e7",
+    "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI",
+    "vendor": "Anthropic",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+    "date": "2026-11-19",
+    "description": "Anthropic began trading on the Nasdaq under the ticker ANT after pricing its record $81 billion IPO at $83 per share. The stock opened at $111.50 and closed at $97.17, about 17% above the offering price, for a fully diluted market value near $1.8 trillion. More than 846 million shares changed hands, surpassing SpaceX's opening-day volume.",
+    "score": 9,
+    "scraped_at": "2026-11-20"
+  },
+  {
+    "id": "74b46c8b5e6ae130",
+    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development",
+    "date": "2026-11-19",
+    "description": "Speaking at Anthropic's Nasdaq listing event, CEO Dario Amodei reaffirmed the company's commitment to pacing frontier AI development. Leaders of OpenAI, Google DeepMind and xAI voiced agreement with the stance, though few concrete commitments have followed.",
+    "score": 7,
+    "scraped_at": "2026-11-20"
+  },
+  {
+    "id": "5a0b5369df94edf0",
+    "title": "Anthropic's blockbuster IPO raises the stakes for its enterprise AI business",
+    "vendor": "Anthropic",
+    "source": "fortune.com",
+    "url": "https://fortune.com/2026/11/19/anthropic-blockbuster-ipo-raises-stakes-enterprise-business-rao-cfo/",
+    "date": "2026-11-19",
+    "description": "Fortune examines how Anthropic's public listing puts new pressure on its enterprise business, which drives most of its revenue. The piece draws on comments from CFO Krishna Rao about growth expectations and the company's position in the enterprise model market.",
+    "score": 6,
+    "scraped_at": "2026-11-20"
+  },
+  {
+    "id": "a0a7d143a41f5677",
+    "title": "Anthropic was supposed to save the AI trade. What went wrong?",
+    "vendor": "Industry",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+    "date": "2026-11-19",
+    "description": "Despite Anthropic's strong debut, broader AI stocks sold off, with the Nasdaq and S&P 500 each falling roughly 2%. CNBC looks at why the listing failed to lift the sector, pointing to pressure on Nvidia following its leadership turmoil and China export issues.",
+    "score": 5,
+    "scraped_at": "2026-11-20"
+  },
+  {
+    "id": "4a23f110bc894b97",
+    "title": "Lawmakers form bipartisan caucus to create meaningful AI safety legislation",
+    "vendor": "Industry",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/19/lawmakers-form-bipartisan-caucus-to-create-meaningful-ai-safety-legislation/",
+    "date": "2026-11-19",
+    "description": "More than two dozen U.S. lawmakers from both parties launched an AI Safety and Innovation Caucus. The group aims to address security risks posed by advanced AI models and work toward substantive federal AI safety legislation.",
+    "score": 7,
+    "scraped_at": "2026-11-20"
+  },
+  {
+    "id": "5a6d2a93d8e5c381",
+    "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+    "vendor": "Industry",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
+    "date": "2026-11-19",
+    "description": "Palo Alto Networks shares rose after the company beat earnings expectations and announced a $4.5 billion deal to acquire AI startup Applied Compute. The acquisition is aimed at helping enterprises secure open-weight models deployed in their environments.",
+    "score": 7,
+    "scraped_at": "2026-11-20"
+  },
+  {
+    "id": "ee20d352f0da08b7",
+    "title": "Meta's AI agent Muse is mixing up conversations and could be exposing private data, report says",
+    "vendor": "Meta",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+    "date": "2026-11-19",
+    "description": "Citing a Reuters report, TechCrunch says Meta employees flagged that the Muse AI agent was mixing up conversations across user accounts. The issue could be exposing private user data, raising privacy concerns about Meta's consumer agent rollout.",
+    "score": 7,
+    "scraped_at": "2026-11-20"
+  },
+  {
+    "id": "8288c457eabd2464",
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "vendor": "Apple",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "date": "2026-11-19",
+    "description": "Based on a Bloomberg report and a job listing, Apple appears to be building an in-house AI agent capable of operating apps, browsing and coding on the Mac. The effort is reportedly in early stages, while Apple also plans macOS 27.3 warnings that make it harder for third-party agents to take full control of Macs.",
+    "score": 7,
+    "scraped_at": "2026-11-20"
+  },
+  {
+    "id": "57e7781a892d4960",
+    "title": "OpenAI's GPT-6.2 Astra and GPT-6.2 Sol now available",
+    "vendor": "OpenAI",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+    "date": "2026-11-17",
+    "description": "GitHub added OpenAI's new GPT-6.2 Astra and GPT-6.2 Sol models to GitHub Copilot. They are available to Copilot Pro+, Max, Business and Enterprise users, with admins controlling access via model policies.",
+    "score": 6,
+    "scraped_at": "2026-11-20"
+  }
+]
