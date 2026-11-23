@@ -1,0 +1,101 @@
+[
+  {
+    "id": "d09fcd6f03b3dcdf",
+    "title": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
+    "vendor": "OpenAI",
+    "source": "bloomberg.com",
+    "url": "https://bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development",
+    "date": "2026-11-22",
+    "description": "OpenAI chief scientist Jakub Pachocki called in a Sunday post for industrywide standards that would set thresholds for advanced AI development. The comments add to a growing debate over voluntary limits among frontier labs as competition intensifies.",
+    "score": 8,
+    "scraped_at": "2026-11-23"
+  },
+  {
+    "id": "9a0d630bdb6c58c9",
+    "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+    "vendor": "Anthropic",
+    "source": "cnbc.com",
+    "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+    "date": "2026-11-21",
+    "description": "Anthropic's record $93.5 billion Nasdaq listing landed in the middle of tech's steepest weekly selloff since 2020. Shares that opened at $111.50 on Thursday closed Friday at $88.91, as investors pulled back from AI-exposed stocks.",
+    "score": 8,
+    "scraped_at": "2026-11-23"
+  },
+  {
+    "id": "94d2d328f63483fc",
+    "title": "Strong Earnings Prove No Match for the Crumbling AI Trade",
+    "vendor": "Industry",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/strong-earnings-prove-no-match-for-the-crumbling-ai-trade",
+    "date": "2026-11-22",
+    "description": "Bloomberg reports that solid corporate earnings failed to stem a broad retreat from AI-linked equities last week. The piece examines how investor sentiment around AI infrastructure spending has shifted despite strong fundamentals.",
+    "score": 6,
+    "scraped_at": "2026-11-23"
+  },
+  {
+    "id": "1fcbc08feb7bb7e7",
+    "title": "Goldman Sachs admits the 'AI unwind' has spiraled into something more dangerous — and it's watching for 3 signs of bottom",
+    "vendor": "Industry",
+    "source": "fortune.com",
+    "url": "https://fortune.com/2026/11/21/goldman-sachs-sp-500-correction-ai-unwind-bottom-three-conditions-hedge-funds-positioning/",
+    "date": "2026-11-21",
+    "description": "Goldman Sachs strategists say the unwinding of crowded AI trades has broadened into a wider S&P 500 correction. The bank outlines three conditions, including hedge fund positioning, it is monitoring for signs the selloff has bottomed.",
+    "score": 5,
+    "scraped_at": "2026-11-23"
+  },
+  {
+    "id": "a22a59d6731e67f6",
+    "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
+    "vendor": "Industry",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
+    "date": "2026-11-22",
+    "description": "Stocks on three tech-focused Chinese indexes have lost a combined $1.7 trillion in market value since the end of June. The rout has prompted regulators in China, Taiwan and South Korea to roll out market-support measures, including easier margin requirements.",
+    "score": 6,
+    "scraped_at": "2026-11-23"
+  },
+  {
+    "id": "c9df2f888445d10b",
+    "title": "China Plans to Strengthen AI Token Standards in Computing Push",
+    "vendor": "Industry",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push",
+    "date": "2026-11-21",
+    "description": "China's National Data Administration will improve standards for measuring and billing AI tokens and for assessing their quality. The move is part of a wider government push to build out and commercialize national computing capacity.",
+    "score": 5,
+    "scraped_at": "2026-11-23"
+  },
+  {
+    "id": "64cd69bf0f74d73a",
+    "title": "Microsoft Says Copilot Is Beating Anthropic, OpenAI on Price",
+    "vendor": "Microsoft",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/microsoft-says-copilot-is-beating-anthropic-openai-on-price",
+    "date": "2026-11-18",
+    "description": "Microsoft argued at Ignite that its first-party MAI models let Copilot undercut Anthropic and OpenAI on cost for enterprise workloads. Some of the claimed pricing advantages reflect promotional discounts, and performance claims rest on selected benchmarks.",
+    "score": 6,
+    "scraped_at": "2026-11-23"
+  },
+  {
+    "id": "b41bb07cb29e4cfa",
+    "title": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models/",
+    "date": "2026-11-17",
+    "description": "GitHub expanded Copilot Fusion, its automatic model-routing option, to more surfaces and added new models to the pool. The changelog also publishes GitHub's own benchmark results for the feature, which have not been independently verified.",
+    "score": 5,
+    "scraped_at": "2026-11-23"
+  },
+  {
+    "id": "a08ef45e97d93a60",
+    "title": "Welcome to the singularity",
+    "vendor": "Industry",
+    "source": "fortune.com",
+    "url": "https://fortune.com/2026/11/21/ai-singularity-stripe-elon-musk-sam-altman-ai-agents-superintelligence-future-of-business/",
+    "date": "2026-11-21",
+    "description": "Fortune examines claims from tech leaders including Elon Musk, Sam Altman and Stripe's founders that AI agents are ushering in a period of rapid, compounding change. The essay weighs what an agent-driven economy could mean for how businesses operate.",
+    "score": 4,
+    "scraped_at": "2026-11-23"
+  }
+]
