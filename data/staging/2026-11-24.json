@@ -1,0 +1,79 @@
+[
+  {
+    "id": "a72cc3aa1f3d17c0",
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "date": "2026-11-23",
+    "description": "Anthropic launched Claude Ship, a set of agents that automate the final stage of the software pipeline: Code Review (generally available), PR Steward and Claude Approvals (both in beta). Approvals can sign off on changes under policies teams write in natural language, and Anthropic recommends starting in observe-only mode. It is rolling out to Claude Team and Enterprise plans for GitHub repositories.",
+    "score": 9,
+    "scraped_at": "2026-11-24"
+  },
+  {
+    "id": "fdc3dceb712cac1f",
+    "title": "Cisco and OpenAI launch Shirudo open-source infrastructure shield to prevent AI-driven cyberattacks",
+    "vendor": "OpenAI",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/23/cisco-and-openai-launch-shirudo-an-open-source-infrastructure-shield-to-protect-against-ai-driven-cyberattacks",
+    "date": "2026-11-23",
+    "description": "Cisco and OpenAI unveiled Shirudo, an open-source project designed to defend infrastructure against AI-driven attacks. It is the first project under the companies' Secure Infrastructure Project and builds on the Tetragon runtime security project.",
+    "score": 7,
+    "scraped_at": "2026-11-24"
+  },
+  {
+    "id": "38c0e21872f5caf6",
+    "title": "AI agent provider Sierra closes $1.75B investment amid rapid revenue growth",
+    "vendor": "Industry",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/23/ai-agent-provider-sierra-closes-1-75b-investment-amid-rapid-revenue-growth/",
+    "date": "2026-11-23",
+    "description": "Customer-service AI agent company Sierra closed a $1.75 billion Series F round led by Greenoaks and Lightspeed, reportedly at a $30 billion valuation. The raise comes amid rapid revenue growth for enterprise agent deployments.",
+    "score": 7,
+    "scraped_at": "2026-11-24"
+  },
+  {
+    "id": "87b8d899058a6670",
+    "title": "Amazon acquires key assets of AI startup Decart for reported $7.5B",
+    "vendor": "Industry",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/23/amazon-acquires-key-assets-of-ai-startup-decart-for-reported-7-5b/",
+    "date": "2026-11-23",
+    "description": "Amazon will hire AI startup Decart's technical staff and acquire its core technology. Amazon did not disclose terms, but sources told Bloomberg the deal is worth about $7.5 billion.",
+    "score": 7,
+    "scraped_at": "2026-11-24"
+  },
+  {
+    "id": "2272af2ceb38573a",
+    "title": "Meta AI chief Alexandr Wang warns ‘superintelligence is arriving’ as the Nasdaq erases its 2026 gain",
+    "vendor": "Meta",
+    "source": "fortune.com",
+    "url": "https://fortune.com/2026/11/23/alexandr-wang-meta-superintelligence-arriving-riemann-hypothesis-nasdaq-ai-selloff/",
+    "date": "2026-11-23",
+    "description": "Meta's AI chief Alexandr Wang said superintelligence is arriving, even as the Nasdaq erased its 2026 gains amid a broad AI stock selloff. Fortune frames the remarks against investor doubts over the returns on AI spending.",
+    "score": 5,
+    "scraped_at": "2026-11-24"
+  },
+  {
+    "id": "de1a299348ffc0d1",
+    "title": "Maintainers don't need more AI bug reports. They need fixes.",
+    "vendor": "Microsoft",
+    "source": "github.blog",
+    "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+    "date": "2026-11-17",
+    "description": "GitHub and Microsoft piloted Microsoft's Codename MDASH AI scanner on six widely used open source projects, with an AI triage agent and Microsoft FORGE Lab researchers verifying findings. Maintainers received 99 private reports, each with a suggested fix, and had fixed 55 of them by November 15, with 14 already shipped in releases.",
+    "score": 6,
+    "scraped_at": "2026-11-24"
+  },
+  {
+    "id": "7c34bdad94f07b4a",
+    "title": "After the Palisades fire, a founder built AI to help survivors with paperwork. Now he needs a state to buy it",
+    "vendor": "Industry",
+    "source": "fortune.com",
+    "url": "https://fortune.com/2026/11/23/aidfinder-ai-disaster-recovery-palisades-fire-nostrant/",
+    "date": "2026-11-23",
+    "description": "Fortune profiles AidFinder, an AI tool built after the Palisades fire to help disaster survivors navigate recovery paperwork. The founder is now seeking a state government customer to deploy it at scale.",
+    "score": 4,
+    "scraped_at": "2026-11-24"
+  }
+]
