@@ -1,0 +1,79 @@
+[
+  {
+    "id": "d9615c8c024ea5a2",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "date": "2026-11-24",
+    "description": "OpenAI reports that its GPT-6 family can design novel protein structures and sequences using only reasoning and code, without specialized biology models. An internal research model matched or outperformed specialized tools such as RFdiffusion on many design tasks, and wet-lab tests found evidence of binding across five targets. The results are self-reported and tracked under OpenAI's biological-capability safety evaluations.",
+    "score": 8,
+    "scraped_at": "2026-11-25"
+  },
+  {
+    "id": "b68502d162ee9e06",
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "date": "2026-11-24",
+    "description": "Anthropic's stock traded as low as $76 on Tuesday, below its $83 IPO price and down nearly 12% from Monday's close. Shares have slid steadily since opening at $111.50 on the Nasdaq last Thursday, after the company raised $81.3 billion in the largest offering on record. The decline is being read as a signal for investor appetite toward other AI startups.",
+    "score": 7,
+    "scraped_at": "2026-11-25"
+  },
+  {
+    "id": "958d1c6e8fd8f3f8",
+    "title": "Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps",
+    "vendor": "Anthropic",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps",
+    "date": "2026-11-24",
+    "description": "Anthropic introduced an \"Install as App\" feature that turns Claude artifacts into installable desktop applications. The feature is in beta for Claude subscribers, excluding HIPAA-compliant organizations and hybrid deployments. It pushes Claude further toward generating bespoke software that replaces off-the-shelf desktop tools.",
+    "score": 7,
+    "scraped_at": "2026-11-25"
+  },
+  {
+    "id": "96d4c248605e39cf",
+    "title": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release",
+    "vendor": "Industry",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/24/staff-at-anthropic-and-open-ai-sound-alarm-on-advanced-models-too-powerful-to-release/",
+    "date": "2026-11-24",
+    "description": "Citing an Axios report, SiliconANGLE says employees at Anthropic and OpenAI have been pushing back on executives over advanced models whose capabilities could pose dangers if released. The internal tension comes as California has filed a lawsuit calling OpenAI a public nuisance. The story highlights growing friction between safety staff and commercial pressure at frontier labs.",
+    "score": 6,
+    "scraped_at": "2026-11-25"
+  },
+  {
+    "id": "b0f646dfac9a0a0a",
+    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+    "vendor": "Meta",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
+    "date": "2026-11-24",
+    "description": "Meta announced that Instagram users can now chat with its Muse AI agent directly inside a DM thread. The integration brings Meta's assistant into one of its most-used messaging surfaces. It continues Meta's push to embed AI across its family of apps.",
+    "score": 6,
+    "scraped_at": "2026-11-25"
+  },
+  {
+    "id": "0463dbbd617d6708",
+    "title": "Zipher lands $53M to put AI agents, not data engineers, in charge of data workloads",
+    "vendor": "Industry",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/24/zipher-lands-53m-to-put-ai-agents-not-data-engineers-in-charge-of-data-workloads/",
+    "date": "2026-11-24",
+    "description": "Zipher Technologies raised $53 million for a data-infrastructure platform in which AI agents decide how data workloads are run. Customers set performance targets and budgets, and the agents handle tuning and execution. The round reflects investor interest in agents taking over operational engineering work.",
+    "score": 5,
+    "scraped_at": "2026-11-25"
+  },
+  {
+    "id": "2b7b53827da17919",
+    "title": "AWS is making AI agents more decisive and secure with its latest Strands updates",
+    "vendor": "Industry",
+    "source": "siliconangle.com",
+    "url": "https://siliconangle.com/2026/11/23/aws-is-making-ai-agents-more-decisive-and-secure-with-its-latest-strands-updates/",
+    "date": "2026-11-23",
+    "description": "AWS updated its open-source Strands Agents framework with Strands Decider v2 models and a Box CLI integration. The Decider v2 models are released under an Apache 2.0 license and aim to make agent decision-making more reliable and secure. The update targets enterprises moving agent workloads from pilots into production.",
+    "score": 5,
+    "scraped_at": "2026-11-25"
+  }
+]
