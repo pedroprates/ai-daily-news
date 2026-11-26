@@ -1,0 +1,79 @@
+[
+  {
+    "id": "69fbec9981f84b43",
+    "title": "Migrating our Messages API to Rust",
+    "vendor": "Anthropic",
+    "source": "anthropic.com",
+    "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+    "date": "2026-11-25",
+    "description": "Anthropic moved its Messages API, the main way customers and its own apps reach Claude, from Python to Rust. Because the Python service kept changing during the migration, the team used production traffic as the reference and had Claude agents fix the output differences they found at each step. The Rust service uses about 70% less CPU per request, cuts median time to first token by about 20%, and was rolled out without downtime.",
+    "score": 7,
+    "scraped_at": "2026-11-26"
+  },
+  {
+    "id": "78551721fa649370",
+    "title": "Searching for distant planets with Astra",
+    "vendor": "OpenAI",
+    "source": "openai.com",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra/",
+    "date": "2026-11-24",
+    "description": "OpenAI profiled two amateur astronomers who used Codex and its Astra model to search public Kepler and TESS telescope data for dips in starlight that could signal orbiting planets. One search found two stars whose signals an independent SETI Institute astronomer also detected, and the other produced 49 initial candidates. None is confirmed yet: confirming a planet requires ruling out other causes and gathering more evidence.",
+    "score": 6,
+    "scraped_at": "2026-11-26"
+  },
+  {
+    "id": "fb19c642f1b75584",
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "vendor": "OpenAI",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "date": "2026-11-25",
+    "description": "OpenAI is combining the usage limits for ChatGPT's Chat and Work experiences into a single shared allowance. The company warned that heavy users who work across both modes may reach their limits sooner than before.",
+    "score": 6,
+    "scraped_at": "2026-11-26"
+  },
+  {
+    "id": "b4fddd7d3c17c325",
+    "title": "Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd'",
+    "vendor": "Anthropic",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "date": "2026-11-25",
+    "description": "Anthropic CEO Dario Amodei rejected an Axios report that suggested he favors handing decision-making to AI systems. He said humans should never surrender their free will to AI. The exchange follows reporting that staff at Anthropic and OpenAI are worried about unreleased frontier models.",
+    "score": 6,
+    "scraped_at": "2026-11-26"
+  },
+  {
+    "id": "a18f6caa7fc18d5b",
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "vendor": "Meta",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "date": "2026-11-24",
+    "description": "Walmart is partnering with Meta to bring its Black Friday deals to Muse, Meta's AI shopping agent. The deal is an early retail test of agent-driven shopping inside Meta's apps, coming the same week Muse arrived in Instagram DMs.",
+    "score": 6,
+    "scraped_at": "2026-11-26"
+  },
+  {
+    "id": "ca958222a09d0287",
+    "title": "Anthropic Expands in Zurich, Moving to Tap City's AI Talent Pool",
+    "vendor": "Anthropic",
+    "source": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-expands-in-zurich-moving-to-tap-city-s-ai-talent-pool",
+    "date": "2026-11-25",
+    "description": "Anthropic is moving into a larger office in Zurich to grow its European engineering and research presence. The city's AI talent pool, built up around ETH Zurich and big-tech research labs, is the main draw.",
+    "score": 5,
+    "scraped_at": "2026-11-26"
+  },
+  {
+    "id": "022f717aafc7a3a3",
+    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+    "vendor": "Industry",
+    "source": "techcrunch.com",
+    "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+    "date": "2026-11-24",
+    "description": "Music streaming service Tidal plans to remove millions of fully AI-generated tracks from its catalog and ban new uploads of them. It will still accept AI-assisted music. The move reflects growing pressure on streaming platforms over low-quality AI content.",
+    "score": 5,
+    "scraped_at": "2026-11-26"
+  }
+]
