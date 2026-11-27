@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T07:42:38.620590+00:00",
+  "updated_at": "2026-11-27T07:43:04.904658+00:00",
   "articles": [
     {
       "id": "5df700a9f389ee77",
@@ -7657,6 +7657,94 @@
       "description": "Music streaming service Tidal plans to remove millions of fully AI-generated tracks from its catalog and ban new uploads of them. It will still accept AI-assisted music. The move reflects growing pressure on streaming platforms over low-quality AI content.",
       "score": 5,
       "scraped_at": "2026-11-26"
+    },
+    {
+      "id": "cecacbdc275020c7",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "date": "2026-11-25",
+      "description": "The FCC authorized SpaceX to deploy up to 1 million Starmind satellites designed to operate as solar-powered orbital data centers for AI workloads. The license is conditional on a deployment schedule that requires the first satellite in operation by 2033 and the full constellation by 2040. Petitions from Amazon, Viasat and the American Astronomical Society to deny the application were rejected.",
+      "score": 7,
+      "scraped_at": "2026-11-27"
+    },
+    {
+      "id": "8b23f29d590b586f",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "vendor": "Industry",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "date": "2026-11-25",
+      "description": "New York Governor Kathy Hochul signed a five-year ban on toys with embedded or integrated AI chatbots, such as internet-connected talking stuffed animals, dolls and robots. New York is the second state after California to ban AI toys. The law takes effect 90 days after signing, with enforcement expected through the attorney general's office.",
+      "score": 7,
+      "scraped_at": "2026-11-27"
+    },
+    {
+      "id": "0f5d437dd39123c8",
+      "title": "SAP reportedly plans to lay off 10,000+ employees amid AI push",
+      "vendor": "Industry",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/11/26/sap-reportedly-plans-to-lay-off-10000-employees-amid-ai-push/",
+      "date": "2026-11-26",
+      "description": "Citing Bloomberg, SiliconANGLE reports that SAP may cut at least 10,000 jobs, more than 9% of its workforce, as it reorients around AI. Product, engineering and sales are expected to be hit hardest, with cuts likely concentrated outside Germany due to an employment guarantee running through 2028. The move follows a strong quarter with a EUR 24.11 billion cloud backlog.",
+      "score": 7,
+      "scraped_at": "2026-11-27"
+    },
+    {
+      "id": "68265f069ee1fc9d",
+      "title": "Report sheds light on China ties of some US-based Nvidia partners",
+      "vendor": "Industry",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/11/26/report-sheds-light-on-china-ties-of-some-us-based-nvidia-partners/",
+      "date": "2026-11-26",
+      "description": "An analysis by nonprofit C4ADS, published by CBS News, found that several US-based Nvidia partners have ties to Chinese companies. Findings include Nvidia preferred partner RiCloud AI being a unit of Shenzhen-based Yuxing InfoTech and Inspur subsidiary Aivres exporting $3 billion in Nvidia-powered servers to Southeast Asia since 2024. The report adds to scrutiny over AI chip export controls.",
+      "score": 6,
+      "scraped_at": "2026-11-27"
+    },
+    {
+      "id": "200500ab1a29b996",
+      "title": "Voice AI startup ElevenLabs reportedly seeking new funding at $33B valuation",
+      "vendor": "Industry",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/",
+      "date": "2026-11-25",
+      "description": "ElevenLabs is reportedly in talks to raise new funding at a $33 billion valuation, up from $22 billion in its most recent round. The size of the planned raise was not disclosed. The talks reflect continued investor appetite for voice AI platforms.",
+      "score": 6,
+      "scraped_at": "2026-11-27"
+    },
+    {
+      "id": "6b2f64a6617d03b6",
+      "title": "India's government ponders cradle to grave AI oversight",
+      "vendor": "Industry",
+      "source": "theregister.com",
+      "url": "https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275",
+      "date": "2026-11-26",
+      "description": "Prime Minister Narendra Modi proposed an AI app that would collect data on children from around age three to assess aptitude and guide their studies and careers. Separately, Uttar Pradesh has sought bidders for an 'AI Stack' linking agency data through a household Family ID across about a dozen AI use cases. The plans raise questions about state-scale data collection and AI governance.",
+      "score": 5,
+      "scraped_at": "2026-11-27"
+    },
+    {
+      "id": "e3d2a9c52ce43e5f",
+      "title": "This 170-year historical study says 'major market collapse' is coming",
+      "vendor": "Industry",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/27/ai-bubble-burst-market-study.html",
+      "date": "2026-11-27",
+      "description": "Researchers from London Business School and the University of Cambridge used language models to analyze nearly 796,000 Economist articles from 1843 to 2013, building a bubble index across 22 historical bubbles. They estimated up to a 97% chance of an AI-driven bubble as of September 2026 and found higher index readings preceded weaker Nasdaq returns. The authors note the financial press has historically overstated crash odds.",
+      "score": 5,
+      "scraped_at": "2026-11-27"
+    },
+    {
+      "id": "8b81d651e1dd12be",
+      "title": "AI infrastructure stocks continue their slide, but Anthropic closes higher",
+      "vendor": "Anthropic",
+      "source": "siliconangle.com",
+      "url": "https://siliconangle.com/2026/11/25/ai-infrastructure-stocks-continue-their-slide-but-anthropic-closes-higher/",
+      "date": "2026-11-25",
+      "description": "AI infrastructure stocks extended their recent decline in trading on November 25. Anthropic shares closed higher against the trend, following a period in which the stock had fallen below its IPO price. The divergence highlights shifting investor sentiment across the AI supply chain.",
+      "score": 5,
+      "scraped_at": "2026-11-27"
     }
   ]
 }
